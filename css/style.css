@@ -1,6 +1,6 @@
-/* ===========================
-   ESTILOS GENERALES
-=========================== */
+/* ====================================
+   RESET
+==================================== */
 
 * {
     margin: 0;
@@ -8,84 +8,112 @@
     box-sizing: border-box;
 }
 
+/* ====================================
+   BODY
+==================================== */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #f4f6f9;
+    background: #eef2f7;
     color: #333;
 }
 
-/* ===========================
+/* ====================================
    ENCABEZADO
-=========================== */
+==================================== */
 
 .encabezado {
-    background: #0d6efd;
+    background: linear-gradient(135deg, #0d6efd, #3b82f6);
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 25px;
 }
 
 .encabezado h1 {
     margin-bottom: 8px;
 }
 
-/* ===========================
-   CONTENEDOR PRINCIPAL
-=========================== */
+/* ====================================
+   CONTENEDOR
+==================================== */
 
 .contenedor-chat {
     width: 90%;
-    max-width: 900px;
+    max-width: 950px;
     margin: 30px auto;
 }
 
-/* ===========================
-   MENSAJES
-=========================== */
+/* ====================================
+   ÁREA DE MENSAJES
+==================================== */
 
 .mensajes {
     background: white;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 20px;
-    min-height: 400px;
-    box-shadow: 0 2px 10px rgba(0,0,0,.1);
+    height: 500px;
+    overflow-y: auto;
+    box-shadow: 0 8px 20px rgba(0,0,0,.08);
 }
+
+/* ====================================
+   MENSAJES
+==================================== */
 
 .mensaje {
-    background: #e9ecef;
-    padding: 12px;
-    border-radius: 8px;
+    padding: 14px 18px;
+    border-radius: 15px;
     margin-bottom: 15px;
-    max-width: 80%;
+    max-width: 75%;
+    line-height: 1.5;
 }
 
-/* ===========================
-   ÁREA DE ESCRITURA
-=========================== */
+.bot {
+    background: #e7f1ff;
+    border-left: 5px solid #0d6efd;
+}
+
+.usuario {
+    background: #d1ffd6;
+    margin-left: auto;
+    border-right: 5px solid #198754;
+}
+
+/* ====================================
+   ENTRADA
+==================================== */
 
 .entrada {
     display: flex;
-    margin-top: 20px;
     gap: 10px;
+    margin-top: 20px;
 }
 
 .entrada input {
     flex: 1;
-    padding: 12px;
+    padding: 14px;
     font-size: 16px;
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.entrada input:focus {
+    border-color: #0d6efd;
 }
 
 .entrada button {
     background: #0d6efd;
     color: white;
     border: none;
-    padding: 12px 20px;
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 14px 24px;
+    font-size: 16px;
     cursor: pointer;
+    transition: .3s;
 }
 
 .entrada button:hover {
     background: #0b5ed7;
+    transform: scale(1.05);
 }
