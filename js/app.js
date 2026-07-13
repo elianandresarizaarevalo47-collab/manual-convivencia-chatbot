@@ -1,5 +1,5 @@
 // ===================================
-// CHATBOT v0.4
+// CHATBOT v0.5
 // ===================================
 
 // Elementos del HTML
@@ -59,12 +59,12 @@ function responderBot(textoUsuario) {
     // Si no encuentra respuesta
     if (respuesta === "") {
 
-        respuesta = "Todavía estoy aprendiendo. Pronto tendré más información del Manual de Convivencia. 🤖";
+        respuesta = "No encontré información sobre ese tema. 🤖 Recuerda que soy un asistente del Manual de Convivencia y puedo ayudarte con normas, derechos, deberes y convivencia escolar.";
 
     }
 
 
-    // Simular que el bot piensa
+    // Respuesta del bot
     setTimeout(function () {
 
         agregarMensaje(respuesta, "bot");
@@ -89,9 +89,7 @@ function enviarMensaje() {
 
     agregarMensaje(texto, "usuario");
 
-
     cajaTexto.value = "";
-
 
     responderBot(texto);
 
@@ -102,11 +100,9 @@ function enviarMensaje() {
 // Eventos
 // ===============================
 
-// Botón enviar
 botonEnviar.addEventListener("click", enviarMensaje);
 
 
-// Presionar Enter
 cajaTexto.addEventListener("keydown", function (evento) {
 
     if (evento.key === "Enter") {
