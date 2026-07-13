@@ -1,0 +1,91 @@
+/* ===========================
+   ESTILOS GENERALES
+=========================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f6f9;
+    color: #333;
+}
+
+/* ===========================
+   ENCABEZADO
+=========================== */
+
+.encabezado {
+    background: #0d6efd;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.encabezado h1 {
+    margin-bottom: 8px;
+}
+
+/* ===========================
+   CONTENEDOR PRINCIPAL
+=========================== */
+
+.contenedor-chat {
+    width: 90%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+/* ===========================
+   MENSAJES
+=========================== */
+
+.mensajes {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 400px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.1);
+}
+
+.mensaje {
+    background: #e9ecef;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    max-width: 80%;
+}
+
+/* ===========================
+   ÁREA DE ESCRITURA
+=========================== */
+
+.entrada {
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.entrada input {
+    flex: 1;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.entrada button {
+    background: #0d6efd;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.entrada button:hover {
+    background: #0b5ed7;
+}
