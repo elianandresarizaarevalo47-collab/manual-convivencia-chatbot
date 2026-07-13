@@ -1,11 +1,12 @@
 // ===================================
-// CHATBOT v0.3
+// CHATBOT v0.4
 // ===================================
 
 // Elementos del HTML
 const botonEnviar = document.getElementById("enviar");
 const cajaTexto = document.getElementById("pregunta");
 const areaMensajes = document.getElementById("mensajes");
+
 
 // ===============================
 // Agregar mensaje al chat
@@ -23,8 +24,9 @@ function agregarMensaje(texto, tipo) {
     areaMensajes.scrollTop = areaMensajes.scrollHeight;
 }
 
+
 // ===============================
-// Respuesta de prueba
+// Buscar respuesta del chatbot
 // ===============================
 function responderBot(textoUsuario) {
 
@@ -32,24 +34,37 @@ function responderBot(textoUsuario) {
 
     let respuesta = "";
 
-    if (pregunta.includes("hola")) {
 
-        respuesta = "¡Hola! 😊 ¿En qué puedo ayudarte con el Manual de Convivencia?";
+    // Buscar en respuestas.js
+    for (let dato of conocimiento) {
 
-    } else if (pregunta.includes("nombre")) {
+        for (let palabra of dato.palabras) {
 
-        respuesta = "Soy el chatbot del Manual de Convivencia.";
+            if (pregunta.includes(palabra)) {
 
-    } else if (pregunta.includes("gracias")) {
+                respuesta = dato.respuesta;
+                break;
 
-        respuesta = "¡Con mucho gusto! 😄";
+            }
 
-    } else {
+        }
 
-        respuesta = "Todavía estoy aprendiendo. Muy pronto responderé utilizando Gemini IA.";
+        if (respuesta !== "") {
+            break;
+        }
+
     }
 
-    // Esperar 1 segundo para responder
+
+    // Si no encuentra respuesta
+    if (respuesta === "") {
+
+        respuesta = "Todavía estoy aprendiendo. Pronto tendré más información del Manual de Convivencia. 🤖";
+
+    }
+
+
+    // Simular que el bot piensa
     setTimeout(function () {
 
         agregarMensaje(respuesta, "bot");
@@ -58,6 +73,7 @@ function responderBot(textoUsuario) {
 
 }
 
+
 // ===============================
 // Enviar mensaje
 // ===============================
@@ -65,22 +81,32 @@ function enviarMensaje() {
 
     const texto = cajaTexto.value.trim();
 
+
     if (texto === "") {
         return;
     }
 
+
     agregarMensaje(texto, "usuario");
 
+
     cajaTexto.value = "";
+
 
     responderBot(texto);
 
 }
 
-// Botón
+
+// ===============================
+// Eventos
+// ===============================
+
+// Botón enviar
 botonEnviar.addEventListener("click", enviarMensaje);
 
-// Tecla Enter
+
+// Presionar Enter
 cajaTexto.addEventListener("keydown", function (evento) {
 
     if (evento.key === "Enter") {
