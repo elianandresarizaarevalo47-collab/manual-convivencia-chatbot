@@ -54,17 +54,39 @@ El Consejo Directivo, en uso de las facultades legales contempladas en el artíc
     },
 
     {
-        titulo: "Artículo 2. AMBITO DE APLICACIÓN",
-        palabras: [
-            "artículo 2",
-            "articulo 2",
-            "normas del manual",
-            "manual de convivencia",
-            "aplicación en el manual"
-        ],
-        contenido: `Artículo 2. Adopción del Manual de Convivencia. La Institución Educativa Delicias San Carlos de El Copey – Cesar adopta oficialmente el presente Manual de Convivencia como el conjunto de normas, principios, derechos, deberes, procedimientos y disposiciones que regulan la convivencia escolar y orientan el desarrollo de la comunidad educativa, de conformidad con la legislación vigente.`
-    },
-   
+    titulo: "Artículo 2. Ámbito de aplicación",
+    palabras: [
+        "artículo 2",
+        "articulo 2",
+        "ámbito de aplicación",
+        "ambito de aplicacion",
+        "a quién aplica",
+        "a quienes aplica",
+        "quienes deben cumplir",
+        "aplicación del manual",
+        "preescolar",
+        "media",
+        "comunidad educativa"
+    ],
+    contenido: `Artículo 2. Ámbito de aplicación. Las normas contenidas en el Manual de Convivencia se aplican dentro del proceso de formación integral que desarrolla la Institución Educativa Delicias San Carlos de El Copey con sus estudiantes desde el nivel Preescolar hasta la Media y demás miembros de la comunidad educativa.`
+},
+{
+    titulo: "Artículo 3. Justificación",
+    palabras: [
+        "artículo 3",
+        "articulo 3",
+        "justificación",
+        "justificacion",
+        "formación en ciudadanía",
+        "formacion en ciudadania",
+        "instrumento legal interno",
+        "participación de la comunidad educativa",
+        "participacion de la comunidad educativa"
+    ],
+    contenido: `Artículo 3. Justificación. Teniendo en cuenta el marco jurídico, socioeconómico, cultural y político del contexto de la Institución Educativa, se establece el presente Manual de Convivencia como instrumento legal interno, producto de la participación de la comunidad educativa, con el fin de promover y desarrollar la formación en ciudadanía.`
+}
+
+
 ]; 
 
 // ===================================
