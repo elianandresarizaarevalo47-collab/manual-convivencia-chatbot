@@ -1,15 +1,15 @@
 // ===================================
-// CHATBOT v0.5
+// CHATBOT DEL MANUAL
+// Versión 1.0
 // ===================================
 
-// Elementos del HTML
+// Elementos
 const botonEnviar = document.getElementById("enviar");
 const cajaTexto = document.getElementById("pregunta");
 const areaMensajes = document.getElementById("mensajes");
 
-
 // ===============================
-// Agregar mensaje al chat
+// Mostrar mensajes
 // ===============================
 function agregarMensaje(texto, tipo) {
 
@@ -22,70 +22,68 @@ function agregarMensaje(texto, tipo) {
     areaMensajes.appendChild(mensaje);
 
     areaMensajes.scrollTop = areaMensajes.scrollHeight;
+
 }
 
-
 // ===============================
-// Buscar respuesta del chatbot
+// Responder
 // ===============================
 function responderBot(textoUsuario) {
 
-    const pregunta = textoUsuario.toLowerCase();
+    const resultado = buscarEnManual(textoUsuario);
 
     let respuesta = "";
 
+    if (resultado) {
 
-    // Buscar en respuestas.js
-    for (let dato of conocimiento) {
+        respuesta = resultado.contenido;
 
-        for (let palabra of dato.palabras) {
+    } else {
 
-            if (pregunta.includes(palabra)) {
+        // Respaldo temporal
+        const pregunta = textoUsuario.toLowerCase();
 
-                respuesta = dato.respuesta;
-                break;
+        for (const dato of conocimiento) {
+
+            for (const palabra of dato.palabras) {
+
+                if (pregunta.includes(palabra)) {
+
+                    respuesta = dato.respuesta;
+                    break;
+
+                }
 
             }
 
-        }
+            if (respuesta !== "") break;
 
-        if (respuesta !== "") {
-            break;
         }
 
     }
 
-
-    // Si no encuentra respuesta
     if (respuesta === "") {
 
-        respuesta = "No encontré información sobre ese tema. 🤖 Recuerda que soy un asistente del Manual de Convivencia y puedo ayudarte con normas, derechos, deberes y convivencia escolar.";
+        respuesta = "No encontré información en el Manual de Convivencia.";
 
     }
 
-
-    // Respuesta del bot
-    setTimeout(function () {
+    setTimeout(() => {
 
         agregarMensaje(respuesta, "bot");
 
-    }, 1000);
+    }, 500);
 
 }
 
-
 // ===============================
-// Enviar mensaje
+// Enviar
 // ===============================
 function enviarMensaje() {
 
     const texto = cajaTexto.value.trim();
 
-
-    if (texto === "") {
-        return;
-    }
-
+    if (texto === "") return;
 
     agregarMensaje(texto, "usuario");
 
@@ -95,17 +93,12 @@ function enviarMensaje() {
 
 }
 
-
-// ===============================
 // Eventos
-// ===============================
-
 botonEnviar.addEventListener("click", enviarMensaje);
 
+cajaTexto.addEventListener("keydown", (e) => {
 
-cajaTexto.addEventListener("keydown", function (evento) {
-
-    if (evento.key === "Enter") {
+    if (e.key === "Enter") {
 
         enviarMensaje();
 

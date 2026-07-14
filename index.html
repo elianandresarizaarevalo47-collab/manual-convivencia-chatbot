@@ -2,43 +2,90 @@
 <html lang="es">
 
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Chatbot del Manual de Convivencia</title>
 
-    <!-- Hoja de estilos -->
+    <!-- Estilos -->
     <link rel="stylesheet" href="css/style.css">
+
 </head>
 
 <body>
 
-    <!-- Encabezado -->
+    <!-- ================================= -->
+    <!-- ENCABEZADO -->
+    <!-- ================================= -->
+
     <header class="encabezado">
+
         <h1>🤖 Chatbot del Manual de Convivencia</h1>
-        <p>Institución Educativa Delicias San Carlos</p>
+
+        <p>
+            Institución Educativa Delicias San Carlos
+        </p>
+
     </header>
 
-    <!-- Contenedor principal -->
+
+    <!-- ================================= -->
+    <!-- CHAT -->
+    <!-- ================================= -->
+
     <main class="contenedor-chat">
 
-        <!-- Área de mensajes -->
-        <section class="mensajes" id="mensajes">
+        <!-- Mensajes -->
+
+        <section
+            class="mensajes"
+            id="mensajes">
+
             <div class="mensaje bot">
-                ¡Hola! 👋 Soy tu asistente virtual.
-                Pregúntame sobre el Manual de Convivencia.
+
+                👋 ¡Hola!
+
+                Soy el asistente virtual del
+                <strong>Manual de Convivencia</strong>.
+
+                Puedes preguntarme sobre:
+
+                • Derechos
+                • Deberes
+                • Uniforme
+                • Horarios
+                • Faltas
+                • Gobierno Escolar
+                • Convivencia
+                • Debido proceso
+                • Y cualquier otro tema del Manual.
+
             </div>
+
         </section>
 
-        <!-- Área para escribir -->
+
+        <!-- Entrada -->
+
         <section class="entrada">
 
             <input
+
                 type="text"
+
                 id="pregunta"
-                placeholder="Escribe tu pregunta...">
+
+                placeholder="Escribe tu pregunta..."
+
+                autocomplete="off"
+
+            >
 
             <button id="enviar">
+
                 Enviar
+
             </button>
 
         </section>
@@ -46,13 +93,33 @@
     </main>
 
 
-    <!-- JavaScript -->
-    <!-- Primero carga la memoria del chatbot -->
+    <!-- ================================= -->
+    <!-- BASE DE CONOCIMIENTO -->
+    <!-- ================================= -->
+
+    <script src="datos/manual.js"></script>
+
+
+    <!-- ================================= -->
+    <!-- BUSCADOR -->
+    <!-- ================================= -->
+
+    <script src="js/buscador.js"></script>
+
+
+    <!-- ================================= -->
+    <!-- RESPUESTAS TEMPORALES -->
+    <!-- (Se eliminarán más adelante)
+    <!-- ================================= -->
+
     <script src="js/respuestas.js"></script>
 
-    <!-- Después carga el funcionamiento del chatbot -->
-    <script src="js/app.js"></script>
 
+    <!-- ================================= -->
+    <!-- LÓGICA PRINCIPAL -->
+    <!-- ================================= -->
+
+    <script src="js/app.js"></script>
 
 </body>
 
