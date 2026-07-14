@@ -1,27 +1,49 @@
 // ===================================
 // BUSCADOR DEL MANUAL
-// Versión 1.0
+// Versión 2.0
 // ===================================
 
-function buscarEnManual(pregunta) {
+// Base temporal
+const manualConvivencia = [
 
-    // Aún no hay información cargada
-    if (!Array.isArray(manualConvivencia)) {
-        return null;
+    {
+        titulo: "Derechos",
+        palabras: [
+            "derechos",
+            "derecho"
+        ],
+        contenido:
+        "Los estudiantes tienen derecho a recibir una educación integral, ser respetados y participar en la vida escolar."
+    },
+
+    {
+        titulo: "Deberes",
+        palabras: [
+            "deberes",
+            "deber",
+            "responsabilidades"
+        ],
+        contenido:
+        "Los estudiantes deben respetar a toda la comunidad educativa, cumplir las normas institucionales y cuidar los bienes de la institución."
     }
 
-    const texto = pregunta.toLowerCase();
+];
+
+// ===============================
+// Buscar en el Manual
+// ===============================
+function buscarEnManual(pregunta) {
+
+    pregunta = pregunta.toLowerCase();
 
     for (const seccion of manualConvivencia) {
 
-        if (!seccion.palabras) {
-            continue;
-        }
-
         for (const palabra of seccion.palabras) {
 
-            if (texto.includes(palabra.toLowerCase())) {
+            if (pregunta.includes(palabra.toLowerCase())) {
+
                 return seccion;
+
             }
 
         }

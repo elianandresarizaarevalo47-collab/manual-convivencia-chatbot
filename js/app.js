@@ -1,6 +1,6 @@
 // ===================================
 // CHATBOT DEL MANUAL
-// Versión 1.0
+// Versión 2.0
 // ===================================
 
 // Elementos
@@ -26,13 +26,14 @@ function agregarMensaje(texto, tipo) {
 }
 
 // ===============================
-// Responder
+// Buscar respuesta
 // ===============================
 function responderBot(textoUsuario) {
 
-    const resultado = buscarEnManual(textoUsuario);
-
     let respuesta = "";
+
+    // Buscar primero en el Manual
+    const resultado = buscarEnManual(textoUsuario);
 
     if (resultado) {
 
@@ -40,14 +41,14 @@ function responderBot(textoUsuario) {
 
     } else {
 
-        // Respaldo temporal
+        // Buscar en respuestas temporales
         const pregunta = textoUsuario.toLowerCase();
 
         for (const dato of conocimiento) {
 
             for (const palabra of dato.palabras) {
 
-                if (pregunta.includes(palabra)) {
+                if (pregunta.includes(palabra.toLowerCase())) {
 
                     respuesta = dato.respuesta;
                     break;
@@ -64,7 +65,7 @@ function responderBot(textoUsuario) {
 
     if (respuesta === "") {
 
-        respuesta = "No encontré información en el Manual de Convivencia.";
+        respuesta = "Lo siento, todavía no encontré información sobre ese tema en el Manual de Convivencia.";
 
     }
 
@@ -77,7 +78,7 @@ function responderBot(textoUsuario) {
 }
 
 // ===============================
-// Enviar
+// Enviar mensaje
 // ===============================
 function enviarMensaje() {
 
@@ -96,7 +97,7 @@ function enviarMensaje() {
 // Eventos
 botonEnviar.addEventListener("click", enviarMensaje);
 
-cajaTexto.addEventListener("keydown", (e) => {
+cajaTexto.addEventListener("keydown", function (e) {
 
     if (e.key === "Enter") {
 
