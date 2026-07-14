@@ -52,14 +52,15 @@ El Consejo Directivo, en uso de las facultades legales contempladas en el artíc
         ],
         contenido: `Artículo 1. Adopción del Manual de Convivencia. La Institución Educativa Delicias San Carlos de El Copey – Cesar adopta oficialmente el presente Manual de Convivencia como el conjunto de normas, principios, derechos, deberes, procedimientos y disposiciones que regulan la convivencia escolar y orientan el desarrollo de la comunidad educativa, de conformidad con la legislación vigente.`
     },
-      {
+
+    {
         titulo: "Artículo 2. AMBITO DE APLICACIÓN",
         palabras: [
             "artículo 2",
             "articulo 2",
             "normas del manual",
             "manual de convivencia",
-            "adopta el manual"
+            "aplicación en el manual"
         ],
         contenido: `Artículo 2. Adopción del Manual de Convivencia. La Institución Educativa Delicias San Carlos de El Copey – Cesar adopta oficialmente el presente Manual de Convivencia como el conjunto de normas, principios, derechos, deberes, procedimientos y disposiciones que regulan la convivencia escolar y orientan el desarrollo de la comunidad educativa, de conformidad con la legislación vigente.`
     },
