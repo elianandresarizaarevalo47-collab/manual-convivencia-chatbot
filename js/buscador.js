@@ -258,6 +258,98 @@ El proceso de admisión comprende:
 
 Parágrafo: Los criterios para la asignación de los cupos disponibles están definidos por la resolución expedida por la Secretaría de Educación Departamental del Cesar.`
 },
+{
+    titulo: "Artículo 5. Matrícula",
+    palabras: [
+        "artículo 5",
+        "articulo 5",
+        "matrícula",
+        "matricula",
+        "requisitos de matrícula",
+        "requisitos de matricula",
+        "documentos para matrícula",
+        "documentos para matricula",
+        "simat",
+        "registro civil",
+        "fotografías",
+        "certificados de estudio",
+        "carnet de salud",
+        "fosyga",
+        "fosiga",
+        "carpeta azul"
+    ],
+    contenido: `Artículo 5. Matrícula.
+
+La matrícula es el acto mediante el cual se formaliza la vinculación del estudiante a la Institución Educativa.
+
+Para realizar la matrícula se requiere:
+
+• Orden de matrícula expedida por el Rector.
+• Retiro del SIMAT.
+• Asistencia del padre de familia o acudiente mayor de edad.
+• Fotocopia del registro civil de nacimiento para menores de 7 años.
+• Último boletín del año anterior (Preescolar y Básica Primaria).
+• Fotocopia del registro de crecimiento, desarrollo y vacunación (Preescolar y Básica Primaria).
+• Fotocopia de la tarjeta de identidad o cédula para mayores de 7 años.
+• Dos (2) fotografías recientes tamaño 3 × 3.
+• Certificados de estudio de los grados anteriores (Secundaria y Media).
+• Fotocopia del carné de salud o FOSYGA.
+• Carpeta azul colgante.`
+},
+{
+    titulo: "Artículo 6. Horizonte Institucional",
+    palabras: [
+        "artículo 6",
+        "articulo 6",
+        "horizonte institucional",
+        "misión",
+        "mision",
+        "visión",
+        "vision",
+        "filosofía",
+        "filosofia",
+        "principios",
+        "valores",
+        "principios institucionales",
+        "valores institucionales",
+        "emblemas",
+        "lema",
+        "idesco",
+        "horizonte"
+    ],
+    contenido: `Artículo 6. Horizonte Institucional.
+
+Misión:
+Ofrecer el servicio educativo a la comunidad con compromiso ético, moral, profesional y dinámico, basados en la eficiencia, eficacia e inclusión, en busca del mejoramiento continuo.
+
+Visión:
+La Institución proyecta la formación de un individuo con educación integral, comprometido con el mejoramiento ambiental y social en los ámbitos local, regional y nacional, con proyección al mundo laboral.
+
+Filosofía:
+La filosofía idescana se fundamenta en los principios del humanismo, donde el ser humano, en todas sus dimensiones, es el centro del proceso de formación, promoviendo el respeto por los derechos individuales y colectivos para una sana convivencia.
+
+Principios y Valores Institucionales:
+• Reconocimiento de Dios como amo y señor de todas las cosas.
+• La paz como derecho fundamental y eje orientador.
+• Cuidado del ambiente.
+• Mejoramiento continuo.
+• Amor institucional.
+• Trascendencia social.
+• Sana convivencia.
+• Desarrollo del espíritu democrático.
+• Toma de decisiones con base en la normatividad vigente.
+• La formación como un acto de amor.
+• El trabajo como factor de desarrollo personal y social.
+• Unidad de acción para el logro de los objetivos.
+• Liderazgo institucional.
+• Formación de estudiantes capaces de adaptarse al mundo productivo y generar sus propias ideas de negocio.
+
+Emblemas Institucionales:
+Los emblemas representan la identidad de la Institución Educativa.
+
+Lema:
+"Trabajamos con base en el mejoramiento continuo."`
+},
 
 
 ]; 
