@@ -66,8 +66,41 @@ Que es deber de la comunidad educativa dar cumplimiento y aplicación a las leye
 
 Que el artículo 87 de la Ley 115 de 1994 establece que los establecimientos educativos tendrán un reglamento o Manual de Convivencia, en el cual se definen los derechos y obligaciones de los estudiantes, de los padres y acudientes, quienes al firmar la matrícula correspondiente en representación de sus hijos aceptan su cumplimiento.`
 },
+{
+    titulo: "Considerandos del Acuerdo (Continuación)",
+    palabras: [
+        "artículos 42 43 44 45",
+        "articulo 42",
+        "articulo 43",
+        "articulo 44",
+        "articulo 45",
+        "obligaciones de las instituciones educativas",
+        "evaluación escolar",
+        "decreto 1290",
+        "ley 1620",
+        "sistema nacional de convivencia escolar",
+        "derechos humanos",
+        "educación para la sexualidad",
+        "violencia escolar",
+        "decreto 1965",
+        "proyecto educativo institucional",
+        "pei",
+        "situaciones tipo 1",
+        "situaciones tipo 2",
+        "situaciones tipo 3",
+        "protocolo",
+        "pérdida del cupo"
+    ],
+    contenido: `CONSIDERANDO
 
+Que los artículos 42, 43, 44 y 45 de la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia) establecen las obligaciones de las instituciones educativas con los estudiantes, las cuales deben tenerse en cuenta en el Manual de Convivencia.
 
+Que el artículo 11 del Decreto 1290 de 2009 establece las responsabilidades del establecimiento educativo en materia de evaluación escolar.
+
+Que la Ley 1620 de 2013 crea el Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar, reglamentado por el Decreto 1965 del 11 de septiembre de 2013.
+
+Que el Manual de Convivencia, al igual que el reglamento de los docentes, hace parte del Proyecto Educativo Institucional (P.E.I.) y contiene los derechos, deberes, prohibiciones, estímulos, acciones pedagógicas, los protocolos para el tratamiento de situaciones tipo I, II y III, así como los procedimientos para la pérdida del cupo del estudiante y para facilitar la sana convivencia entre los miembros de la comunidad educativa.`
+},
 
 
 ]; 
