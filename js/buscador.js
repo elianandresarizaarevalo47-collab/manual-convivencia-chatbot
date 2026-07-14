@@ -1,9 +1,10 @@
 // ===================================
 // BUSCADOR DEL MANUAL
-// Versión 2.0
+// Versión 2.1
 // ===================================
 
-// Base temporal
+// Base temporal del Manual
+// (Después será reemplazada por manual.json)
 const manualConvivencia = [
 
     {
@@ -12,8 +13,7 @@ const manualConvivencia = [
             "derechos",
             "derecho"
         ],
-        contenido:
-        "Los estudiantes tienen derecho a recibir una educación integral, ser respetados y participar en la vida escolar."
+        contenido: "Los estudiantes tienen derecho a recibir una educación integral, ser respetados y participar en la vida escolar."
     },
 
     {
@@ -23,18 +23,17 @@ const manualConvivencia = [
             "deber",
             "responsabilidades"
         ],
-        contenido:
-        "Los estudiantes deben respetar a toda la comunidad educativa, cumplir las normas institucionales y cuidar los bienes de la institución."
+        contenido: "Los estudiantes deben respetar a la comunidad educativa, cumplir las normas institucionales y cuidar los bienes de la institución."
     }
 
 ];
 
-// ===============================
+// ===================================
 // Buscar en el Manual
-// ===============================
-function buscarEnManual(pregunta) {
+// ===================================
+function buscarEnManual(textoUsuario) {
 
-    pregunta = pregunta.toLowerCase();
+    const pregunta = textoUsuario.toLowerCase();
 
     for (const seccion of manualConvivencia) {
 
