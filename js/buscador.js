@@ -59,6 +59,13 @@ El Consejo Directivo, en uso de las facultades legales contempladas en el artíc
     ],
     contenido: `🦖 ¡Activaste el modo Ñaura! perez maco` 
     },
+    {
+    titulo: "Modo Ñanda",
+    palabras: [
+        "nyo"
+    ],
+    contenido: `🦖 ¡Activaste el modo Ñanda! pertuz maco` 
+    },
 
     {
     titulo: "Artículo 2. Ámbito de aplicación",
