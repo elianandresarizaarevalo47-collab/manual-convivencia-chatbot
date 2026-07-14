@@ -101,6 +101,163 @@ Que la Ley 1620 de 2013 crea el Sistema Nacional de Convivencia Escolar y Formac
 
 Que el Manual de Convivencia, al igual que el reglamento de los docentes, hace parte del Proyecto Educativo Institucional (P.E.I.) y contiene los derechos, deberes, prohibiciones, estímulos, acciones pedagógicas, los protocolos para el tratamiento de situaciones tipo I, II y III, así como los procedimientos para la pérdida del cupo del estudiante y para facilitar la sana convivencia entre los miembros de la comunidad educativa.`
 },
+{
+    titulo: "Considerandos del Acuerdo (Continuación II)",
+    palabras: [
+        "artículo 29",
+        "articulo 29",
+        "decreto 1965",
+        "actualización del manual",
+        "actualizacion del manual",
+        "lineamientos generales",
+        "criterios de convivencia",
+        "dignidad",
+        "respeto",
+        "responsabilidad",
+        "estímulos",
+        "formación integral",
+        "bienestar de los estudiantes",
+        "integridad",
+        "sano desarrollo"
+    ],
+    contenido: `CONSIDERANDO
+
+Que el artículo 29 del Decreto 1965 de 2013 establece los lineamientos generales para implementar la actualización del Manual de Convivencia Escolar.
+
+Que se debe dotar a la Institución Educativa Delicias San Carlos de un instrumento legal que contemple los criterios de convivencia, los principios de dignidad, respeto a los semejantes y al bien ajeno, la responsabilidad y el acatamiento de las disposiciones del plantel, así como establecer estímulos para la formación integral, respetando los derechos y promoviendo los deberes para una sana convivencia.
+
+Que la Institución Educativa debe procurar el bienestar de los estudiantes y velar por su integridad, dignidad, sano desarrollo y ejemplar comportamiento en comunidad, además del cumplimiento de sus responsabilidades en el ámbito educativo, fijando normas que garanticen dichos propósitos.`
+},
+{
+    titulo: "Considerandos del Acuerdo (Continuación III)",
+    palabras: [
+        "reglas de higiene",
+        "salud pública",
+        "sustancias sicotrópicas",
+        "bienes personales",
+        "bienes de uso colectivo",
+        "cuidado del ambiente escolar",
+        "presentación personal",
+        "presentacion personal",
+        "quejas",
+        "reclamos",
+        "debido proceso",
+        "derecho a la defensa",
+        "consejo directivo",
+        "personero de los estudiantes",
+        "biblioteca",
+        "salas de informática",
+        "aulas virtuales",
+        "salas de audiovisuales",
+        "medios de comunicación interna"
+    ],
+    contenido: `CONSIDERANDO
+
+Que dentro de los contenidos del Manual de Convivencia se destacan las reglas de higiene personal y de salud pública que preservan el bienestar de la comunidad educativa y la prevención frente al consumo de sustancias psicoactivas; los criterios de respeto, valoración y compromiso con la conservación de los bienes personales y de uso colectivo; las pautas para el cuidado del ambiente escolar; las normas de conducta de docentes y estudiantes que garanticen el respeto mutuo y los procedimientos para formular quejas o reclamos.
+
+Asimismo, el Manual define las instancias de diálogo, las pautas de presentación personal de la comunidad educativa, las medidas pedagógicas aplicables a los estudiantes dentro del debido proceso y el derecho a la defensa. También establece las reglas para la elección de los representantes al Consejo Directivo y del Personero de los Estudiantes, así como el funcionamiento de los medios de comunicación interna y las normas para el uso de la biblioteca, salas de informática, aulas virtuales, salas de audiovisuales y demás espacios institucionales.
+
+Por todo lo anterior...`
+},
+{
+    titulo: "Título I. Objetivos",
+    palabras: [
+        "título i",
+        "titulo i",
+        "objetivos",
+        "objetivos del manual",
+        "objetivos de convivencia",
+        "sana convivencia",
+        "normatividad vigente",
+        "comunidad educativa",
+        "derechos y deberes",
+        "sociedad democrática"
+    ],
+    contenido: `TÍTULO I. OBJETIVOS
+
+El Manual de Convivencia tiene como objetivos:
+
+1. Promover la sana convivencia institucional mediante el cumplimiento de la normatividad vigente.
+
+2. Mantener una sana convivencia entre los miembros de la comunidad educativa, favoreciendo una adecuada comunicación.
+
+3. Afianzar los derechos y deberes de los estudiantes, padres de familia, docentes, directivos y personal administrativo dentro de la práctica cotidiana, contribuyendo a la construcción de una sociedad democrática y respetuosa.`
+},
+{
+    titulo: "Introducción",
+    palabras: [
+        "introducción",
+        "introduccion",
+        "presentación",
+        "proyecto personal de vida",
+        "convivencia",
+        "disciplina",
+        "aprendizaje",
+        "derechos humanos",
+        "valores",
+        "ambiente natural",
+        "respeto",
+        "tolerancia",
+        "solidaridad",
+        "autonomía",
+        "manual de convivencia",
+        "clima escolar"
+    ],
+    contenido: `INTRODUCCIÓN
+
+La Institución Educativa Delicias San Carlos, en cumplimiento de su misión y de los principios constitucionales, busca formar y preparar a los niños, niñas y jóvenes para una vida adulta activa, promoviendo el respeto por los derechos humanos, los valores, el cuidado del ambiente natural y una cultura de paz, tolerancia y solidaridad.
+
+Con este Manual de Convivencia se pretende propiciar la aceptación del otro, fortalecer la sana convivencia, regular las relaciones interpersonales y favorecer un ambiente adecuado para el crecimiento personal y un aprendizaje incluyente. Asimismo, contribuye al proceso de construcción del Proyecto Personal de Vida de los estudiantes, en un entorno basado en la confianza, la creatividad, el compromiso, el respeto y la aceptación de las normas.
+
+La institución educativa es un espacio de aprendizaje y también de convivencia. Además de adquirir conocimientos y desarrollar habilidades, los estudiantes aprenden a vivir en comunidad mediante el respeto mutuo y la participación responsable.
+
+La disciplina constituye un elemento fundamental para la convivencia, ya que favorece el autocontrol, la aceptación de las normas, la participación efectiva y el desarrollo de la autonomía dentro de la comunidad educativa.
+
+El proceso educativo implica tanto derechos como deberes. Por ello, el incumplimiento de las responsabilidades académicas o de las normas disciplinarias establecidas en el Manual de Convivencia puede dar lugar a las consecuencias previstas por la institución, de acuerdo con la gravedad de la falta y respetando siempre el debido proceso.`
+},
+{
+    titulo: "Artículo 1. Adopción del Manual de Convivencia",
+    palabras: [
+        "artículo 1",
+        "articulo 1",
+        "adopción del manual",
+        "adopta el manual",
+        "aprobado por el consejo directivo",
+        "manual de convivencia"
+    ],
+    contenido: `Artículo 1. Adóptese el presente Manual de Convivencia de la Institución Educativa Delicias San Carlos por la comunidad educativa y aprobado por el Consejo Directivo. Todos los miembros de la comunidad educativa están llamados al cumplimiento de los lineamientos filosóficos y del reglamento escolar en cualquier tiempo y lugar.`
+},
+
+{
+    titulo: "Artículo 4. Admisión de los estudiantes",
+    palabras: [
+        "artículo 4",
+        "articulo 4",
+        "admisión",
+        "admisión de estudiantes",
+        "admisión de los estudiantes",
+        "cupo",
+        "solicitud del cupo",
+        "inscripción",
+        "inscripcion",
+        "matrícula",
+        "matricula",
+        "rector",
+        "asignación de cupos",
+        "secretaría de educación",
+        "secretaria de educacion"
+    ],
+    contenido: `Artículo 4. Admisión de los estudiantes.
+
+El proceso de admisión comprende:
+
+• Solicitud del cupo.
+• Inscripción mediante el formato institucional.
+• Aprobación del cupo.
+• Autorización de la matrícula por parte del Rector.
+
+Parágrafo: Los criterios para la asignación de los cupos disponibles están definidos por la resolución expedida por la Secretaría de Educación Departamental del Cesar.`
+},
 
 
 ]; 
