@@ -227,7 +227,37 @@ El proceso educativo implica tanto derechos como deberes. Por ello, el incumplim
     ],
     contenido: `Artículo 1. Adóptese el presente Manual de Convivencia de la Institución Educativa Delicias San Carlos por la comunidad educativa y aprobado por el Consejo Directivo. Todos los miembros de la comunidad educativa están llamados al cumplimiento de los lineamientos filosóficos y del reglamento escolar en cualquier tiempo y lugar.`
 },
-
+{
+    titulo: "Artículo 2. Ámbito de Aplicación",
+    palabras: [
+        "artículo 2",
+        "articulo 2",
+        "ámbito de aplicación",
+        "ambito de aplicacion",
+        "aplicación del manual",
+        "a quién aplica el manual",
+        "quiénes aplica el manual",
+        "manual de convivencia",
+        "comunidad educativa"
+    ],
+    contenido: `Artículo 2. ÁMBITO DE APLICACIÓN. Las normas contenidas en el Manual de Convivencia se aplican dentro del proceso de formación integral que desarrolla la Institución Educativa Delicias San Carlos de El Copey con sus estudiantes desde el nivel Preescolar hasta la Media y demás miembros de la comunidad educativa.`
+},
+{
+    titulo: "Artículo 3. Justificación",
+    palabras: [
+        "artículo 3",
+        "articulo 3",
+        "justificación",
+        "justificacion",
+        "manual de convivencia",
+        "instrumento legal",
+        "formación en ciudadanía",
+        "formacion en ciudadania",
+        "participación de la comunidad educativa",
+        "participacion de la comunidad educativa"
+    ],
+    contenido: `Artículo 3. JUSTIFICACIÓN. Teniendo en cuenta el marco jurídico, socioeconómico, cultural y político del contexto de la Institución Educativa, se establece el presente Manual de Convivencia como instrumento legal interno, producto de la participación de la comunidad educativa, con el fin de promover y desarrollar la formación en ciudadanía.`
+},
 {
     titulo: "Artículo 4. Admisión de los estudiantes",
     palabras: [
@@ -738,7 +768,8 @@ A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuid
 Los bienes de uso personal y colectivo de la institución deben utilizarse con cuidado y responsabilidad para evitar daños y posibles accidentes dentro de la comunidad educativa.
 
 Quienes hagan un uso inadecuado de los elementos, equipos o herramientas de la institución y ocasionen daños por descuido deberán responder económicamente por los deterioros causados, con el fin de garantizar el buen funcionamiento y conservación de los recursos institucionales.`
-}
+},
+
 
 ]; 
 
