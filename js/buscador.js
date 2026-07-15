@@ -216,22 +216,22 @@ La disciplina constituye un elemento fundamental para la convivencia, ya que fav
 El proceso educativo implica tanto derechos como deberes. Por ello, el incumplimiento de las responsabilidades académicas o de las normas disciplinarias establecidas en el Manual de Convivencia puede dar lugar a las consecuencias previstas por la institución, de acuerdo con la gravedad de la falta y respetando siempre el debido proceso.`
 },
 {
-    titulo: "Artículo 1. Adopción del Manual de Convivencia",
+    titulo: "Artículo uno. Adopción del Manual de Convivencia",
     palabras: [
-        "artículo 1",
-        "articulo 1",
+        "artículo uno",
+        "articulo uno",
         "adopción del manual",
         "adopta el manual",
         "aprobado por el consejo directivo",
         "manual de convivencia"
     ],
-    contenido: `Artículo 1. Adóptese el presente Manual de Convivencia de la Institución Educativa Delicias San Carlos por la comunidad educativa y aprobado por el Consejo Directivo. Todos los miembros de la comunidad educativa están llamados al cumplimiento de los lineamientos filosóficos y del reglamento escolar en cualquier tiempo y lugar.`
+    contenido: `Artículo uno. Adóptese el presente Manual de Convivencia de la Institución Educativa Delicias San Carlos por la comunidad educativa y aprobado por el Consejo Directivo. Todos los miembros de la comunidad educativa están llamados al cumplimiento de los lineamientos filosóficos y del reglamento escolar en cualquier tiempo y lugar.`
 },
 {
-    titulo: "Artículo 2. Ámbito de Aplicación",
+    titulo: "Artículo dos. Ámbito de Aplicación",
     palabras: [
-        "artículo 2",
-        "articulo 2",
+        "artículo dos",
+        "articulo dos",
         "ámbito de aplicación",
         "ambito de aplicacion",
         "aplicación del manual",
@@ -240,13 +240,13 @@ El proceso educativo implica tanto derechos como deberes. Por ello, el incumplim
         "manual de convivencia",
         "comunidad educativa"
     ],
-    contenido: `Artículo 2. ÁMBITO DE APLICACIÓN. Las normas contenidas en el Manual de Convivencia se aplican dentro del proceso de formación integral que desarrolla la Institución Educativa Delicias San Carlos de El Copey con sus estudiantes desde el nivel Preescolar hasta la Media y demás miembros de la comunidad educativa.`
+    contenido: `Artículo dos. ÁMBITO DE APLICACIÓN. Las normas contenidas en el Manual de Convivencia se aplican dentro del proceso de formación integral que desarrolla la Institución Educativa Delicias San Carlos de El Copey con sus estudiantes desde el nivel Preescolar hasta la Media y demás miembros de la comunidad educativa.`
 },
 {
-    titulo: "Artículo 3. Justificación",
+    titulo: "Artículo tres. Justificación",
     palabras: [
-        "artículo 3",
-        "articulo 3",
+        "artículo tres",
+        "articulo tres",
         "justificación",
         "justificacion",
         "manual de convivencia",
@@ -256,13 +256,13 @@ El proceso educativo implica tanto derechos como deberes. Por ello, el incumplim
         "participación de la comunidad educativa",
         "participacion de la comunidad educativa"
     ],
-    contenido: `Artículo 3. JUSTIFICACIÓN. Teniendo en cuenta el marco jurídico, socioeconómico, cultural y político del contexto de la Institución Educativa, se establece el presente Manual de Convivencia como instrumento legal interno, producto de la participación de la comunidad educativa, con el fin de promover y desarrollar la formación en ciudadanía.`
+    contenido: `Artículo tres. JUSTIFICACIÓN. Teniendo en cuenta el marco jurídico, socioeconómico, cultural y político del contexto de la Institución Educativa, se establece el presente Manual de Convivencia como instrumento legal interno, producto de la participación de la comunidad educativa, con el fin de promover y desarrollar la formación en ciudadanía.`
 },
 {
-    titulo: "Artículo 4. Admisión de los estudiantes",
+    titulo: "Artículo cuatro. Admisión de los estudiantes",
     palabras: [
-        "artículo 4",
-        "articulo 4",
+        "artículo cuatro",
+        "articulo cuatro",
         "admisión",
         "admisión de estudiantes",
         "admisión de los estudiantes",
@@ -277,7 +277,7 @@ El proceso educativo implica tanto derechos como deberes. Por ello, el incumplim
         "secretaría de educación",
         "secretaria de educacion"
     ],
-    contenido: `Artículo 4. Admisión de los estudiantes.
+    contenido: `Artículo cuatro. Admisión de los estudiantes.
 
 El proceso de admisión comprende:
 
@@ -289,10 +289,10 @@ El proceso de admisión comprende:
 Parágrafo: Los criterios para la asignación de los cupos disponibles están definidos por la resolución expedida por la Secretaría de Educación Departamental del Cesar.`
 },
 {
-    titulo: "Artículo 5. Matrícula",
+    titulo: "Artículo cinco. Matrícula",
     palabras: [
-        "artículo 5",
-        "articulo 5",
+        "artículo cinco",
+        "articulo cinco",
         "matrícula",
         "matricula",
         "requisitos de matrícula",
@@ -308,7 +308,7 @@ Parágrafo: Los criterios para la asignación de los cupos disponibles están de
         "fosiga",
         "carpeta azul"
     ],
-    contenido: `Artículo 5. Matrícula.
+    contenido: `Artículo cinco. Matrícula.
 
 La matrícula es el acto mediante el cual se formaliza la vinculación del estudiante a la Institución Educativa.
 
@@ -327,10 +327,10 @@ Para realizar la matrícula se requiere:
 • Carpeta azul colgante.`
 },
 {
-    titulo: "Artículo 6. Horizonte Institucional",
+    titulo: "Artículo seis. Horizonte Institucional",
     palabras: [
-        "artículo 6",
-        "articulo 6",
+        "artículo seis",
+        "articulo seis",
         "horizonte institucional",
         "misión",
         "mision",
@@ -347,7 +347,7 @@ Para realizar la matrícula se requiere:
         "idesco",
         "horizonte"
     ],
-    contenido: `Artículo 6. Horizonte Institucional.
+    contenido: `Artículo seis. Horizonte Institucional.
 
 Misión:
 Ofrecer el servicio educativo a la comunidad con compromiso ético, moral, profesional y dinámico, basados en la eficiencia, eficacia e inclusión, en busca del mejoramiento continuo.
@@ -424,10 +424,10 @@ Lema:
 },
 
 {
-    titulo: "Artículo 7. Uniformes Institucionales",
+    titulo: "Artículo siete. Uniformes Institucionales",
     palabras: [
-        "artículo 7",
-        "articulo 7",
+        "artículo siete",
+        "articulo siete",
         "uniforme",
         "uniformes",
         "uniforme de diario",
@@ -441,7 +441,7 @@ Lema:
         "educación física",
         "educacion fisica"
     ],
-    contenido: `Artículo 7. Uniformes Institucionales.
+    contenido: `Artículo siete. Uniformes Institucionales.
 
 Los estudiantes de la Institución Educativa Delicias San Carlos (IDESCO) deben portar correctamente el uniforme institucional.
 
@@ -452,18 +452,18 @@ Los estudiantes de la Institución Educativa Delicias San Carlos (IDESCO) deben 
 • Uniforme de Educación Física: camiseta blanca con detalles azul turquí y escudo institucional, sudadera azul turquí con la sigla IDESCO, tenis blancos y medias azul turquí. Este uniforme debe utilizarse únicamente en los días establecidos por el horario o cuando la institución lo disponga.`
 },
 {
-    titulo: "Artículo 8.1. Derechos de los estudiantes",
+    titulo: "Artículo ocho.uno Derechos de los estudiantes",
     palabras: [
-        "artículo 8",
-        "articulo 8",
-        "8.1",
+        "artículo ocho",
+        "articulo ocho",
+        "ocho.uno",
         "derechos",
         "derechos de los estudiantes",
         "derechos del estudiante",
         "estudiantes",
         "manual de convivencia"
     ],
-    contenido: `Artículo 8.1. Derechos de los estudiantes.
+    contenido: `Artículo ocho.uno Derechos de los estudiantes.
 
 Los estudiantes de la Institución Educativa Delicias San Carlos tienen, entre otros, los siguientes derechos:
 
@@ -515,7 +515,7 @@ Parágrafo 2. Se prohíben dentro de la institución los actos que atenten contr
         "obligaciones",
         "responsabilidades"
     ],
-    contenido: `Artículo 8.2. Deberes de los estudiantes.
+    contenido: `Artículo ocho.dos Deberes de los estudiantes.
 
 Los estudiantes de la Institución Educativa Delicias San Carlos deben cumplir, entre otros, los siguientes deberes:
 
@@ -550,10 +550,10 @@ Los estudiantes de la Institución Educativa Delicias San Carlos deben cumplir, 
 • Mantener una adecuada presentación e higiene personal, de acuerdo con las normas establecidas por la institución.`
 },
 {
-    titulo: "Artículo 8.2. Deberes de los estudiantes (Continuación)",
+    titulo: "Artículo ocho.dos Deberes de los estudiantes (Continuación)",
     palabras: [
-        "artículo 8",
-        "articulo 8",
+        "artículo ocho",
+        "articulo ocho",
         "8.2",
         "deberes",
         "continuación",
@@ -567,7 +567,7 @@ Los estudiantes de la Institución Educativa Delicias San Carlos deben cumplir, 
         "parágrafo 2",
         "paragrafo 2"
     ],
-    contenido: `Artículo 8.2. Deberes de los estudiantes (Continuación).
+    contenido: `Artículo ocho.dos Deberes de los estudiantes (Continuación).
 
 Los estudiantes deberán:
 
@@ -683,10 +683,10 @@ En el acto de graduación se otorgan reconocimientos a:
 • Liderazgo.`
 },
 {
-    titulo: "Artículo 9. Normas de higiene personal y de preservación de la salud pública",
+    titulo: "Artículo nueve. Normas de higiene personal y de preservación de la salud pública",
     palabras: [
-        "artículo 9",
-        "articulo 9",
+        "artículo nueve",
+        "articulo nueve",
         "higiene personal",
         "salud pública",
         "salud publica",
@@ -704,19 +704,19 @@ En el acto de graduación se otorgan reconocimientos a:
         "residuos",
         "prevención de enfermedades"
     ],
-    contenido: `Artículo 9. Normas de higiene personal y de preservación de la salud pública.
+    contenido: `Artículo nueve. Normas de higiene personal y de preservación de la salud pública.
 
 La institución promueve hábitos de higiene y presentación personal como parte de la formación integral y la prevención de enfermedades. Los estudiantes deben portar correctamente el uniforme institucional, mantener una adecuada higiene bucal y corporal, conservar limpias las manos y los pies, llevar las uñas recortadas y un corte de cabello apropiado, contribuyendo así a un ambiente saludable y seguro para toda la comunidad educativa.
 
 Dentro del Proyecto Educativo Institucional (PEI), la institución desarrolla programas y proyectos de promoción de la salud, salud mental y educación sexual, en coordinación con entidades como Psicorientación, la Policía, la Comisaría de Familia, la Personería y el Hospital.
-
+ 
 La institución cuenta con un botiquín de primeros auxilios para atender emergencias básicas y, mediante el Proyecto Ambiental Escolar (PRAE), promueve el cuidado del ambiente, el manejo adecuado de residuos y la prevención de enfermedades, tanto en el entorno escolar como en la comunidad.`
 },
 {
-    titulo: "Artículo 9. Normas de higiene personal y de preservación de la salud pública (Continuación)",
+    titulo: "Artículo nueve. Normas de higiene personal y de preservación de la salud pública (Continuación)",
     palabras: [
-        "artículo 9",
-        "articulo 9",
+        "artículo nueve",
+        "articulo nueve",
         "continuación",
         "continuacion",
         "pei",
@@ -735,7 +735,7 @@ La institución cuenta con un botiquín de primeros auxilios para atender emerge
         "residuos orgánicos",
         "residuos biologicos"
     ],
-    contenido: `Artículo 9. Normas de higiene personal y de preservación de la salud pública (Continuación).
+    contenido: `Artículo nueve. Normas de higiene personal y de preservación de la salud pública (Continuación).
 
 La Institución desarrolla, dentro del Proyecto Educativo Institucional (PEI), programas de promoción de la salud, salud mental y educación sexual, en coordinación con entidades como Psicorientación, la Policía, la Comisaría de Familia, la Personería y el Hospital.
 
