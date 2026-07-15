@@ -771,6 +771,165 @@ Los bienes de uso personal y colectivo de la institución deben utilizarse con c
 
 Quienes hagan un uso inadecuado de los elementos, equipos o herramientas de la institución y ocasionen daños por descuido deberán responder económicamente por los deterioros causados, con el fin de garantizar el buen funcionamiento y conservación de los recursos institucionales.`
 },
+{
+    titulo: "Artículo Once. Comportamiento en relación con el cuidado del ambiente escolar",
+    palabras: [
+        "artículo once",
+        "articulo once",
+        "once",
+        "comportamiento",
+        "cuidado del ambiente escolar",
+        "ambiente escolar",
+        "medio ambiente",
+        "cuidado del colegio",
+        "prae",
+        "proyecto ambiental escolar",
+        "pei",
+        "proyecto educativo institucional",
+        "comunidad idescana",
+        "recomendaciones ambientales",
+        "orientaciones ambientales"
+    ],
+    contenido: `Artículo Once. Comportamiento en relación con el cuidado del ambiente escolar.
+
+Cada miembro de la comunidad Idescana será una persona diligente para el cuidado del ambiente escolar y debe poner en práctica las recomendaciones y orientaciones establecidas en el PRAE (Proyecto Ambiental Escolar), el cual hace parte del presente P.E.I. (Proyecto Educativo Institucional).`
+},
+{
+    titulo: "Artículo Doce. Procedimiento en caso de situaciones entre miembros de la comunidad Idescana",
+    palabras: [
+        "artículo doce",
+        "articulo doce",
+        "doce",
+        "procedimiento",
+        "situaciones entre miembros",
+        "comunidad idescana",
+        "relaciones entre los miembros",
+        "convivencia",
+        "sana convivencia",
+        "buen trato",
+        "respeto",
+        "diferencias individuales",
+        "inclusión",
+        "inclusion",
+        "corresponsabilidad",
+        "autonomía",
+        "autonomia",
+        "libertad",
+        "sentido de pertenencia",
+        "conflictos",
+        "director de curso",
+        "curso",
+        "proyecto educativo institucional",
+        "pei",
+        "ambiente escolar"
+    ],
+    contenido: `Artículo Doce. Procedimiento en caso de situaciones entre miembros de la comunidad Idescana.
+
+La Institución es un lugar de encuentro de personas con diferentes estilos, formas de pensar y de actuar. Por ello, cada integrante de la comunidad educativa debe fortalecer su sentido de pertenencia con la institución, asumir un compromiso personal y colectivo para transformar positivamente las conductas y actitudes que garanticen una sana convivencia, promover el buen trato, comprender y respetar las diferencias individuales, transformar los conflictos en oportunidades de crecimiento individual y grupal, preservar un ambiente escolar sano y agradable, y cuidar de sí mismo, de los demás y de los bienes comunes.
+
+Las relaciones entre los miembros de la comunidad educativa se fundamentan en los principios de corresponsabilidad, aceptación e inclusión, teniendo como criterio esencial el uso responsable de la libertad y el ejercicio equilibrado de la autonomía. Asimismo, todos los integrantes contarán con las debidas garantías por parte de las autoridades de la institución.
+
+El curso, entendido como el grupo de estudiantes de un mismo grado orientado por un Director o Directora, será el principal dinamizador de la convivencia. Cada curso desarrollará un proyecto que permita vivenciar, apropiar y fortalecer los principios establecidos en este Manual de Convivencia y en el Proyecto Educativo Institucional (P.E.I.). Además, contribuirá al adecuado desarrollo de los planes y programas académicos para fortalecer las competencias, habilidades y destrezas de los estudiantes, de acuerdo con los estándares definidos en los planes de estudio.`
+},
+{
+    titulo: "Artículo Doce.uno Rutas de atención para situaciones entre miembros de la comunidad Idescana",
+    palabras: [
+        "artículo doce",
+        "articulo doce",
+        "doce",
+        "rutas de atención",
+        "procedimiento",
+        "conflictos",
+        "convivencia",
+        "comité de convivencia",
+        "comite de convivencia",
+        "orientación escolar",
+        "orientacion escolar",
+        "sicoorientación",
+        "sicoorientacion",
+        "coordinación",
+        "coordinacion",
+        "rectoría",
+        "rectoria",
+        "director de grupo",
+        "docente",
+        "estudiante",
+        "administrativo",
+        "padre de familia"
+    ],
+    contenido: `Artículo Doce.uno Rutas de atención para situaciones entre miembros de la comunidad Idescana.
+
+**doce.uno Cuando la situación es entre estudiantes:**
+1. Conciliar con el compañero o compañera.
+2. Elevar la queja ante un docente.
+3. Dirigirse a la dirección de grupo.
+4. Informar a la coordinación o a la orientadora escolar.
+
+**doce.dos Cuando la situación es de un estudiante contra un docente:**
+1. Diálogo entre estudiante y docente.
+2. Dirigirse al director de grupo.
+3. Informar a la coordinación o a la orientadora escolar.
+4. Comunicar a la rectoría.
+
+**doce.tres Cuando la inconformidad es de un estudiante contra un directivo docente:**
+1. Diálogo entre estudiante y directivo.
+2. Dirigirse a orientación escolar.
+3. Comunicar al Comité de Convivencia.
+
+**doce.cuatro Cuando la situación es de un docente o directivo docente contra un estudiante:**
+1. Orientar directamente al estudiante de manera respetuosa.
+2. Dirigirse a la dirección de grupo.
+3. Informar a la orientadora escolar.
+4. Remitir el caso a coordinación y/o rectoría.
+5. Comunicar al Comité de Convivencia.
+
+**doce.cinco Cuando la situación es de un docente contra otro docente:**
+1. Diálogo entre docente y docente.
+2. Dirigirse a orientación escolar.
+3. Remitir el caso a coordinación y/o rectoría.
+4. Comunicar al Comité de Convivencia.
+
+**doce.seis Cuando la situación es de un docente contra un directivo:**
+1. Diálogo entre docente y directivo.
+2. Dirigirse a orientación escolar.
+3. Remitir el caso a coordinación o rectoría, según corresponda.
+4. Comunicar al Comité de Convivencia.
+
+**doce.siete Cuando la situación es de un directivo contra un docente:**
+1. Diálogo entre directivo y docente.
+2. Dirigirse a orientación escolar.
+3. Remitirse a la rectoría, según el caso.
+4. Comunicar al Comité de Convivencia.
+
+**doce.ocho Cuando la situación es de un padre de familia contra otro miembro de la comunidad educativa:**
+1. Dirigirse a rectoría y/o coordinación, según corresponda.
+2. Dirigirse a orientación escolar.
+3. Comunicar al Comité de Convivencia.
+
+**doce.nueve Cuando la situación es de un estudiante contra un administrativo:**
+1. Diálogo entre el estudiante y el administrativo.
+2. Dirigirse a rectoría o coordinación.
+3. Comunicar a sicoorientación.
+4. Dirigirse al Comité de Convivencia.
+
+**doce.diez Cuando la situación es de un administrativo contra un estudiante:**
+1. Diálogo entre el administrativo y el estudiante.
+2. Dirigirse a rectoría o coordinación.
+3. Comunicar a sicoorientación.
+4. Dirigirse al Comité de Convivencia.
+
+**doce.once Cuando la situación es de un docente y/o directivo docente contra un administrativo:**
+1. Diálogo entre el docente o directivo docente y el administrativo.
+2. Dirigirse a rectoría o coordinación.
+3. Comunicar a sicoorientación.
+4. Dirigirse al Comité de Convivencia.
+
+**doce.doce Cuando la situación es de un administrativo contra un docente o directivo docente:**
+1. Diálogo entre el administrativo y el docente o directivo docente.
+2. Dirigirse a rectoría o coordinación.
+3. Comunicar a sicoorientación.
+4. Dirigirse al Comité de Convivencia.`
+},
 
 
 ]; 
