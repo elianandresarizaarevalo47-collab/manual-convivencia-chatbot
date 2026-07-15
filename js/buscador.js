@@ -362,7 +362,465 @@ Lema:
     ],
     "contenido": "El Himno representa la identidad, el sentido de pertenencia y los valores de la Institución Educativa Delicias San Carlos (IDESCO). Exalta el compromiso con la educación, el respeto, el emprendimiento y el amor por la institución.\n\nLetra:\n\nI\nTodos unidos, como estudiantes, ensalcemos con amor, con entusiasmo, enarbolemos la bandera de la institución. Es el trabajo de nuestro IDESCO, estandarte singular, en el cual llevamos como una insignia arraigada a nuestra entidad.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nII\nMis profesores, seres humanos con una esfinge inmortal en su faena, lo entregan todo, obra sublime de origen celestial. ¡Oh, copeyano!, todos tus hijos con orgullo gritan emocionados, irán cantando con una actitud triunfal.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, soy idescano de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nIII\n¡Oh, mi colegio!, siempre me llevo todo lo bello que en ti puedo apreciar, serás lo eterno entre mis sueños; aun cuando anciano, te voy a recordar. Donde se forman los buenos hombres para un mañana en paz.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nAutor: Esp. Jorge Luis Rocha Arrieta."
 },
+{
+    titulo: "Mecanismos de comunicación",
+    palabras: [
+        "mecanismos de comunicación",
+        "mecanismos de comunicacion",
+        "comunicación",
+        "comunicacion",
+        "teléfono",
+        "telefono",
+        "línea celular",
+        "linea celular",
+        "plataforma académica",
+        "plataforma academica",
+        "facebook",
+        "blog institucional",
+        "convivenciapacificaidesco",
+        "contacto"
+    ],
+    contenido: `La Institución cuenta con mecanismos de comunicación para mantener contacto permanente con la comunidad educativa, entre ellos:
 
+• Líneas celulares:
+  - Sede Principal: 320 574 2664.
+  - Sede San Carlos: 310 429 9810.
+
+• Plataforma académica: Medio electrónico para consultar boletines y realizar seguimiento a las calificaciones por período.
+
+• Facebook institucional (IDESCO): Espacio donde se publica información sobre las actividades y eventos de la institución.
+
+• Blog institucional (Convivencia Pacífica IDESCO): Medio donde se difunde información relacionada con la vida institucional.`
+},
+
+{
+    titulo: "Artículo 7. Uniformes Institucionales",
+    palabras: [
+        "artículo 7",
+        "articulo 7",
+        "uniforme",
+        "uniformes",
+        "uniforme de diario",
+        "uniforme de educación física",
+        "uniforme de educacion fisica",
+        "camisa",
+        "falda",
+        "sudadera",
+        "zapatos",
+        "medias",
+        "educación física",
+        "educacion fisica"
+    ],
+    contenido: `Artículo 7. Uniformes Institucionales.
+
+Los estudiantes de la Institución Educativa Delicias San Carlos (IDESCO) deben portar correctamente el uniforme institucional.
+
+• Uniforme de diario (niños): pantalón clásico azul turquí, camisa guayabera blanca de manga larga con el escudo institucional, correa negra, zapatos negros escolares y medias azules o negras de altura normal.
+
+• Uniforme de diario (niñas): falda plisada azul turquí, blusa blanca con el escudo institucional, zapatos negros y medias blancas altas.
+
+• Uniforme de Educación Física: camiseta blanca con detalles azul turquí y escudo institucional, sudadera azul turquí con la sigla IDESCO, tenis blancos y medias azul turquí. Este uniforme debe utilizarse únicamente en los días establecidos por el horario o cuando la institución lo disponga.`
+},
+{
+    titulo: "Artículo 8.1. Derechos de los estudiantes",
+    palabras: [
+        "artículo 8",
+        "articulo 8",
+        "8.1",
+        "derechos",
+        "derechos de los estudiantes",
+        "derechos del estudiante",
+        "estudiantes",
+        "manual de convivencia"
+    ],
+    contenido: `Artículo 8.1. Derechos de los estudiantes.
+
+Los estudiantes de la Institución Educativa Delicias San Carlos tienen, entre otros, los siguientes derechos:
+
+• Presentar excusas justificadas por inasistencia y realizar las actividades pendientes previo acuerdo con los docentes.
+
+• Recibir una enseñanza planificada que garantice su formación integral.
+
+• Portar equipos electrónicos cuando su uso sea autorizado por la institución.
+
+• Manifestar ante las instancias correspondientes cuando consideren que no están recibiendo una preparación adecuada.
+
+• Presentar sugerencias de manera respetuosa para contribuir al mejoramiento institucional.
+
+• Recibir información confiable y un trato digno, respetuoso y cortés por parte de todos los miembros de la comunidad educativa.
+
+• Participar en actividades culturales, deportivas, científicas y sociales organizadas por la institución.
+
+• Representar dignamente a la institución en eventos académicos, culturales y deportivos.
+
+• Recibir el carné que los acredita como estudiantes de la institución.
+
+• Presentar reclamos académicos dentro de los tiempos establecidos cuando consideren vulnerados sus derechos.
+
+• Solicitar información sobre las inasistencias reiteradas de docentes y conocer oportunamente su estado académico.
+
+• Ser escuchados en sus descargos cuando se les atribuya una situación tipo I, II o III.
+
+• Acceder a los servicios que ofrece la institución, como biblioteca, sala de informática, audiovisuales, servicios sanitarios, canchas deportivas, refrigerios y tienda escolar.
+
+• Organizar actividades académicas, deportivas, científicas y culturales con autorización de la institución.
+
+• Conocer los horarios de atención de los docentes.
+
+• Ser respetados en su libertad religiosa conforme a la Constitución y la ley.
+
+Parágrafo 1. La institución ofrece educación religiosa de contenido católico, conforme a las directrices del Ministerio de Educación Nacional.
+
+Parágrafo 2. Se prohíben dentro de la institución los actos que atenten contra la integridad física, psíquica o moral de los miembros de la comunidad educativa bajo pretextos religiosos, así como las prácticas prohibidas por la legislación vigente.`
+},
+{
+    titulo: "Artículo 8.2. Deberes de los estudiantes",
+    palabras: [
+        "artículo 8",
+        "articulo 8",
+        "8.2",
+        "deberes",
+        "deberes de los estudiantes",
+        "deberes del estudiante",
+        "obligaciones",
+        "responsabilidades"
+    ],
+    contenido: `Artículo 8.2. Deberes de los estudiantes.
+
+Los estudiantes de la Institución Educativa Delicias San Carlos deben cumplir, entre otros, los siguientes deberes:
+
+• Ser puntuales en la asistencia a clases y demás actividades institucionales.
+
+• Aplicar los valores institucionales en el trato con las demás personas y con el entorno.
+
+• Presentar excusas justificadas por inasistencia dentro de los plazos establecidos.
+
+• Procurar un buen desempeño académico y un comportamiento adecuado dentro y fuera de la institución.
+
+• Prepararse para las clases y participar activamente en las actividades académicas.
+
+• Cumplir responsablemente con las tareas y actividades asignadas.
+
+• Respetar a compañeros, docentes, directivos, padres de familia, personal administrativo y de servicios generales.
+
+• Utilizar adecuadamente los bienes, espacios y recursos de la institución, respondiendo por los daños o pérdidas ocasionadas.
+
+• Mantener en buen estado los cuadernos, útiles escolares y una adecuada presentación personal.
+
+• Portar el carné estudiantil y asistir correctamente uniformado a clases y demás actividades institucionales.
+
+• Acatar las normas del Manual de Convivencia, las orientaciones de los docentes y los llamados de atención cuando corresponda.
+
+• Respetar las señales del timbre institucional y colaborar con las actividades de mejoramiento de la institución.
+
+• Contar con los textos y materiales necesarios para el proceso de enseñanza y aprendizaje.
+
+• Resolver los conflictos mediante la negociación, la concertación y la conciliación.
+
+• Mantener una adecuada presentación e higiene personal, de acuerdo con las normas establecidas por la institución.`
+},
+{
+    titulo: "Artículo 8.2. Deberes de los estudiantes (Continuación)",
+    palabras: [
+        "artículo 8",
+        "articulo 8",
+        "8.2",
+        "deberes",
+        "continuación",
+        "uniforme",
+        "presentación personal",
+        "maquillaje",
+        "religión",
+        "religion",
+        "parágrafo 1",
+        "paragrafo 1",
+        "parágrafo 2",
+        "paragrafo 2"
+    ],
+    contenido: `Artículo 8.2. Deberes de los estudiantes (Continuación).
+
+Los estudiantes deberán:
+
+• Abstenerse de portar altas sumas de dinero, alhajas, manillas u otros objetos de alto valor o adornos extravagantes con el uniforme.
+
+• Respetar las convicciones, valores y expresiones religiosas de todos los miembros de la comunidad educativa.
+
+• Participar en las actividades programadas por el área de Educación Religiosa, respetando la libertad de cultos y las disposiciones legales vigentes.
+
+• Portar correctamente el uniforme de diario y el uniforme de Educación Física de acuerdo con las normas establecidas por la institución.
+
+• Cumplir las disposiciones sobre la presentación personal, incluyendo el uso adecuado del uniforme y sus accesorios.
+
+• Cumplir fielmente las normas establecidas en el Manual de Convivencia dentro y fuera de la institución.
+
+Nota: La camiseta debe utilizarse por debajo de la sudadera.
+
+Parágrafo 1. Los estudiantes mayores de edad o aquellos cuyos padres hayan manifestado al momento de la matrícula su decisión de no recibir educación y asistencia religiosa participarán en las actividades formativas alternativas programadas por la institución.
+
+Parágrafo 2. Los estudiantes no deben utilizar maquillaje ni elementos que alteren la presentación personal con el uniforme, tales como peinados extravagantes, pintalabios, esmaltes llamativos, mechones de colores o similares.`
+},
+{
+    titulo: "Prohibiciones de los estudiantes",
+    palabras: [
+        "prohibiciones",
+        "prohibido",
+        "cosas prohibidas",
+        "qué está prohibido",
+        "reglas",
+        "armas",
+        "fumar",
+        "uniforme",
+        "biblioteca",
+        "sexo",
+        "gorras",
+        "carnet",
+        "estandartes",
+        "escudo",
+        "bandera",
+        "himno"
+    ],
+    contenido: `PROHIBICIONES
+
+Las prohibiciones buscan garantizar la seguridad de la comunidad educativa, proteger los bienes institucionales y promover la formación en valores.
+
+Entre las principales prohibiciones se encuentran:
+
+• Portar cualquier tipo de arma dentro o fuera de la institución.
+• Presentarse con vestimenta inadecuada en actividades complementarias.
+• Portar joyas, accesorios costosos o elementos que no hagan parte del uniforme.
+• Salir de la institución o ingresar a dependencias sin la autorización correspondiente.
+• Saltar los muros de la institución.
+• Hacer mal uso de la biblioteca, las unidades sanitarias, el carné estudiantil, los uniformes o cualquier bien institucional.
+• Fumar dentro del plantel.
+• Realizar prácticas sexuales dentro de la institución.
+• Portar sumas de dinero superiores a las establecidas por el Manual de Convivencia.
+• Hablar con personas ajenas a la institución por las mallas o muros.
+• Permanecer fuera del salón sin autorización durante las clases.
+• Usar gorras u otros elementos que no sean necesarios para el proceso de aprendizaje.
+• Entorpecer el desarrollo de las clases.
+• Causar daños a las instalaciones o a los elementos de la institución.
+• Adulterar, destruir, manchar o hacer uso indebido de los símbolos institucionales, como el escudo, la bandera y el himno.
+
+Nota: Los docentes del área de Artística están autorizados para utilizar exactos u otros elementos necesarios para el desarrollo de sus actividades académicas.`
+},
+{
+    titulo: "Estímulos",
+    palabras: [
+        "estímulos",
+        "estimulos",
+        "reconocimientos",
+        "cuadro de honor",
+        "menciones de honor",
+        "placas",
+        "premios",
+        "mejor estudiante",
+        "mejor deportista",
+        "personero",
+        "liderazgo",
+        "superación personal",
+        "perfil idescano"
+    ],
+    contenido: `ESTÍMULOS
+
+La institución considera estímulo toda motivación o reconocimiento otorgado a directivos, docentes, administrativos, padres de familia y estudiantes que se destaquen positiva y significativamente por su compromiso institucional, sentido de pertenencia, innovación, valores, rendimiento académico, resultados en las Pruebas Saber, comportamiento, liderazgo, deporte o cultura.
+
+Clases de estímulos:
+
+• Figurar en el cuadro de honor institucional por período.
+• Ser destacado en la emisora, el periódico escolar, la página oficial o el blog institucional.
+• Recibir reconocimiento en las asignaturas afines.
+• Obtener menciones de honor o placas en actos públicos institucionales.
+
+En el acto de clausura se reconoce a:
+
+• Primer y segundo puesto por rendimiento académico de cada grupo.
+• Estudiantes con buen comportamiento.
+• Estudiantes destacados por su colaboración.
+• Estudiantes que sobresalen por su esfuerzo y superación personal.
+
+En el acto de graduación se otorgan reconocimientos a:
+
+• Mejor deportista.
+• Mejor estudiante en las Pruebas Saber 11.
+• Mejor compañero de la promoción.
+• Estudiante más colaborador.
+• Mejor rendimiento académico de la promoción.
+• Estudiantes destacados por su disciplina.
+• Personero estudiantil que haya cumplido su plan de trabajo.
+• Mejor estudiante académicamente del grupo.
+• Estudiantes destacados por esfuerzo y superación personal.
+• Mejor perfil idescano.
+• Liderazgo.`
+},
+{
+    titulo: "Artículo 9. Normas de higiene personal y de preservación de la salud pública",
+    palabras: [
+        "artículo 9",
+        "articulo 9",
+        "higiene personal",
+        "salud pública",
+        "salud publica",
+        "presentación personal",
+        "presentacion personal",
+        "cabello",
+        "uñas",
+        "primeros auxilios",
+        "botiquín",
+        "botiquin",
+        "prae",
+        "educación sexual",
+        "salud mental",
+        "ambiente",
+        "residuos",
+        "prevención de enfermedades"
+    ],
+    contenido: `Artículo 9. Normas de higiene personal y de preservación de la salud pública.
+
+La institución promueve hábitos de higiene y presentación personal como parte de la formación integral y la prevención de enfermedades. Los estudiantes deben portar correctamente el uniforme institucional, mantener una adecuada higiene bucal y corporal, conservar limpias las manos y los pies, llevar las uñas recortadas y un corte de cabello apropiado, contribuyendo así a un ambiente saludable y seguro para toda la comunidad educativa.
+
+Dentro del Proyecto Educativo Institucional (PEI), la institución desarrolla programas y proyectos de promoción de la salud, salud mental y educación sexual, en coordinación con entidades como Psicorientación, la Policía, la Comisaría de Familia, la Personería y el Hospital.
+
+La institución cuenta con un botiquín de primeros auxilios para atender emergencias básicas y, mediante el Proyecto Ambiental Escolar (PRAE), promueve el cuidado del ambiente, el manejo adecuado de residuos y la prevención de enfermedades, tanto en el entorno escolar como en la comunidad.`
+},
+{
+    titulo: "Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos",
+    palabras: [
+        "artículo 10",
+        "articulo 10",
+        "bienes personales",
+        "bienes colectivos",
+        "conservación de bienes",
+        "conservacion de bienes",
+        "cuidado de los bienes",
+        "equipos",
+        "herramientas",
+        "daños",
+        "deterioros",
+        "responsabilidad"
+    ],
+    contenido: `Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos.
+
+Los bienes personales y colectivos de la Institución Educativa deben utilizarse con cuidado, responsabilidad y respeto, con el fin de evitar daños y prevenir accidentes dentro de la comunidad educativa.
+
+Las personas que hagan un uso inadecuado de los elementos, equipos o herramientas de la institución y ocasionen daños por descuido o negligencia deberán responder económicamente por los deterioros causados.`
+},
+{
+    titulo: "Artículo 11. Comportamiento en relación con el cuidado del ambiente escolar",
+    palabras: [
+        "artículo 11",
+        "articulo 11",
+        "ambiente escolar",
+        "cuidado del ambiente",
+        "prae",
+        "proyecto ambiental escolar",
+        "medio ambiente",
+        "proyecto educativo institucional",
+        "pei",
+        "comportamiento ambiental"
+    ],
+    contenido: `Artículo 11. Comportamiento en relación con el cuidado del ambiente escolar.
+
+Todos los miembros de la comunidad IDESCANA deben contribuir al cuidado del ambiente escolar, poniendo en práctica las recomendaciones y orientaciones establecidas en el Proyecto Ambiental Escolar (PRAE), el cual hace parte del Proyecto Educativo Institucional (PEI).
+
+El compromiso con la protección del ambiente favorece una convivencia responsable y un entorno saludable para toda la comunidad educativa.`
+},
+{
+    titulo: "Artículo 12. Procedimiento en caso de situaciones entre miembros de la comunidad idescana",
+    palabras: [
+        "artículo 12",
+        "articulo 12",
+        "procedimiento",
+        "situaciones",
+        "conflictos",
+        "convivencia",
+        "comunidad idescana",
+        "buen trato",
+        "respeto",
+        "autonomía",
+        "autonomia",
+        "corresponsabilidad",
+        "inclusión",
+        "inclusion",
+        "director de grupo"
+    ],
+    contenido: `Artículo 12. Procedimiento en caso de situaciones entre miembros de la comunidad idescana.
+
+La Institución Educativa reconoce que la convivencia escolar implica el respeto por la diversidad de pensamientos, actitudes y formas de actuar. Por ello, promueve el sentido de pertenencia, el buen trato, la transformación positiva de los conflictos, el respeto por las diferencias, la corresponsabilidad y la preservación de un ambiente escolar sano.
+
+Las relaciones entre los miembros de la comunidad educativa se fundamentan en los principios de corresponsabilidad, aceptación, inclusión, uso responsable de la libertad y ejercicio equilibrado de la autonomía.
+
+Cada curso, orientado por su director o directora de grupo, es el principal dinamizador de la convivencia escolar y del desarrollo de los principios establecidos en el Manual de Convivencia y en el Proyecto Educativo Institucional (PEI), favoreciendo además el cumplimiento de los procesos académicos.`
+},
+
+{
+    titulo: "Artículo 12. Procedimientos para la atención de situaciones de convivencia",
+    palabras: [
+        "artículo 12",
+        "articulo 12",
+        "procedimientos",
+        "conflictos",
+        "estudiante",
+        "docente",
+        "directivo",
+        "padre de familia",
+        "orientación escolar",
+        "orientacion escolar",
+        "coordinación",
+        "coordinacion",
+        "rectoría",
+        "rectoria",
+        "comité de convivencia",
+        "comite de convivencia"
+    ],
+    contenido: `El Manual de Convivencia establece los siguientes procedimientos según las personas involucradas en la situación:
+
+12.1 Entre estudiantes:
+• Conciliar con el compañero.
+• Informar a un docente.
+• Acudir al director de grupo.
+• Informar a coordinación o a orientación escolar.
+
+12.2 Estudiante contra docente:
+• Dialogar con el docente.
+• Acudir al director de grupo.
+• Informar a coordinación u orientación escolar.
+• Comunicar el caso a rectoría.
+
+12.3 Estudiante contra un directivo docente:
+• Dialogar con el directivo.
+• Acudir a orientación escolar.
+• Comunicar el caso al Comité de Convivencia.
+
+12.4 Docente o directivo docente contra un estudiante:
+• Orientar respetuosamente al estudiante.
+• Informar al director de grupo.
+• Remitir a orientación escolar.
+• Informar a coordinación y/o rectoría.
+• Comunicar al Comité de Convivencia.
+
+12.5 Docente contra otro docente:
+• Dialogar entre las partes.
+• Acudir a orientación escolar.
+• Remitir el caso a coordinación y/o rectoría.
+• Informar al Comité de Convivencia.
+
+12.6 Docente contra un directivo:
+• Dialogar con el directivo.
+• Acudir a orientación escolar.
+• Remitir el caso a coordinación o rectoría.
+• Informar al Comité de Convivencia.
+
+12.7 Directivo contra un docente:
+• Dialogar con el docente.
+• Acudir a orientación escolar.
+• Remitir el caso a rectoría, según corresponda.
+• Informar al Comité de Convivencia.
+
+12.8 Padre de familia contra otro miembro de la comunidad educativa:
+• Acudir a rectoría y/o coordinación.
+• Acudir a orientación escolar.
+• Comunicar el caso al Comité de Convivencia.`
+},
 
 ]; 
 
