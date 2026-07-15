@@ -746,8 +746,12 @@ A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuid
 {
     titulo: "Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos",
     palabras: [
+        "artículo diez",
+        "articulo diez",
         "artículo 10",
         "articulo 10",
+        "10",
+        "diez",
         "compromisos",
         "bienes personales",
         "bienes colectivos",
@@ -761,6 +765,7 @@ A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuid
         "daños",
         "deterioros",
         "responder económicamente",
+        "responder economicamente",
         "responsabilidad"
     ],
     contenido: `Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos.
