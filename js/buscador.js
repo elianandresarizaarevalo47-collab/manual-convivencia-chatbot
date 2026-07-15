@@ -683,144 +683,62 @@ Dentro del Proyecto Educativo Institucional (PEI), la institución desarrolla pr
 La institución cuenta con un botiquín de primeros auxilios para atender emergencias básicas y, mediante el Proyecto Ambiental Escolar (PRAE), promueve el cuidado del ambiente, el manejo adecuado de residuos y la prevención de enfermedades, tanto en el entorno escolar como en la comunidad.`
 },
 {
+    titulo: "Artículo 9. Normas de higiene personal y de preservación de la salud pública (Continuación)",
+    palabras: [
+        "artículo 9",
+        "articulo 9",
+        "continuación",
+        "continuacion",
+        "pei",
+        "programas de salud",
+        "salud mental",
+        "educación sexual",
+        "educacion sexual",
+        "psicorientación",
+        "psicorientacion",
+        "primeros auxilios",
+        "botiquín",
+        "botiquin",
+        "prae",
+        "proyecto ambiental escolar",
+        "cuidado del ambiente",
+        "residuos orgánicos",
+        "residuos biologicos"
+    ],
+    contenido: `Artículo 9. Normas de higiene personal y de preservación de la salud pública (Continuación).
+
+La Institución desarrolla, dentro del Proyecto Educativo Institucional (PEI), programas de promoción de la salud, salud mental y educación sexual, en coordinación con entidades como Psicorientación, la Policía, la Comisaría de Familia, la Personería y el Hospital.
+
+Además, dispone de un comité de primeros auxilios con un botiquín dotado de elementos básicos para atender golpes, contusiones y otras emergencias.
+
+A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuidado del ambiente mediante el manejo adecuado de residuos orgánicos y biológicos, así como la protección de los recursos naturales para prevenir enfermedades y conservar un entorno saludable.`
+},
+{
     titulo: "Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos",
     palabras: [
         "artículo 10",
         "articulo 10",
+        "compromisos",
         "bienes personales",
         "bienes colectivos",
         "conservación de bienes",
         "conservacion de bienes",
+        "utilización de bienes",
+        "utilizacion de bienes",
         "cuidado de los bienes",
         "equipos",
         "herramientas",
         "daños",
         "deterioros",
+        "responder económicamente",
         "responsabilidad"
     ],
     contenido: `Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos.
 
-Los bienes personales y colectivos de la Institución Educativa deben utilizarse con cuidado, responsabilidad y respeto, con el fin de evitar daños y prevenir accidentes dentro de la comunidad educativa.
+Los bienes de uso personal y colectivo de la institución deben utilizarse con cuidado y responsabilidad para evitar daños y posibles accidentes dentro de la comunidad educativa.
 
-Las personas que hagan un uso inadecuado de los elementos, equipos o herramientas de la institución y ocasionen daños por descuido o negligencia deberán responder económicamente por los deterioros causados.`
-},
-{
-    titulo: "Artículo 11. Comportamiento en relación con el cuidado del ambiente escolar",
-    palabras: [
-        "artículo 11",
-        "articulo 11",
-        "ambiente escolar",
-        "cuidado del ambiente",
-        "prae",
-        "proyecto ambiental escolar",
-        "medio ambiente",
-        "proyecto educativo institucional",
-        "pei",
-        "comportamiento ambiental"
-    ],
-    contenido: `Artículo 11. Comportamiento en relación con el cuidado del ambiente escolar.
-
-Todos los miembros de la comunidad IDESCANA deben contribuir al cuidado del ambiente escolar, poniendo en práctica las recomendaciones y orientaciones establecidas en el Proyecto Ambiental Escolar (PRAE), el cual hace parte del Proyecto Educativo Institucional (PEI).
-
-El compromiso con la protección del ambiente favorece una convivencia responsable y un entorno saludable para toda la comunidad educativa.`
-},
-{
-    titulo: "Artículo 12. Procedimiento en caso de situaciones entre miembros de la comunidad idescana",
-    palabras: [
-        "artículo 12",
-        "articulo 12",
-        "procedimiento",
-        "situaciones",
-        "conflictos",
-        "convivencia",
-        "comunidad idescana",
-        "buen trato",
-        "respeto",
-        "autonomía",
-        "autonomia",
-        "corresponsabilidad",
-        "inclusión",
-        "inclusion",
-        "director de grupo"
-    ],
-    contenido: `Artículo 12. Procedimiento en caso de situaciones entre miembros de la comunidad idescana.
-
-La Institución Educativa reconoce que la convivencia escolar implica el respeto por la diversidad de pensamientos, actitudes y formas de actuar. Por ello, promueve el sentido de pertenencia, el buen trato, la transformación positiva de los conflictos, el respeto por las diferencias, la corresponsabilidad y la preservación de un ambiente escolar sano.
-
-Las relaciones entre los miembros de la comunidad educativa se fundamentan en los principios de corresponsabilidad, aceptación, inclusión, uso responsable de la libertad y ejercicio equilibrado de la autonomía.
-
-Cada curso, orientado por su director o directora de grupo, es el principal dinamizador de la convivencia escolar y del desarrollo de los principios establecidos en el Manual de Convivencia y en el Proyecto Educativo Institucional (PEI), favoreciendo además el cumplimiento de los procesos académicos.`
-},
-
-{
-    titulo: "Artículo 12. Procedimientos para la atención de situaciones de convivencia",
-    palabras: [
-        "artículo 12",
-        "articulo 12",
-        "procedimientos",
-        "conflictos",
-        "estudiante",
-        "docente",
-        "directivo",
-        "padre de familia",
-        "orientación escolar",
-        "orientacion escolar",
-        "coordinación",
-        "coordinacion",
-        "rectoría",
-        "rectoria",
-        "comité de convivencia",
-        "comite de convivencia"
-    ],
-    contenido: `El Manual de Convivencia establece los siguientes procedimientos según las personas involucradas en la situación:
-
-12.1 Entre estudiantes:
-• Conciliar con el compañero.
-• Informar a un docente.
-• Acudir al director de grupo.
-• Informar a coordinación o a orientación escolar.
-
-12.2 Estudiante contra docente:
-• Dialogar con el docente.
-• Acudir al director de grupo.
-• Informar a coordinación u orientación escolar.
-• Comunicar el caso a rectoría.
-
-12.3 Estudiante contra un directivo docente:
-• Dialogar con el directivo.
-• Acudir a orientación escolar.
-• Comunicar el caso al Comité de Convivencia.
-
-12.4 Docente o directivo docente contra un estudiante:
-• Orientar respetuosamente al estudiante.
-• Informar al director de grupo.
-• Remitir a orientación escolar.
-• Informar a coordinación y/o rectoría.
-• Comunicar al Comité de Convivencia.
-
-12.5 Docente contra otro docente:
-• Dialogar entre las partes.
-• Acudir a orientación escolar.
-• Remitir el caso a coordinación y/o rectoría.
-• Informar al Comité de Convivencia.
-
-12.6 Docente contra un directivo:
-• Dialogar con el directivo.
-• Acudir a orientación escolar.
-• Remitir el caso a coordinación o rectoría.
-• Informar al Comité de Convivencia.
-
-12.7 Directivo contra un docente:
-• Dialogar con el docente.
-• Acudir a orientación escolar.
-• Remitir el caso a rectoría, según corresponda.
-• Informar al Comité de Convivencia.
-
-12.8 Padre de familia contra otro miembro de la comunidad educativa:
-• Acudir a rectoría y/o coordinación.
-• Acudir a orientación escolar.
-• Comunicar el caso al Comité de Convivencia.`
-},
+Quienes hagan un uso inadecuado de los elementos, equipos o herramientas de la institución y ocasionen daños por descuido deberán responder económicamente por los deterioros causados, con el fin de garantizar el buen funcionamiento y conservación de los recursos institucionales.`
+}
 
 ]; 
 
