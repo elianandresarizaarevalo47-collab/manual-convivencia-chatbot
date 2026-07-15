@@ -350,6 +350,18 @@ Los emblemas representan la identidad de la Institución Educativa.
 Lema:
 "Trabajamos con base en el mejoramiento continuo."`
 },
+{
+    "titulo": "Himno Institucional",
+    "palabras": [
+        "himno",
+        "himno institucional",
+        "himno de idesco",
+        "canción institucional",
+        "autor del himno",
+        "jorge luis rocha arrieta"
+    ],
+    "contenido": "El Himno representa la identidad, el sentido de pertenencia y los valores de la Institución Educativa Delicias San Carlos (IDESCO). Exalta el compromiso con la educación, el respeto, el emprendimiento y el amor por la institución.\n\nLetra:\n\nI\nTodos unidos, como estudiantes, ensalcemos con amor, con entusiasmo, enarbolemos la bandera de la institución. Es el trabajo de nuestro IDESCO, estandarte singular, en el cual llevamos como una insignia arraigada a nuestra entidad.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nII\nMis profesores, seres humanos con una esfinge inmortal en su faena, lo entregan todo, obra sublime de origen celestial. ¡Oh, copeyano!, todos tus hijos con orgullo gritan emocionados, irán cantando con una actitud triunfal.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, soy idescano de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nIII\n¡Oh, mi colegio!, siempre me llevo todo lo bello que en ti puedo apreciar, serás lo eterno entre mis sueños; aun cuando anciano, te voy a recordar. Donde se forman los buenos hombres para un mañana en paz.\n\nCORO\nAl unísono gritemos todos cuán grandioso es nuestra institución, de perfil sano, respetuoso con talante emprendedor. (Bis)\n\nINTERMEDIO\nComo a mis padres, a ti te llevo bien guardado en mi corazón, bendito IDESCO, que Dios te guarde por ser un líder en la educación (en mi educación). (Bis)\n\nAutor: Esp. Jorge Luis Rocha Arrieta."
+},
 
 
 ]; 
