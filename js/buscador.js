@@ -744,13 +744,10 @@ Además, dispone de un comité de primeros auxilios con un botiquín dotado de e
 A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuidado del ambiente mediante el manejo adecuado de residuos orgánicos y biológicos, así como la protección de los recursos naturales para prevenir enfermedades y conservar un entorno saludable.`
 },
 {
-    titulo: "Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos",
+    titulo: "Artículo Diez. Compromisos frente a la utilización y conservación de los bienes personales y colectivos",
     palabras: [
         "artículo diez",
         "articulo diez",
-        "artículo 10",
-        "articulo 10",
-        "10",
         "diez",
         "compromisos",
         "bienes personales",
@@ -768,7 +765,7 @@ A través del Proyecto Ambiental Escolar (PRAE), la institución fomenta el cuid
         "responder economicamente",
         "responsabilidad"
     ],
-    contenido: `Artículo 10. Compromisos frente a la utilización y conservación de los bienes personales y colectivos.
+    contenido: `Artículo Diez. Compromisos frente a la utilización y conservación de los bienes personales y colectivos.
 
 Los bienes de uso personal y colectivo de la institución deben utilizarse con cuidado y responsabilidad para evitar daños y posibles accidentes dentro de la comunidad educativa.
 
