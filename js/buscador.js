@@ -2234,8 +2234,9 @@ En cuanto a la elección, se procede de la siguiente manera: se escogen varios a
 7. Hacer parte de uno de los comités que laboran por la institución.
 8. Ser conciliador en cada uno de los debates que se presenten.
 9. Analizar los pros y los contras antes de tomar una posición.
-10. Representar dignamente a sus compañeros.`
-};
+10. Representar dignamente a sus compañeros.`,
+},
+];
 const articulo38 = {
     titulo: "Artículo Treinta y Ocho - Consejo de Estudiantes",
     palabras: [
