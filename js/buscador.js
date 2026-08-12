@@ -2235,8 +2235,10 @@ En cuanto a la elección, se procede de la siguiente manera: se escogen varios a
 8. Ser conciliador en cada uno de los debates que se presenten.
 9. Analizar los pros y los contras antes de tomar una posición.
 10. Representar dignamente a sus compañeros.`,
-},
+}
+
 ];
+[
 const articulo38 = {
     titulo: "Artículo Treinta y Ocho - Consejo de Estudiantes",
     palabras: [
@@ -2356,6 +2358,7 @@ Son funciones del Contralor Escolar:
 10. Velar por el cuidado del medio ambiente.
 `
 };
+]
 {
     titulo: "Artículo Cuarenta y Cuatro - Consejo de Padres",
     palabras: [
@@ -2889,9 +2892,7 @@ Estudiante.
 
 Señora: Hilda Pacheco Villalba
 Ex-Alumno.`
-}
-
-]; 
+}.
 
 // ===================================
 // Buscar en el Manual
