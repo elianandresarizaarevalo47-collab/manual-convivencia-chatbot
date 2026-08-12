@@ -2452,7 +2452,7 @@ Escala institucional:
 - Entre 60 y 79: Desempeño básico.
 - Entre 0 y 59: Desempeño bajo.
 `
-},
+};
 const articuloCuarentaYOcho = {
   titulo: "Artículo Cuarenta y Ocho: Acciones de seguimiento para el mejoramiento de desempeños",
   palabras: [
@@ -2469,8 +2469,7 @@ const articuloCuarentaYOcho = {
 Se organizarán talleres temáticos que serán desarrollados por los maestros de las áreas en horario adicional, jornadas pedagógicas con padres y estudiantes con varias asignaturas perdidas. Es de obligatoriedad la asistencia de los estudiantes que sean convocados para su nivelación y refuerzo.
 
 Los padres de familia, con base en la información publicada en la plataforma virtual del colegio, o los informes dados por los docentes, deberán asumir las acciones necesarias para garantizar procesos de nivelación de sus hijos cuando lo programado por el colegio no sea suficiente.`
-},
-
+};
 const articuloCuarentaYNueve = {
   titulo: "Artículo Cuarenta y Nueve: Atención de reclamaciones de padres de familia y estudiantes",
   palabras: [
@@ -2492,8 +2491,7 @@ El Consejo Académico por designación expresa del Consejo Directivo es la insta
 Las acciones de control que garantizan el cumplimiento del debido proceso incluyen la planeación, programación y desarrollo o aplicación del plan de estudios, instrumentos y estrategias de evaluación, procesamiento de la información y publicación de resultados.
 
 El Consejo Directivo garantizará el cumplimiento de este proceso.`
-},
-
+};
 const articuloCincuenta = {
   titulo: "Artículo Cincuenta: Promoción o reprobación de grado",
   palabras: [
@@ -2510,8 +2508,7 @@ const articuloCincuenta = {
 Para ser promovido(a) el(la) estudiante debe aprobar todas las asignaturas que componen el plan de estudios del grado escolar cursado.
 
 El estudiante reprueba un grado escolar cuando, terminado el año escolar, obtiene desempeño bajo en tres o más asignaturas del plan de estudio.`
-},
-
+};
 const articuloCincuentaYUno = {
   titulo: "Artículo Cincuenta y Uno: Disposiciones especiales",
   palabras: [
@@ -2522,8 +2519,7 @@ const articuloCincuentaYUno = {
     "comunidad estudiantil"
   ],
   contenido: `Se denominan disposiciones especiales todas aquellas circunstancias que se salen del comportamiento común u ordinario entre los miembros de la comunidad estudiantil, tales como los embarazos de las niñas, el homosexualismo o lesbianismo, cambio de domicilio y detección de enfermedades, en cualquiera de las etapas o periodos lectivos.`
-},
-
+};
 const articuloCincuentaYDos = {
   titulo: "Artículo Cincuenta y Dos: Embarazo",
   palabras: [
@@ -2533,7 +2529,7 @@ const articuloCincuentaYDos = {
     "estrategia semipresencial"
   ],
   contenido: `Cuando una niña se encuentre en estado avanzado de embarazo, específicamente durante el último periodo académico, la comisión de evaluación del respectivo grado recomendará a la joven, a su compañero y/o padres de familia, la estrategia semipresencial para que no se afecte la criatura.`
-},
+};
 
 const articuloCincuentaYTres = {
   titulo: "Artículo Cincuenta y Tres: Homosexualismo o lesbianismo",
@@ -2545,7 +2541,7 @@ const articuloCincuentaYTres = {
     "orientaciones"
   ],
   contenido: `La institución es respetuosa de estas orientaciones, pero se reserva el derecho de demandar de la persona o personas conservar una conducta respetuosa que ayude al mantenimiento del orden institucional.`
-},
+};
 
 const articuloCincuentaYCuatro = {
   titulo: "Artículo Cincuenta y Cuatro: Cambio de domicilio por cualquier circunstancia",
@@ -2559,7 +2555,7 @@ const articuloCincuentaYCuatro = {
   contenido: `Los estudiantes que por diferentes motivos tengan que desplazarse del municipio en cualquier etapa del año, por razones de seguridad u otras situaciones, se les garantizan las certificaciones académicas y comportamentales hasta la fecha.
 
 La institución no certificará la adquisición de logros no alcanzados, como tampoco promoverá a estudiantes en estas situaciones, a menos que el estudiante haya superado el 80% de los logros propuestos en el plan de estudio para el grado respectivo y sea al término del año (mitad del cuarto periodo).`
-},
+};
 
 const articuloCincuentaYcinco = {
   titulo: "Artículo Cincuenta y Cinco: Limitaciones para la asistencia a la institución y el ejercicio de algunas actividades curriculares dentro de la institución",
@@ -2647,7 +2643,7 @@ Conocer los horarios disponibles de los profesores y demás personal que labora 
 Conocer acerca de los recursos del plantel.
 
 Dar un buen trato a su hijo y apoyarlo en sus actividades escolares.`
-},
+};
 
 const articuloCincuentaYSiete = {
   titulo: "Artículo Cincuenta y Siete: Derechos de los padres de familias",
@@ -2685,7 +2681,7 @@ Ser informado oportunamente sobre los avances o dificultades de su acudido(a).
 Hacer peticiones formales al plantel sobre cualquier situación en particular.
 
 A que se le respeten todos sus derechos como persona.`
-},
+};
 
 const articuloCincuentaYOcho = {
   titulo: "Artículo Cincuenta y Ocho: Derechos de los docentes",
@@ -2717,7 +2713,7 @@ Permanecer en el servicio y no ser desvinculado o sancionado, sino de acuerdo co
 No ser discriminado por razón de sus creencias políticas y religiosas ni por distinciones fundadas en condiciones sociales o raciales.
 
 Los demás establecidos en las normas vigentes.`
-},
+};
 const articuloCincuentaYNueve = {
   titulo: "Artículo Cincuenta y Nueve: Deberes de los docentes",
   palabras: [
@@ -2747,7 +2743,7 @@ Observar una conducta pública acorde con el decoro y la dignidad del cargo.
 Mantener una presentación personal decente (vestido, calzado, medias, entre otras).
 
 Las demás que determinen las leyes y reglamentos ejecutivos.`
-},
+};
 
 const articuloSesenta = {
   titulo: "Artículo Sesenta: Prohibiciones a los docentes",
@@ -2778,7 +2774,7 @@ Practicar el homosexualismo, lesbianismo y otras aberraciones sexuales.
 Asistir habitualmente al sitio de trabajo en estado de embriaguez o toxicomanía.
 
 Abandonar el cargo.`
-},
+};
 
 const articuloSesentaYUno = {
   titulo: "Artículo Sesenta y Uno: Estímulos para los directivos, docentes y administrativos",
@@ -2805,7 +2801,7 @@ Fijación en el cuadro de honor institucional por periodo.
 Reconocimiento mediante entrega de mención de honor y/o placa en la Asamblea general de padres de familias, u acto de grado.
 
 Con esto se busca despertar el interés y crear en el Directivo, docente, administrativo, el sentido de la responsabilidad, pertenencia, compromiso, ética y profesionalismo en su labor diaria, en aras de alcanzar el perfil IDESCANO. (Establecer indicadores).`
-},
+};
 
 const articuloSesentaYDos = {
   titulo: "Artículo Sesenta y Dos: Manual de funciones",
@@ -2818,7 +2814,7 @@ const articuloSesentaYDos = {
     "comunidad educativa"
   ],
   contenido: `Para facilitar el normal desarrollo de las actividades dentro del plantel, teniendo en cuenta el número de personas que laboran en el mismo, se ha elaborado un documento que contiene las funciones que debe cumplir cada uno de los estamentos que conforman la comunidad educativa. (Ver indicador Nº del PEI) actualizar con la Ley 715.`
-},
+};
 
 const articuloSesentaYTres = {
   titulo: "Artículo Sesenta y Tres: Divulgación del presente Manual de Convivencia",
@@ -2835,7 +2831,7 @@ const articuloSesentaYTres = {
 Se aprovecharán las clases, las formaciones generales, los actos cívicos y la emisora IDESCO Stereo. De igual manera, se constituirá en una unidad de contenido básico en la asignatura de Constitución Política y en el área de Ética.
 
 Los directores de grupo abrirán espacios de estudio y análisis de dicho manual. Se le entregará una copia de dicho manual al padre de familias y al estudiante en el momento de la matrícula junto con el contrato para la misma.`
-},
+};
 
 const articuloSesentaYCuatro = {
   titulo: "Artículo Sesenta y Cuatro: Aplicación del presente Manual de Convivencia",
@@ -2852,8 +2848,7 @@ const articuloSesentaYCuatro = {
 Por tanto, desde los estudiantes, padres de familias, docentes, directivos y demás miembros deben velar por el estricto cumplimiento de las normas aquí contempladas, teniendo en cuenta que se persigue el desarrollo integral de los educandos.
 
 Téngase en cuenta las instancias para su aplicación.`
-},
-
+};
 const articuloSesentaYCinco = {
   titulo: "Artículo Sesenta y Cinco: De la vigencia",
   palabras: [
@@ -2893,7 +2888,7 @@ Estudiante.
 
 Señora: Hilda Pacheco Villalba
 Ex-Alumno.`
-},
+}
 
 ]; 
 
