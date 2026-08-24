@@ -1249,6 +1249,1428 @@ El escudo es uno de los emblemas institucionales que representa la identidad de 
 },
 
 
+{
+    titulo: "Himno Institucional",
+    palabras: [
+        "himno",
+        "himno institucional",
+        "himno de idesco",
+        "himno de la institución",
+        "himno del colegio",
+        "idesco",
+        "autor del himno",
+        "quién escribió el himno",
+        "quien escribio el himno",
+        "Jorge Luis Rocha Arrieta"
+    ],
+    contenido: `Himno
+
+TODOS UNIDOS, COMO ESTUDIANTES ENSALCEMOS CON AMOR CON ENTUSIASMO, 
+ENARBOLEMOS LA BANDERA DE LA INSTITUCION
+ES EL TRABAJO DE NUESTRO IDESCO ESTANDARTE SINGULAR EN EL CUAL LLEVAMOS 
+COMO UNA INSIGNIA ARRAIGADA A NUESTRA ENTIDAD.
+
+CORO
+AL UNISONO GRITEMOS TODOS CUAN GRANDIOSO ES NUESTRA INSTITUCION DE 
+PERFIL SANO, RESPETUOSO CON TALANTE EMPRENDEDOR (BIS)
+
+INTERMEDIO
+COMO A MIS PADRES A TI TE LLEVO BIEN GUARDADO, EN MI CORZON BENDITO 
+IDESCO, QUE DIOS TE GUARDE POR SER UN LIDER EN LA EDUCACION (EN MI 
+EDUCACION) (BIS)
+
+II
+MIS PROFESORES, SERES HUMANOS CON UNA ESFINGE INMORTAL EN SU FAENA, LO 
+ENTREGAN TODO OBRA SUBLIME DE ORIGEN CELESTIAL OH COPEYANO, TODOS TUS 
+HIJOS CON ORGULLO GRITAN EMOCIONADOS IRAN CANTANDO CON UNA ACTITUD 
+TRIUNFAL
+
+CORO
+AL UNISONO GRITEMOS TODOS CUAN GRANDIOSO ES NUESTRA INSTITUCION SOY 
+IDESCANO DE PERFIL SANO, RESPETUOSO CON TALANTE EMPRENDEDOR (BIS)
+
+INTERMEDIO
+COMO A MIS PADRES A TI TE LLEVO BIEN GUARDADO, EN MI CORZON BENDITO 
+IDESCO, QUE DIOS TE GUARDE POR SER UN LIDER EN LA EDUCACION (EN MI 
+EDUCACION) (BIS)
+
+III
+OH MI COLEGIO SIEMPRE ME LLEVO TODO LO BELLO QUE EN TI PUEDO APRECIAR 
+SERAS LO ETERNO ENTRE MIS SUEÑOS AUN CUANDO ANCIANO TE VOY A RECORDAR 
+DONDE SE FORMAN LOS BUENOS HOMBRES PARA UN MAÑANA EN PAZ
+
+CORO
+AL UNISONO GRITEMOS TODOS CUAN GRANDIOSO ES NUESTRA INSTITUCION DE 
+PERFIL SANO, RESPETUOSO CON TALANTE EMPRENDEDOR
+(BIS)
+
+INTERMEDIO
+COMO A MIS PADRES A TI TE LLEVO BIEN GUARDADO, EN MI CORZON BENDITO 
+IDESCO, QUE DIOS TE GUARDE POR SER UN LIDER EN LA EDUCACION (EN MI 
+EDUCACION) (BIS)
+
+Autor: Esp. Jorge Luis Rocha Arrieta`
+},
+
+
+{
+    titulo: "Mecanismos de comunicación institucional",
+    palabras: [
+        "mecanismos de comunicación",
+        "mecanismos de comunicacion",
+        "comunicación institucional",
+        "comunicacion institucional",
+        "medios de comunicación",
+        "medios de comunicacion",
+        "contacto con la institución",
+        "contacto con la institucion",
+        "comunicación con la institución",
+        "comunicacion con la institucion",
+        "cómo comunicarse con la institución",
+        "como comunicarse con la institucion",
+        "teléfono de la institución",
+        "telefono de la institucion",
+        "celular de la institución",
+        "celular de la institucion"
+    ],
+    contenido: `La institución cuenta con mecanismos de comunicación para estar en contacto permanente con todos los miembros de la comunidad educativa.
+
+Para ello cuenta con los siguientes medios:
+
+a) Línea celulares:
+- 3205742664 (Sede Principal).
+- 310 4299810 (Sede San Carlos).
+
+b) Plataforma académica:
+Es el medio electrónico por medio del cual se emite información académica, como los boletines, para que los padres de familia y los mismos estudiantes hagan seguimiento en tiempo real de las calificaciones por periodo en cada asignatura.
+
+c) Idesco/Facebook.com:
+Es la cuenta en la red social institucional de Facebook donde se publica información sobre los diferentes eventos que ocurren en la Institución.
+
+d) Convivenciapacificaidesco.blogspot.com:
+Es el blog institucional donde se publica información sobre lo que ocurre en la Institución.`
+},
+
+{
+    titulo: "Líneas celulares de la institución",
+    palabras: [
+        "línea celular",
+        "linea celular",
+        "líneas celulares",
+        "lineas celulares",
+        "teléfono",
+        "telefono",
+        "número de teléfono",
+        "numero de telefono",
+        "número de celular",
+        "numero de celular",
+        "celular sede principal",
+        "celular sede san carlos",
+        "contactar la sede principal",
+        "contactar la sede san carlos"
+    ],
+    contenido: `Las líneas celulares indicadas en el Manual de Convivencia son:
+
+- Sede Principal: 3205742664.
+- Sede San Carlos: 310 4299810.`
+},
+
+{
+    titulo: "Plataforma académica",
+    palabras: [
+        "plataforma académica",
+        "plataforma academica",
+        "plataforma",
+        "calificaciones",
+        "calificaciones por periodo",
+        "notas",
+        "notas por periodo",
+        "boletines",
+        "boletín",
+        "boletin",
+        "seguimiento académico",
+        "seguimiento academico",
+        "ver calificaciones",
+        "ver notas",
+        "calificaciones en tiempo real"
+    ],
+    contenido: `La plataforma académica es el medio electrónico mediante el cual se emite información académica, como los boletines.
+
+Permite que los padres de familia y los estudiantes hagan seguimiento en tiempo real de las calificaciones por periodo en cada asignatura.`
+},
+
+{
+    titulo: "Facebook institucional Idesco",
+    palabras: [
+        "Facebook",
+        "facebook institucional",
+        "Idesco Facebook",
+        "red social institucional",
+        "redes sociales",
+        "eventos de la institución",
+        "eventos institucionales",
+        "información de eventos",
+        "publicaciones de la institución"
+    ],
+    contenido: `Idesco/Facebook.com es la cuenta en la red social institucional de Facebook donde se publica información sobre los diferentes eventos que ocurren en la Institución.`
+},
+
+{
+    titulo: "Blog institucional de convivencia",
+    palabras: [
+        "blog institucional",
+        "blog de la institución",
+        "blog de convivencia",
+        "convivenciapacificaidesco",
+        "información del blog",
+        "informacion del blog",
+        "información de la institución",
+        "informacion de la institucion"
+    ],
+    contenido: `Convivenciapacificaidesco.blogspot.com es el blog institucional donde se publica información sobre lo que ocurre en la Institución.`
+},
+
+
+{
+    titulo: "Artículo Siete: Uniformes Institucionales",
+    palabras: [
+        "artículo siete",
+        "articulo siete",
+        "artículo 7",
+        "articulo 7",
+        "uniformes institucionales",
+        "uniforme institucional",
+        "uniforme",
+        "uniforme de diario",
+        "uniforme de educación física",
+        "uniforme de educacion fisica",
+        "uniforme IDESCO",
+        "cómo es el uniforme",
+        "como es el uniforme",
+        "cómo debo ir vestido",
+        "como debo ir vestido"
+    ],
+    contenido: `ARTÍCULO SIETE
+
+UNIFORMES INSTITUCIONALES
+
+Los alumnos y alumnas de IDESCO deberán presentarse de acuerdo con las características establecidas para cada uniforme institucional.
+
+El Manual establece un uniforme de diario para niños, un uniforme de diario para niñas y un uniforme de educación física para ambos.`
+},
+
+{
+    titulo: "Artículo Siete: Uniforme de diario para niños",
+    palabras: [
+        "uniforme de diario niños",
+        "uniforme diario niños",
+        "uniforme de los niños",
+        "uniforme masculino",
+        "uniforme de hombre",
+        "pantalón azul turquí",
+        "pantalon azul turqui",
+        "camisa guayabera",
+        "guayabera blanca",
+        "manga larga",
+        "escudo en la camisa",
+        "escudo en el bolsillo",
+        "correa negra",
+        "correa de cuero negra",
+        "zapatos negros escolares",
+        "zapatos escolares negros",
+        "medias azules",
+        "medias negras",
+        "medias no tobilleras",
+        "medias normales"
+    ],
+    contenido: `UNIFORME DE DIARIO PARA NIÑOS
+
+El uniforme de diario para los niños está compuesto por:
+
+- Pantalón clásico azul turquí.
+- Camisa guayabera blanca de manga larga, con el escudo impreso en la parte inferior izquierda sobre el bolsillo.
+- La camisa debe usarse por fuera del pantalón.
+- Correa de cuero de color negro.
+- Zapatos negros escolares, bien lustrados.
+- Medias azules o negras que no sean tobilleras, sino de altura normal.`
+},
+
+{
+    titulo: "Artículo Siete: Uniforme de diario para niñas",
+    palabras: [
+        "uniforme de diario niñas",
+        "uniforme diario niñas",
+        "uniforme de las niñas",
+        "uniforme femenino",
+        "uniforme de mujer",
+        "falda azul turquí",
+        "falda azul turqui",
+        "falda plisada",
+        "blusa blanca",
+        "escudo en la blusa",
+        "escudo en el pecho",
+        "zapatos negros",
+        "zapatos bien lustrados",
+        "medias blancas",
+        "medias blancas altas",
+        "medias debajo de la rodilla"
+    ],
+    contenido: `UNIFORME DE DIARIO PARA NIÑAS
+
+El uniforme de diario para las niñas está compuesto por:
+
+- Falda plisada azul turquí.
+- Blusa blanca con el escudo de la institución impreso en la parte izquierda del pecho.
+- Zapatos negros, bien lustrados.
+- Medias blancas altas, dos dedos por debajo de la rodilla.`
+},
+
+{
+    titulo: "Artículo Siete: Uniforme de educación física",
+    palabras: [
+        "uniforme de educación física",
+        "uniforme de educacion fisica",
+        "uniforme deportivo",
+        "uniforme de deportes",
+        "educación física",
+        "educacion fisica",
+        "camiseta blanca",
+        "vivos azul turquí",
+        "vivos azul turqui",
+        "escudo del colegio",
+        "sudadera azul turquí",
+        "sudadera azul turqui",
+        "sigla IDESCO",
+        "IDESCO en la sudadera",
+        "calzado deportivo",
+        "zapatos deportivos blancos",
+        "medias azul turquí",
+        "medias azul turqui",
+        "medias no tobilleras",
+        "día de educación física",
+        "dia de educacion fisica"
+    ],
+    contenido: `UNIFORME DE EDUCACIÓN FÍSICA
+
+El uniforme de educación física, tanto para niños como para niñas, está compuesto por:
+
+- Camiseta blanca con vivos azul turquí en los puños y el cuello.
+- Escudo del colegio impreso en la parte izquierda del pecho.
+- Sudadera azul turquí con vivos blancos y la sigla IDESCO en el muslo izquierdo, de frente, en forma vertical.
+- La sudadera debe estar elaborada con las normas técnicas para garantizar la realización de movimientos en las actividades del área de educación física, con el mínimo de riesgos para el estudiante.
+- Calzado deportivo de color blanco liso.
+- Medias azul turquí que no sean tobilleras.
+
+Este uniforme deberá portarse únicamente el día indicado en el horario de clases y cuando la institución lo establezca.`
+},
+
+
+{
+    titulo: "Artículo Ocho: Derechos y Deberes de los Estudiantes",
+    palabras: [
+        "artículo ocho",
+        "articulo ocho",
+        "artículo 8",
+        "articulo 8",
+        "derechos y deberes de los estudiantes",
+        "derechos de los estudiantes",
+        "deberes de los estudiantes",
+        "derechos estudiantiles",
+        "derechos del estudiante",
+        "deberes del estudiante"
+    ],
+    contenido: `ARTÍCULO OCHO
+
+DERECHOS Y DEBERES DE LOS ESTUDIANTES
+
+El presente artículo establece los derechos y deberes que corresponden a los estudiantes de la Institución Educativa.`
+},
+
+{
+    titulo: "Artículo Ocho.Uno: Derechos de los estudiantes",
+    palabras: [
+        "ocho.uno",
+        "artículo ocho.uno",
+        "articulo ocho.uno",
+        "artículo 8.1",
+        "articulo 8.1",
+        "derechos",
+        "derechos de los estudiantes",
+        "derecho de los estudiantes",
+        "derechos estudiantiles",
+        "qué derechos tengo",
+        "que derechos tengo",
+        "derechos del estudiante"
+    ],
+    contenido: `ARTÍCULO OCHO.UNO
+
+DERECHOS
+
+Los estudiantes tienen los siguientes derechos establecidos en el Manual de Convivencia.`
+},
+
+{
+    titulo: "Derecho a presentar excusas por inasistencia",
+    palabras: [
+        "excusa",
+        "excusas",
+        "presentar excusa",
+        "presentar excusas",
+        "justificar inasistencia",
+        "justificar una inasistencia",
+        "inasistencia",
+        "faltar a clases",
+        "falta a clases",
+        "no asistir a clases",
+        "razones de salud",
+        "calamidad familiar"
+    ],
+    contenido: `Los estudiantes tienen derecho a presentar excusas cuando, por razones justas, dejen de asistir normalmente a las clases, como por motivos de salud, razones médicas, laboratorios, calamidades familiares o situaciones imprevistas durante la jornada.
+
+El propósito es que puedan realizar las actividades pendientes cuando se reintegren a la institución, previo acuerdo con el o los docentes.`
+},
+
+{
+    titulo: "Derecho a recibir enseñanza planificada",
+    palabras: [
+        "enseñanza planificada",
+        "recibir enseñanza",
+        "enseñanza",
+        "formación integral",
+        "formacion integral",
+        "clases planificadas",
+        "educación planificada",
+        "educacion planificada"
+    ],
+    contenido: `Los estudiantes tienen derecho a recibir una enseñanza planificada que garantice su formación integral.`
+},
+
+{
+    titulo: "Derecho a portar equipos electrónicos autorizados",
+    palabras: [
+        "celular",
+        "teléfono celular",
+        "telefono celular",
+        "mp3",
+        "mp4",
+        "ipod",
+        "computador",
+        "computadores",
+        "equipos electrónicos",
+        "equipos electronicos",
+        "objetos electrónicos",
+        "objetos electronicos",
+        "puedo llevar celular",
+        "puedo usar celular",
+        "portar celular"
+    ],
+    contenido: `Los estudiantes tienen derecho a portar equipos electrónicos como celular, MP3, MP4, iPod, computadores u otros objetos electrónicos, siempre y cuando sean autorizados por la institución.`
+},
+
+{
+    titulo: "Derecho a manifestar una preparación inadecuada",
+    palabras: [
+        "preparación adecuada",
+        "preparacion adecuada",
+        "preparación en una asignatura",
+        "preparacion en una asignatura",
+        "no recibo buena preparación",
+        "no recibo buena preparacion",
+        "problema con una asignatura",
+        "problemas con una asignatura",
+        "manifestar ante la institución",
+        "preparación de una asignatura"
+    ],
+    contenido: `Los estudiantes tienen derecho a manifestar ante las instancias inmediatas de la institución si en una asignatura no están recibiendo la preparación adecuada.`
+},
+
+{
+    titulo: "Derecho a realizar sugerencias para el mejoramiento institucional",
+    palabras: [
+        "sugerencias",
+        "hacer sugerencias",
+        "realizar sugerencias",
+        "sugerencias para la institución",
+        "sugerencias para la institucion",
+        "mejoramiento institucional",
+        "mejorar la institución",
+        "mejorar la institucion",
+        "proponer mejoras",
+        "propuestas de los estudiantes"
+    ],
+    contenido: `Los estudiantes tienen derecho a realizar sugerencias de manera respetuosa ante las instancias que correspondan, con el propósito de contribuir al mejoramiento institucional.`
+},
+
+{
+    titulo: "Derecho a recibir información confiable",
+    palabras: [
+        "información confiable",
+        "informacion confiable",
+        "recibir información",
+        "recibir informacion",
+        "información de la institución",
+        "informacion de la institucion",
+        "información de los entes",
+        "informacion de los entes",
+        "información institucional"
+    ],
+    contenido: `Los estudiantes tienen derecho a recibir información confiable por parte de los entes de la institución.`
+},
+
+
+{
+    titulo: "Derecho a ser atendido con respeto al reclamar un derecho",
+    palabras: [
+        "reclamar un derecho",
+        "reclamar derechos",
+        "violación de un derecho",
+        "violacion de un derecho",
+        "violación de derechos",
+        "violacion de derechos",
+        "reclamo de derechos",
+        "atendido con respeto",
+        "reclamar ante la institución"
+    ],
+    contenido: `El estudiante tiene derecho a ser atendido con respeto por todos los miembros de la institución cuando reclame la posible violación de uno o varios de sus derechos como miembro de la comunidad educativa.`
+},
+
+{
+    titulo: "Derecho a recibir un trato digno y cortés",
+    palabras: [
+        "trato digno",
+        "trato cortes",
+        "trato cortés",
+        "respeto",
+        "trato respetuoso",
+        "trato digno y cortés",
+        "trato digno y cortes",
+        "respeto de los miembros",
+        "cómo deben tratarme",
+        "como deben tratarme"
+    ],
+    contenido: `El estudiante tiene derecho a recibir un trato digno y cortés por parte de cada uno de los miembros de la comunidad educativa.`
+},
+
+{
+    titulo: "Derecho a participar en eventos institucionales",
+    palabras: [
+        "eventos culturales",
+        "eventos deportivos",
+        "eventos sociales",
+        "eventos institucionales",
+        "participar en eventos",
+        "actividades culturales",
+        "actividades deportivas",
+        "actividades sociales",
+        "eventos internos",
+        "eventos externos"
+    ],
+    contenido: `El estudiante tiene derecho a participar en los eventos culturales, deportivos y sociales que planifique la institución, tanto interna como externamente.`
+},
+
+{
+    titulo: "Derecho a participar en danzas y grupos deportivos",
+    palabras: [
+        "danzas folclóricas",
+        "danzas folcloricas",
+        "grupos deportivos",
+        "participar en danzas",
+        "participar en grupos deportivos",
+        "actividades folclóricas",
+        "actividades folcloricas",
+        "normas disciplinarias",
+        "criterios de administración"
+    ],
+    contenido: `El estudiante tiene derecho a participar en las danzas folclóricas y en los grupos deportivos, acogiendo las normas disciplinarias y los criterios de administración establecidos por la institución.`
+},
+
+{
+    titulo: "Derecho a representar dignamente a la institución",
+    palabras: [
+        "representar a la institución",
+        "representar a la institucion",
+        "representar dignamente",
+        "eventos culturales",
+        "eventos científicos",
+        "eventos cientificos",
+        "eventos creativos",
+        "eventos deportivos",
+        "representación institucional"
+    ],
+    contenido: `El estudiante tiene derecho a representar dignamente a la institución en eventos culturales, científicos, creativos y deportivos.`
+},
+
+{
+    titulo: "Derecho a recibir el carné estudiantil",
+    palabras: [
+        "carné",
+        "carne",
+        "carné estudiantil",
+        "carne estudiantil",
+        "carné de estudiante",
+        "carne de estudiante",
+        "identificación estudiantil",
+        "identificacion estudiantil",
+        "recibir carné"
+    ],
+    contenido: `El estudiante tiene derecho a recibir el carné expedido por la institución, que lo acredita como estudiante de la misma.`
+},
+
+{
+    titulo: "Derecho a presentar reclamos académicos",
+    palabras: [
+        "reclamos académicos",
+        "reclamos academicos",
+        "reclamo académico",
+        "reclamo academico",
+        "reclamar una nota",
+        "reclamar una calificación",
+        "reclamar una calificacion",
+        "resultados de evaluaciones",
+        "evaluaciones",
+        "derechos en evaluaciones",
+        "dirección de grupo",
+        "direccion de grupo",
+        "coordinación",
+        "coordinacion",
+        "comisión de evaluación",
+        "comision de evaluacion",
+        "promoción",
+        "promocion"
+    ],
+    contenido: `El estudiante tiene derecho a presentar reclamos académicos ante el docente, la dirección de grupo, la coordinación o las comisiones de evaluación y promoción cuando considere que sus derechos han sido vulnerados en los resultados de las evaluaciones realizadas, dentro de los tiempos establecidos.`
+},
+
+{
+    titulo: "Derecho a solicitar información sobre inasistencias docentes",
+    palabras: [
+        "inasistencias de docentes",
+        "inasistencias docentes",
+        "inasistencia de profesores",
+        "faltas de los docentes",
+        "faltas de profesores",
+        "docente no asiste",
+        "profesor no asiste",
+        "información sobre docentes",
+        "informacion sobre docentes",
+        "inasistencias reiterativas"
+    ],
+    contenido: `El estudiante puede solicitar, con el debido respeto, información a la dirección del plantel sobre las inasistencias reiteradas de uno o varios docentes.`
+},
+
+{
+    titulo: "Derecho a conocer anticipadamente el estado académico",
+    palabras: [
+        "estado académico",
+        "estado academico",
+        "conocer mis notas",
+        "conocer mis calificaciones",
+        "calificaciones antes del boletín",
+        "calificaciones antes del boletin",
+        "informes por periodo",
+        "informe final",
+        "estado académico antes del informe",
+        "estado academico antes del informe"
+    ],
+    contenido: `El estudiante tiene derecho a conocer con anticipación su estado académico por parte de los docentes, antes de que los informes definitivos por periodos y de final de año lleguen a la coordinación académica.`
+},
+
+{
+    titulo: "Derecho a reclamar la puntualidad de los docentes",
+    palabras: [
+        "puntualidad de los docentes",
+        "puntualidad de los profesores",
+        "docente impuntual",
+        "profesor impuntual",
+        "reclamar puntualidad",
+        "puntualidad de profesores"
+    ],
+    contenido: `El estudiante tiene derecho a reclamar la puntualidad de los docentes en el cumplimiento de sus deberes.`
+},
+
+{
+    titulo: "Derecho a ser escuchado en descargos",
+    palabras: [
+        "descargos",
+        "ser escuchado",
+        "derecho a descargos",
+        "acusado de una situación",
+        "situación tipo 1",
+        "situacion tipo 1",
+        "situación tipo 2",
+        "situacion tipo 2",
+        "situación tipo 3",
+        "situacion tipo 3",
+        "falta tipo 1",
+        "falta tipo 2",
+        "falta tipo 3"
+    ],
+    contenido: `El estudiante tiene derecho a ser escuchado en descargos cuando se le acuse de haber cometido una situación de tipo uno, dos o tres contemplada en el Manual de Convivencia.`
+},
+
+{
+    titulo: "Derecho a acceder a los servicios de la institución",
+    palabras: [
+        "servicios de la institución",
+        "servicios de la institucion",
+        "servicios institucionales",
+        "biblioteca",
+        "sala de informática",
+        "sala de informatica",
+        "audiovisuales",
+        "servicios sanitarios",
+        "baños",
+        "canchas deportivas",
+        "refrigerios",
+        "tienda escolar",
+        "acceso a los servicios"
+    ],
+    contenido: `El estudiante tiene derecho a tener acceso a los servicios que ofrece la institución, entre ellos:
+
+- Biblioteca.
+- Sala de informática.
+- Servicios de audiovisuales.
+- Servicios sanitarios.
+- Canchas deportivas.
+- Refrigerios.
+- Tienda escolar.`
+},
+
+{
+    titulo: "Derecho a organizar centros de estudio",
+    palabras: [
+        "centros de estudio",
+        "organizar centros de estudio",
+        "grupos de estudio",
+        "jornadas contrarias",
+        "jornadas contrarias a las clases",
+        "superación personal",
+        "superación grupal",
+        "superación institucional",
+        "estudiar en grupo"
+    ],
+    contenido: `El estudiante puede organizar centros de estudio en jornadas contrarias a las clases, dentro de la institución, que busquen la superación personal, grupal e institucional.
+
+Para realizar estas actividades debe contar con la autorización de la directiva del plantel.`
+},
+
+{
+    titulo: "Derecho a organizar jornadas deportivas y culturales",
+    palabras: [
+        "jornadas deportivas",
+        "jornadas creativas",
+        "jornadas científicas",
+        "jornadas cientificas",
+        "jornadas culturales",
+        "organizar jornadas",
+        "actividades deportivas",
+        "actividades creativas",
+        "actividades científicas",
+        "actividades cientificas",
+        "actividades culturales",
+        "bien común",
+        "bien comun"
+    ],
+    contenido: `El estudiante puede organizar jornadas deportivas, creativas, científicas y culturales que busquen el bien común en fechas especiales, previa autorización de la dirección del plantel educativo.`
+},
+
+{
+    titulo: "Derecho a conocer el horario de atención de docentes",
+    palabras: [
+        "horario de docentes",
+        "horario de profesores",
+        "horario de atención",
+        "horario de atencion",
+        "atención de padres y alumnos",
+        "atencion de padres y alumnos",
+        "cuándo atienden los docentes",
+        "cuando atienden los docentes",
+        "disponibilidad horaria"
+    ],
+    contenido: `El estudiante tiene derecho a conocer la disponibilidad horaria de los docentes para la atención de padres y alumnos.`
+},
+
+{
+    titulo: "Derecho al respeto de la fe religiosa",
+    palabras: [
+        "fe religiosa",
+        "religión",
+        "religion",
+        "respeto a la religión",
+        "respeto a la religion",
+        "libertad religiosa",
+        "creencias religiosas",
+        "creencias",
+        "derecho religioso"
+    ],
+    contenido: `El estudiante tiene derecho a ser respetado en su fe religiosa de acuerdo con la Constitución y las leyes.`
+},
+
+{
+    titulo: "Artículo Ocho.Uno: Educación religiosa",
+    palabras: [
+        "educación religiosa",
+        "educacion religiosa",
+        "religión católica",
+        "religion catolica",
+        "contenido católico",
+        "contenido catolico",
+        "clase de religión",
+        "clase de religion",
+        "MEN",
+        "Ministerio de Educación"
+    ],
+    contenido: `Parágrafo Uno:
+
+Actualmente la Institución Educativa ofrece educación religiosa de contenido católico, acorde con las directrices del MEN.`
+},
+
+
+
+{
+    titulo: "Artículo Ocho.Uno: Prohibiciones relacionadas con actos religiosos",
+    palabras: [
+        "actos religiosos prohibidos",
+        "prohibiciones religiosas",
+        "espiritismo",
+        "cultos satánicos",
+        "cultos satanicos",
+        "fenómenos psíquicos",
+        "fenomenos psiquicos",
+        "parapsíquicos",
+        "parapsiquicos",
+        "supersticiones",
+        "ley 133 de 1994",
+        "ley 133",
+        "artículo 4 ley 133",
+        "artículo 5 ley 133"
+    ],
+    contenido: `Parágrafo Dos:
+
+Están prohibidos dentro de la institución los actos que atenten contra la integridad física, psíquica y moral de los miembros de la comunidad educativa, aunque se realicen bajo el pretexto de actos religiosos.
+
+También se prohíben dentro de la institución las prácticas de espiritismo, cultos satánicos, fenómenos psíquicos y parapsíquicos y las supersticiones, de acuerdo con lo establecido en la Ley 133 de 1994.`
+},
+
+
+{
+    titulo: "Artículo Ocho.Dos: Deberes de los estudiantes",
+    palabras: [
+        "ocho.dos",
+        "artículo ocho.dos",
+        "articulo ocho.dos",
+        "artículo 8.2",
+        "articulo 8.2",
+        "deberes",
+        "deberes de los estudiantes",
+        "deberes del estudiante",
+        "obligaciones de los estudiantes",
+        "responsabilidades de los estudiantes",
+        "qué deberes tengo",
+        "que deberes tengo"
+    ],
+    contenido: `ARTÍCULO OCHO.DOS
+
+DEBERES
+
+Los estudiantes tienen los siguientes deberes establecidos en el Manual de Convivencia.`
+},
+
+{
+    titulo: "Deber de ser puntual",
+    palabras: [
+        "puntualidad",
+        "ser puntual",
+        "puntual en las clases",
+        "puntual en actos",
+        "asistencia puntual",
+        "llegar puntual",
+        "llegar a tiempo",
+        "actos programados"
+    ],
+    contenido: `El estudiante debe ser puntual en la asistencia a clases y demás actos programados por la institución.`
+},
+
+{
+    titulo: "Deber de aplicar los valores",
+    palabras: [
+        "aplicar los valores",
+        "valores",
+        "valores en el trato",
+        "trato con las personas",
+        "trato con los demás",
+        "trato con los demas",
+        "respeto por el entorno",
+        "valores y entorno"
+    ],
+    contenido: `El estudiante debe aplicar los valores en su trato con las demás personas y con su entorno.`
+},
+
+{
+    titulo: "Deber de presentar excusas por inasistencia",
+    palabras: [
+        "excusa",
+        "excusas",
+        "presentar excusa",
+        "presentar excusas",
+        "excusa por inasistencia",
+        "justificar inasistencia",
+        "justificar una falta",
+        "48 horas",
+        "cuarenta y ocho horas",
+        "excusa firmada",
+        "firma del padre",
+        "cédula del padre",
+        "cedula del padre",
+        "actividades dejadas de realizar",
+        "evaluaciones dejadas de realizar"
+    ],
+    contenido: `El estudiante debe presentar excusas justificadas con anterioridad o, en su defecto, dentro de las 48 horas posteriores a la inasistencia.
+
+La excusa debe estar firmada por el padre de familia e incluir su número de cédula.
+
+La excusa únicamente le permite al estudiante ejercer el derecho a que se le practiquen las actividades y evaluaciones que dejó de realizar durante el día o los días de su ausencia.`
+},
+
+{
+    titulo: "Deber de mantener un buen desempeño escolar",
+    palabras: [
+        "desempeño escolar",
+        "buen desempeño",
+        "buen nivel académico",
+        "buen nivel academico",
+        "rendimiento escolar",
+        "rendimiento académico",
+        "rendimiento academico",
+        "mejorar el desempeño"
+    ],
+    contenido: `El estudiante debe procurar un buen nivel en su desempeño escolar.`
+},
+
+{
+    titulo: "Deber de demostrar buen comportamiento",
+    palabras: [
+        "buen comportamiento",
+        "comportamiento en clases",
+        "comportamiento fuera de clases",
+        "comportamiento escolar",
+        "comportarse bien",
+        "buena conducta",
+        "conducta en clase"
+    ],
+    contenido: `El estudiante debe demostrar un buen comportamiento tanto en las clases como fuera de ellas.`
+},
+
+{
+    titulo: "Deber de documentarse antes de las clases",
+    palabras: [
+        "documentarse antes de clases",
+        "documentarse",
+        "prepararse antes de clase",
+        "preparar las clases",
+        "participar en clase",
+        "participación en clase",
+        "participacion en clase",
+        "proceso pedagógico",
+        "proceso pedagogico"
+    ],
+    contenido: `El estudiante debe documentarse antes de recibir las clases, con el fin de poder participar en ellas y contribuir al enriquecimiento del proceso pedagógico.`
+},
+
+{
+    titulo: "Deber de participar en el plan de áreas",
+    palabras: [
+        "plan de áreas",
+        "plan de areas",
+        "plan de asignatura",
+        "plan de asignaturas",
+        "participar en el plan de áreas",
+        "participar en el plan de asignaturas",
+        "participación académica",
+        "participacion academica"
+    ],
+    contenido: `El estudiante debe participar activamente en el desarrollo del plan de áreas y/o asignatura durante todo el año.`
+},
+
+{
+    titulo: "Deber de participar en el mejoramiento de la institución",
+    palabras: [
+        "mejoramiento de la institución",
+        "mejoramiento de la institucion",
+        "mejorar la institución",
+        "mejorar la institucion",
+        "participar en el mejoramiento",
+        "mejoramiento institucional",
+        "participación institucional"
+    ],
+    contenido: `El estudiante debe participar activamente en el mejoramiento de la institución.`
+},
+
+{
+    titulo: "Deber de cumplir las actividades académicas",
+    palabras: [
+        "actividades académicas",
+        "actividades academicas",
+        "tareas",
+        "trabajos académicos",
+        "trabajos academicos",
+        "actividades asignadas",
+        "cumplir actividades",
+        "cumplir tareas",
+        "responsabilidad académica",
+        "responsabilidad academica"
+    ],
+    contenido: `El estudiante debe cumplir con diligencia y de forma responsable todas las actividades académicas asignadas.`
+},
+
+{
+    titulo: "Deber de prestar atención al profesor",
+    palabras: [
+        "prestar atención",
+        "prestar atencion",
+        "atención al profesor",
+        "atencion al profesor",
+        "explicaciones del profesor",
+        "escuchar al profesor",
+        "escuchar al docente",
+        "buena formación",
+        "buena formacion"
+    ],
+    contenido: `El estudiante debe prestar la debida atención a las explicaciones del profesor para contribuir a su buena formación.`
+},
+
+{
+    titulo: "Deber de mantener buen comportamiento en la formación",
+    palabras: [
+        "formación general",
+        "formacion general",
+        "comportamiento en la formación",
+        "comportamiento en la formacion",
+        "comportamiento en el patio",
+        "comportamiento en el aula",
+        "comportamiento fuera del plantel",
+        "patio",
+        "aula de clases",
+        "fuera del plantel"
+    ],
+    contenido: `El estudiante debe demostrar buen comportamiento durante la formación general en el patio, en el aula de clases y fuera del plantel.`
+},
+
+{
+    titulo: "Deber de respetar los mensajes de interés general",
+    palabras: [
+        "mensaje de interés general",
+        "mensaje de interes general",
+        "respetar a las personas",
+        "personas que se dirigen a la comunidad",
+        "comunidad educativa",
+        "mensajes a la comunidad",
+        "respeto a los visitantes"
+    ],
+    contenido: `El estudiante debe demostrar respeto por las personas que se dirigen a la comunidad educativa para manifestar un mensaje de interés general.`
+},
+
+{
+    titulo: "Deber de utilizar las instancias para presentar quejas",
+    palabras: [
+        "instancias",
+        "instancias para quejas",
+        "manifestar quejas",
+        "presentar quejas",
+        "presentar una queja",
+        "quejas",
+        "reclamos",
+        "cómo presentar una queja",
+        "como presentar una queja"
+    ],
+    contenido: `El estudiante debe tener en cuenta las instancias establecidas para la manifestación de quejas.`
+},
+
+{
+    titulo: "Deber de dedicar tiempo a las actividades escolares",
+    palabras: [
+        "tiempo para estudiar",
+        "tiempo para actividades escolares",
+        "actividades escolares",
+        "dedicar tiempo",
+        "proceso normal de clases",
+        "responsabilidad escolar",
+        "excusa no justificada",
+        "excusas no justificadas"
+    ],
+    contenido: `El estudiante debe dedicar tiempo suficiente a las actividades escolares que resulten del proceso normal de clases, sin presentar excusas no justificadas.`
+},
+
+{
+    titulo: "Deber de presentar autorización para grupos y comités",
+    palabras: [
+        "autorización del padre",
+        "autorizacion del padre",
+        "autorización del acudiente",
+        "autorizacion del acudiente",
+        "autorización escrita",
+        "autorizacion escrita",
+        "grupos de la institución",
+        "grupos de la institucion",
+        "comités de trabajo",
+        "comites de trabajo",
+        "pertenecer a un grupo",
+        "pertenecer a un comité",
+        "pertenecer a un comite"
+    ],
+    contenido: `El estudiante debe presentar autorización escrita por el padre de familia o acudiente cuando sea requerido o cuando desee pertenecer a cualquiera de los grupos o comités de trabajo de la institución.`
+},
+
+{
+    titulo: "Deber de cumplir las normas de grupos y comités",
+    palabras: [
+        "normas de los grupos",
+        "normas de los comités",
+        "normas de los comites",
+        "disciplina de los grupos",
+        "disciplina de los comités",
+        "disciplina de los comites",
+        "grupos de trabajo",
+        "comités de trabajo",
+        "comites de trabajo",
+        "colaborar con las actividades",
+        "actividades de los grupos",
+        "actividades de los comités",
+        "actividades de los comites"
+    ],
+    contenido: `Cuando el estudiante forme parte de grupos o comités de trabajo, debe acogerse a las normas o disciplina que los rijan y colaborar con sus actividades cuando sea necesario.`
+},
+
+
+{
+    titulo: "Deber de representar dignamente a la institución",
+    palabras: [
+        "representar a la institución",
+        "representar a la institucion",
+        "representar la institución",
+        "representar la institucion",
+        "eventos sociales",
+        "eventos culturales",
+        "eventos funerales",
+        "funerales",
+        "eventos deportivos",
+        "otros eventos",
+        "representación de la institución",
+        "representacion de la institucion",
+        "manera decorosa",
+        "manera ejemplar"
+    ],
+    contenido: `El estudiante debe representar a la Institución Educativa en los eventos sociales, culturales, funerales, deportivos y otros de manera decorosa y ejemplar ante la comunidad.`
+},
+
+{
+    titulo: "Deber de firmar la matrícula y acatar las normas",
+    palabras: [
+        "firmar la matrícula",
+        "firmar la matricula",
+        "firma de matrícula",
+        "firma de matricula",
+        "matrícula",
+        "matricula",
+        "acatar las normas",
+        "cumplir las normas",
+        "normas de la institución",
+        "normas de la institucion"
+    ],
+    contenido: `El estudiante debe firmar la matrícula y acatar las normas establecidas por la institución.`
+},
+
+{
+    titulo: "Deber de esperar al docente en el salón",
+    palabras: [
+        "esperar al docente",
+        "esperar al profesor",
+        "esperar al profesor en el salón",
+        "esperar al profesor en el salon",
+        "esperar al docente en el salón",
+        "esperar al docente en el salon",
+        "salón de clases",
+        "salon de clases",
+        "permanecer en el salón",
+        "permanecer en el salon"
+    ],
+    contenido: `El estudiante debe esperar al docente dentro del salón de clases.`
+},
+
+{
+    titulo: "Deber de respetar a los miembros de la comunidad educativa",
+    palabras: [
+        "respetar a los compañeros",
+        "respetar a los profesores",
+        "respetar a los docentes",
+        "respetar a los directivos",
+        "respetar a los padres de familia",
+        "respetar al personal administrativo",
+        "respetar servicios generales",
+        "respeto a los compañeros",
+        "respeto a los profesores",
+        "respeto a los directivos",
+        "respeto a la comunidad educativa",
+        "personal administrativo",
+        "personal de servicios generales"
+    ],
+    contenido: `El estudiante debe demostrar respeto por sus compañeros, profesores, directivos, padres de familia, personal administrativo y personal de servicios generales.`
+},
+
+{
+    titulo: "Deber de solicitar permiso por ausencias durante la jornada",
+    palabras: [
+        "permiso para salir",
+        "permiso durante la jornada",
+        "permiso de coordinación",
+        "coordinación académica",
+        "coordinacion academica",
+        "coordinación de convivencia",
+        "coordinacion de convivencia",
+        "ausencia durante la jornada",
+        "ausencias durante la jornada",
+        "salir durante clases",
+        "salir del colegio",
+        "permiso para ausentarse"
+    ],
+    contenido: `El estudiante debe solicitar permiso ante la coordinación académica y de convivencia por sus ausencias dentro de la jornada de clases.`
+},
+
+{
+    titulo: "Deber de cuidar los utensilios y espacios del colegio",
+    palabras: [
+        "utensilios del colegio",
+        "espacios del colegio",
+        "espacios de la institución",
+        "espacios de la institucion",
+        "cuidar los espacios",
+        "cuidar los utensilios",
+        "uso adecuado",
+        "uso adecuado de los espacios",
+        "préstamo",
+        "prestamo",
+        "elementos prestados",
+        "materiales prestados"
+    ],
+    contenido: `El estudiante debe dar el uso adecuado a los utensilios o espacios del colegio cuando estos sean cedidos en calidad de préstamo.`
+},
+
+{
+    titulo: "Deber de cuidar los bienes de la institución",
+    palabras: [
+        "bienes de la institución",
+        "bienes de la institucion",
+        "bienes institucionales",
+        "cuidar los bienes",
+        "sentido de pertenencia",
+        "sentido de pertenencia por la institución",
+        "dañar los bienes",
+        "destrucción de bienes",
+        "destruccion de bienes",
+        "extravío de bienes",
+        "extravios de bienes",
+        "pagar daños",
+        "responsabilidad económica",
+        "responsabilidad economica",
+        "responsabilidad disciplinaria"
+    ],
+    contenido: `El estudiante debe demostrar sentido de pertenencia por todos los bienes que posee la institución.
+
+Además, debe responder económica y disciplinariamente por la destrucción o extravío de los mismos.`
+},
+
+{
+    titulo: "Deber de mantener los cuadernos y útiles en orden",
+    palabras: [
+        "cuadernos en orden",
+        "mantener los cuadernos",
+        "presentación de los cuadernos",
+        "presentacion de los cuadernos",
+        "útiles escolares",
+        "utiles escolares",
+        "orden de los útiles",
+        "orden de los utiles",
+        "buena presentación",
+        "buena presentacion",
+        "cuidar los cuadernos"
+    ],
+    contenido: `El estudiante debe mantener sus cuadernos en orden y con buena presentación, al igual que sus demás útiles escolares.`
+},
+
+{
+    titulo: "Deber de conservar la buena presentación personal",
+    palabras: [
+        "presentación personal",
+        "presentacion personal",
+        "buena presentación personal",
+        "buena presentacion personal",
+        "presentación personal dentro del plantel",
+        "presentacion personal dentro del plantel",
+        "presentación personal fuera del plantel",
+        "presentacion personal fuera del plantel",
+        "buena apariencia",
+        "presentarse bien"
+    ],
+    contenido: `El estudiante debe conservar la buena presentación personal dentro y fuera del plantel.`
+},
+
+
+{
+    titulo: "Deber de portar el carné estudiantil",
+    palabras: [
+        "portar el carné",
+        "portar el carne",
+        "llevar el carné",
+        "llevar el carne",
+        "carné estudiantil",
+        "carne estudiantil",
+        "carné que acredita",
+        "carne que acredita",
+        "identificación estudiantil",
+        "identificacion estudiantil"
+    ],
+    contenido: `El estudiante debe portar el carné que lo acredita como estudiante del plantel.`
+},
+
+{
+    titulo: "Deber de asistir debidamente uniformado",
+    palabras: [
+        "asistir uniformado",
+        "asistir debidamente uniformado",
+        "uniforme",
+        "uniformado",
+        "usar el uniforme",
+        "portar el uniforme",
+        "actividades de la institución",
+        "actividades de la institucion",
+        "buena presentación personal",
+        "buena presentacion personal",
+        "cuidar la presentación personal",
+        "cuidar la presentacion personal"
+    ],
+    contenido: `El estudiante debe asistir debidamente uniformado a las clases y demás actividades en las cuales participe la Institución Educativa, y cuidar permanentemente su buena presentación personal.`
+},
+
+{
+    titulo: "Deber de atender las sanciones y advertencias",
+    palabras: [
+        "sanciones",
+        "amonestaciones",
+        "advertencias",
+        "atender sanciones",
+        "atender amonestaciones",
+        "atender advertencias",
+        "sanciones de los superiores",
+        "amonestaciones de los superiores",
+        "advertencias de los superiores",
+        "superiores"
+    ],
+    contenido: `El estudiante debe atender de buen modo las sanciones, amonestaciones y advertencias impartidas por sus superiores.`
+},
+
+{
+    titulo: "Deber de acatar los toques del timbre",
+    palabras: [
+        "toques del timbre",
+        "timbre",
+        "timbre escolar",
+        "una timbrada",
+        "dos timbradas",
+        "tres timbradas",
+        "significado del timbre",
+        "cambio de clase",
+        "entrar o salir",
+        "reunión general",
+        "reunion general",
+        "reunión en el patio",
+        "reunion en el patio"
+    ],
+    contenido: `El estudiante debe acatar los toques del timbre de la siguiente manera:
+
+• Una timbrada: indica cambio de clase.
+
+• Dos timbradas: indican entrar o salir, dependiendo del caso.
+
+• Tres timbradas: significan reunión general de alumnos y profesores en el patio de la institución.`
+},
+
+{
+    titulo: "Deber de colaborar con las actividades de mejoramiento",
+    palabras: [
+        "colaborar con las actividades",
+        "colaborar en las actividades",
+        "mejoría de la institución",
+        "mejoria de la institucion",
+        "mejoramiento de la institución",
+        "mejoramiento de la institucion",
+        "mejorar el colegio",
+        "mejorar la institución",
+        "mejorar la institucion",
+        "actividades de mejoramiento"
+    ],
+    contenido: `El estudiante debe colaborar con todas las actividades que tiendan hacia la mejoría de la institución.`
+},
+
+{
+    titulo: "Deber de contar con los textos y útiles escolares",
+    palabras: [
+        "textos escolares",
+        "útiles escolares",
+        "utiles escolares",
+        "libros",
+        "materiales escolares",
+        "útiles para las clases",
+        "utiles para las clases",
+        "textos para las clases",
+        "material escolar",
+        "proceso de enseñanza",
+        "proceso de aprendizaje"
+    ],
+    contenido: `El estudiante debe proveerse de todos los textos y demás útiles escolares indispensables para el desarrollo de los procesos de enseñanza y aprendizaje.`
+},
+
+{
+    titulo: "Deber de resolver conflictos mediante el diálogo",
+    palabras: [
+        "resolver conflictos",
+        "resolver un conflicto",
+        "conflictos",
+        "negociación",
+        "negociacion",
+        "concertación",
+        "concertacion",
+        "conciliación",
+        "conciliacion",
+        "diálogo",
+        "dialogo",
+        "solucionar conflictos",
+        "solucionar un problema"
+    ],
+    contenido: `Para la resolución de cualquier conflicto, el estudiante debe utilizar la negociación, la concertación y la conciliación.`
+},
+
+{
+    titulo: "Deber de mantener una buena presentación de las manos",
+    palabras: [
+        "presentación de las manos",
+        "presentacion de las manos",
+        "manos limpias",
+        "manos limpias y cortas",
+        "uñas limpias",
+        "uñas cortas",
+        "uñas",
+        "cuidado de las uñas",
+        "esmalte",
+        "esmaltes suaves",
+        "esmaltes naturales",
+        "esmalte natural"
+    ],
+    contenido: `Los estudiantes deben mantener una buena presentación de sus manos.
+
+Las uñas deben estar limpias y cortas. Las niñas pueden utilizar esmaltes suaves o naturales.`
+},
+
+
 
 ];
 
