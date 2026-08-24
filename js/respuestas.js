@@ -4794,7 +4794,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "ley",
         "manual de convivencia"
     ],
-    respuesta: "Debido proceso: Al estudiante le serán aplicadas las normas correspondientes al caso atribuido, ante quien sea competente según lo establecido previamente, observando las formas propias de la Constitución, la Ley y el Manual de Convivencia."
+    contenido: "Debido proceso: Al estudiante le serán aplicadas las normas correspondientes al caso atribuido, ante quien sea competente según lo establecido previamente, observando las formas propias de la Constitución, la Ley y el Manual de Convivencia."
 },
 
 
@@ -4807,7 +4807,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "proceso disciplinario pedagógico",
         "proceso disciplinario pedagogico"
     ],
-    respuesta: "Culpabilidad: Cuando sea necesario llevar un proceso disciplinario-pedagógico, se excluye toda forma de responsabilidad objetiva. En cualquier caso, las acciones solo serán sancionables a título de dolo o culpa."
+    contenido: "Culpabilidad: Cuando sea necesario llevar un proceso disciplinario-pedagógico, se excluye toda forma de responsabilidad objetiva. En cualquier caso, las acciones solo serán sancionables a título de dolo o culpa."
 },
 
 
@@ -4819,7 +4819,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "discriminación",
         "discriminacion"
     ],
-    respuesta: "Igualdad: Todos los alumnos recibirán la misma protección y trato por parte de la Institución Educativa Delicias San Carlos, y tendrán los mismos derechos, libertades y oportunidades sin ninguna discriminación por su edad, raza, origen nacional o familiar, lengua, credo, opinión política o filosófica."
+    contenido: "Igualdad: Todos los alumnos recibirán la misma protección y trato por parte de la Institución Educativa Delicias San Carlos, y tendrán los mismos derechos, libertades y oportunidades sin ninguna discriminación por su edad, raza, origen nacional o familiar, lengua, credo, opinión política o filosófica."
 },
 
 
@@ -4832,7 +4832,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "funciones disciplinarias pedagogicas",
         "funciones disciplinarias pedagógicas"
     ],
-    respuesta: "Finalidad de las funciones disciplinarias-pedagógicas: El Manual de Convivencia garantiza el cumplimiento de los fines y funciones propuestas por la Institución Educativa Delicias San Carlos en relación con el comportamiento de sus alumnos cuando éste los afecte o ponga en peligro dicho cumplimiento."
+    contenido: "Finalidad de las funciones disciplinarias-pedagógicas: El Manual de Convivencia garantiza el cumplimiento de los fines y funciones propuestas por la Institución Educativa Delicias San Carlos en relación con el comportamiento de sus alumnos cuando éste los afecte o ponga en peligro dicho cumplimiento."
 },
 
 
@@ -4847,7 +4847,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "formacion en valores",
         "formación en valores"
     ],
-    respuesta: "Finalidad de las estrategias formativas y/o medidas disciplinarias: Cumplen esencialmente los fines estrictamente pedagógicos, de prevención y formación en valores, o la extinción de comportamientos que contraríen el proceso de aprendizaje propio y ajeno."
+    contenido: "Finalidad de las estrategias formativas y/o medidas disciplinarias: Cumplen esencialmente los fines estrictamente pedagógicos, de prevención y formación en valores, o la extinción de comportamientos que contraríen el proceso de aprendizaje propio y ajeno."
 },
 
 
@@ -4863,7 +4863,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "recurso de reposicion",
         "recurso de reposición"
     ],
-    respuesta: "Derecho a la defensa: El alumno que sea objeto de una investigación disciplinaria tiene derecho a conocer la queja y las pruebas que se alleguen a la investigación; a que se practiquen las pruebas que solicite, a ser escuchado en su versión libre y espontánea, y a rendir sus descargos, para lo cual puede estar acompañado de sus padres o acudientes, y a interponer el recurso de reposición sobre la decisión tomada."
+    contenido: "Derecho a la defensa: El alumno que sea objeto de una investigación disciplinaria tiene derecho a conocer la queja y las pruebas que se alleguen a la investigación; a que se practiquen las pruebas que solicite, a ser escuchado en su versión libre y espontánea, y a rendir sus descargos, para lo cual puede estar acompañado de sus padres o acudientes, y a interponer el recurso de reposición sobre la decisión tomada."
 },
 
 
@@ -4878,7 +4878,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "graduar la sancion",
         "graduar la sanción"
     ],
-    respuesta: "Proporcionalidad: La sanción disciplinaria debe corresponder al grado de valoración de la acción cometida, según sea ésta Tipo I, II o III. Al graduar la acción disciplinaria se deben aplicar los criterios contenidos en este Manual de Convivencia."
+    contenido: "Proporcionalidad: La sanción disciplinaria debe corresponder al grado de valoración de la acción cometida, según sea ésta Tipo I, II o III. Al graduar la acción disciplinaria se deben aplicar los criterios contenidos en este Manual de Convivencia."
 },
 
 
@@ -4891,7 +4891,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "estrategias formativas",
         "medidas disciplinarias"
     ],
-    respuesta: "Motivación: Toda decisión debe ser motivada. Las estrategias formativas y/o medidas disciplinarias que se apliquen deben contener una sustentación adecuada a su finalidad pedagógica y formativa."
+    contenido: "Motivación: Toda decisión debe ser motivada. Las estrategias formativas y/o medidas disciplinarias que se apliquen deben contener una sustentación adecuada a su finalidad pedagógica y formativa."
 },
 
 
@@ -4907,7 +4907,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "formación integral",
         "formacion integral"
     ],
-    respuesta: "Interpretación del orden interno: En la interpretación y aplicación de la ley disciplinaria se debe tener en cuenta que la finalidad del proceso es la prevalencia de la justicia, el reconocimiento de los valores éticos y la formación integral de los estudiantes."
+    contenido: "Interpretación del orden interno: En la interpretación y aplicación de la ley disciplinaria se debe tener en cuenta que la finalidad del proceso es la prevalencia de la justicia, el reconocimiento de los valores éticos y la formación integral de los estudiantes."
 },
 
 
@@ -4922,7 +4922,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "estrategia formativa",
         "medida correctiva"
     ],
-    respuesta: "Medidas contra el abuso de los derechos y el incumplimiento de los deberes: El estudiante que abuse de sus derechos, incumpla sus deberes o compromisos e incurra en situaciones disciplinarias, se hará acreedor a una estrategia formativa o medida correctiva."
+    contenido: "Medidas contra el abuso de los derechos y el incumplimiento de los deberes: El estudiante que abuse de sus derechos, incumpla sus deberes o compromisos e incurra en situaciones disciplinarias, se hará acreedor a una estrategia formativa o medida correctiva."
 },
 
 
@@ -4937,7 +4937,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "derechos de los demas",
         "responsabilidad frente a los derechos"
     ],
-    respuesta: "Protección de los derechos e intereses de la comunidad educativa (Bien Común): El ejercicio de los derechos de los alumnos, de sus padres o acudientes autorizados, supone la responsabilidad frente a los derechos de los demás educandos y de cada uno de los estamentos que componen la comunidad educativa de la Institución."
+    contenido: "Protección de los derechos e intereses de la comunidad educativa (Bien Común): El ejercicio de los derechos de los alumnos, de sus padres o acudientes autorizados, supone la responsabilidad frente a los derechos de los demás educandos y de cada uno de los estamentos que componen la comunidad educativa de la Institución."
 },
 
 
@@ -4951,7 +4951,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "proceso de análisis comportamental",
         "proceso de analisis comportamental"
     ],
-    respuesta: "Participación: Todos los alumnos y sus padres o acudientes tienen derecho a ser escuchados y solicitar pruebas en el momento de encontrarse en un proceso de análisis comportamental."
+    contenido: "Participación: Todos los alumnos y sus padres o acudientes tienen derecho a ser escuchados y solicitar pruebas en el momento de encontrarse en un proceso de análisis comportamental."
 },
 
 
@@ -4968,7 +4968,7 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
         "garantías para la defensa",
         "garantias para la defensa"
     ],
-    respuesta: "Necesidad de la prueba: Todo proceso debe buscar la verdad de los hechos con pruebas veraces y pertinentes, teniendo en cuenta que, de acuerdo con la Declaración Universal de los Derechos Humanos y la Constitución Política de Colombia, toda persona tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa."
+    contenido: "Necesidad de la prueba: Todo proceso debe buscar la verdad de los hechos con pruebas veraces y pertinentes, teniendo en cuenta que, de acuerdo con la Declaración Universal de los Derechos Humanos y la Constitución Política de Colombia, toda persona tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa."
 },
 
 
