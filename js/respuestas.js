@@ -4972,6 +4972,642 @@ Es el conjunto de actuaciones administrativas y de otra naturaleza que se desarr
 },
 
 
+{
+    titulo: "Potestad disciplinaria",
+    palabras: [
+        "potestad disciplinaria",
+        "función disciplinaria",
+        "funcion disciplinaria",
+        "quién tiene la función disciplinaria",
+        "quien tiene la funcion disciplinaria",
+        "rector",
+        "delegación de la función disciplinaria",
+        "delegacion de la funcion disciplinaria"
+    ],
+    contenido: `POTESTAD DISCIPLINARIA.
+
+De conformidad con el literal "g" del artículo 25 del Decreto 1860 de 1994, la función disciplinaria en los establecimientos educativos corresponde al Rector o a quien éste la delegue.`
+},
+
+{
+    titulo: "Artículo quince: Situaciones tipo I",
+    palabras: [
+        "artículo quince",
+        "articulo quince",
+        "quince",
+        "situaciones tipo I",
+        "situaciones tipo uno",
+        "tipo I",
+        "tipo uno",
+        "faltas tipo I",
+        "faltas tipo uno",
+        "situaciones tipo 1",
+        "qué es una situación tipo I",
+        "que es una situacion tipo I"
+    ],
+    contenido: `ARTÍCULO QUINCE: SITUACIONES TIPO I.
+
+Son situaciones tipo I las siguientes:
+
+- Llegar tarde a la jornada escolar sin excusa justificada.
+- Portar el uniforme en lugares públicos fuera de la jornada de clase de manera indecorosa o sin autorización de la institución.
+- Permanecer con la camiseta de educación física por fuera de la sudadera.
+- Desaseo personal y porte innecesario de accesorios diferentes al uniforme.
+- Traer zapatos de un color diferente al estipulado para cada uniforme.
+- Hacer cambios o correcciones a las anotaciones hechas por el profesor en los controles de clases.
+- Portar los uniformes inadecuadamente y en los días que no corresponde.
+- Maltratar las zonas verdes.
+- Dañar envases o utensilios de la cooperativa y del restaurante escolar.`
+},
+
+
+{
+    titulo: "Artículo quince: Situaciones tipo I - continuación",
+    palabras: [
+        "situaciones tipo I",
+        "situaciones tipo uno",
+        "faltas tipo I",
+        "faltas tipo uno",
+        "arrojar papeles",
+        "arrojar basura",
+        "masticar chicle",
+        "lanzar objetos",
+        "lanzar semillas",
+        "lanzar bolas de papel",
+        "no esperar al profesor",
+        "actividades diferentes en clase",
+        "fraude en trabajos",
+        "fraude en evaluaciones",
+        "no traer implementos",
+        "elementos tecnológicos en clase",
+        "agresión escolar por primera vez",
+        "agresión física por primera vez",
+        "agresión verbal por primera vez",
+        "agresión gestual por primera vez",
+        "agresión relacional por primera vez",
+        "agresión electrónica por primera vez",
+        "compromisos académicos",
+        "desinformar al acudiente"
+    ],
+    contenido: `ARTÍCULO QUINCE: SITUACIONES TIPO I.
+
+También se consideran situaciones tipo I las siguientes:
+
+- Arrojar papeles y basura fuera de los recipientes destinados para ello.
+- Masticar chicle en forma inadecuada que interrumpa el desarrollo normal de la clase.
+- Lanzar objetos, tales como semillas, chicles, bolas de papel, etc., a los compañeros u otros miembros de la comunidad educativa.
+- No esperar al profesor dentro del salón de clases.
+- Realizar actividades diferentes a las que se están realizando en la clase.
+- Cometer fraude en la presentación de trabajos y evaluaciones.
+- No traer los implementos necesarios para desarrollar la clase.
+- Usar inadecuadamente elementos tecnológicos en clase.
+- Presentar una agresión escolar física, verbal, gestual, relacional y/o electrónica por primera vez con algún miembro de la comunidad educativa.
+- No cumplir con los compromisos académicos.
+- Desinformar al acudiente sobre las comunicaciones enviadas por el establecimiento educativo.`
+},
+
+
+{
+    titulo: "Artículo quince: Situaciones tipo I - continuación",
+    palabras: [
+        "situaciones tipo I",
+        "situaciones tipo uno",
+        "faltas tipo I",
+        "faltas tipo uno",
+        "entregar excusas tarde",
+        "excusa después de 48 horas",
+        "excusa despues de 48 horas",
+        "denigrar de la institución",
+        "mal nombre de la institución",
+        "desacatar indicaciones",
+        "desacatar instrucciones",
+        "instrucciones de los docentes",
+        "uso inapropiado de servicios",
+        "materiales de trabajo",
+        "levantarse del puesto",
+        "levantarse sin autorización",
+        "dialogar durante la clase",
+        "hablar durante la clase",
+        "subirse a las porterías",
+        "subirse a estructuras metálicas",
+        "subirse a los árboles",
+        "irrespeto a los símbolos",
+        "símbolos patrios",
+        "simbolos patrios",
+        "símbolos religiosos",
+        "simbolos religiosos",
+        "símbolos institucionales",
+        "simbolos institucionales",
+        "destruir bienes de la institución",
+        "dañar bienes de la institución",
+        "consumo de licor",
+        "consumo de cigarrillo",
+        "licor dentro de la institución",
+        "cigarrillo dentro de la institución",
+        "licor con el uniforme",
+        "cigarrillo con el uniforme",
+        "consumir alimentos en el salón",
+        "comer en el salón",
+        "comer en clase"
+    ],
+    contenido: `ARTÍCULO QUINCE: SITUACIONES TIPO I.
+
+También se consideran situaciones tipo I las siguientes:
+
+- Entregar las excusas después del tiempo requerido de 48 horas.
+- Denigrar del establecimiento educativo y cualquier actuación que atente contra su buen nombre o prestigio.
+- Desacatar las indicaciones e instrucciones de los docentes.
+- Utilizar inapropiadamente los servicios del establecimiento educativo y materiales de trabajo.
+- Levantarse del puesto de manera reiterativa sin autorización.
+- Dialogar con los compañeros durante el desarrollo de la clase.
+- Subirse a las porterías de fútbol, estructuras metálicas y árboles.
+- Irrespeto a los símbolos patrios, religiosos e institucionales.
+- Participar en actos que destruyan los bienes del establecimiento educativo y sus alrededores en forma culposa.
+- El consumo de licor o cigarrillo dentro y fuera del establecimiento educativo, portando el uniforme.
+- Consumir alimentos dentro del salón de clases sin la autorización correspondiente.`
+},
+
+
+{
+    titulo: "Artículo 16: Ruta de atención para situaciones tipo I",
+    palabras: [
+        "ruta de atencion situaciones tipo uno",
+        "ruta de atención situaciones tipo uno",
+        "situaciones tipo uno",
+        "situacion tipo uno",
+        "situación tipo uno",
+        "que pasa en una situacion tipo uno",
+        "qué pasa en una situación tipo uno",
+        "procedimiento situacion tipo uno",
+        "procedimiento situación tipo uno"
+    ],
+    contenido: `ARTÍCULO 16°. RUTA DE ATENCIÓN PARA SITUACIONES TIPO I.
+
+1. Se recibe queja o informe sobre una situación puntual.
+
+2. Se hace el reporte correspondiente a alguna autoridad escolar: Rector, Coordinador, Orientadora, Director de grupo o Docente.
+
+3. La Coordinación de Convivencia toma nota de la situación correspondiente. Si el caso es de embarazo adolescente, se comunica al Departamento de Orientación y este toma el control del asunto, y se informa de la situación al Hospital y/o al ICBF.`
+},
+
+
+{
+    titulo: "Artículo 16: Ruta de atención para situaciones tipo I - continuación",
+    palabras: [
+        "pasos siguientes situacion tipo uno",
+        "pasos siguientes situación tipo uno",
+        "acompañamiento situacion tipo uno",
+        "acompañamiento situación tipo uno",
+        "informar a los padres situacion tipo uno",
+        "informar al rector situacion tipo uno",
+        "cierre del caso tipo uno",
+        "cierre del caso situación tipo uno",
+        "paragrafo uno situaciones tipo uno",
+        "parágrafo uno situaciones tipo uno",
+        "paragrafo dos situaciones tipo uno",
+        "parágrafo dos situaciones tipo uno"
+    ],
+    contenido: `ARTÍCULO 16°. RUTA DE ATENCIÓN PARA SITUACIONES TIPO I.
+
+4. El(la) Director(a) de curso informa del caso a Coordinación de Convivencia. El caso entra a formar parte del cronograma de acompañamiento del cual hará parte Orientación y el Coordinador.
+
+5. Se informa a los padres de familia. Se deja acta al respecto que reposa en Coordinación de Convivencia.
+
+6. Se informa al Rector sobre evolución del proceso.
+
+7. Cierre del caso.
+
+PARÁGRAFO 1. El tratamiento a las situaciones anteriormente mencionadas, lo realizará el docente, director de grupo, coordinador o el rector que observe la situación inmediatamente presentada. En caso de ser necesario se remitirá al comité escolar de convivencia para su respectivo análisis.
+
+PARÁGRAFO 2. Si una situación de tipo I es observada por un miembro de la comunidad educativa diferente a los anteriormente mencionados, podrá informar de lo ocurrido a un docente o directivo docente del EE.`
+},
+
+{
+    titulo: "Artículo 17: Protocolo a seguir por parte de la institución",
+    palabras: [
+        "articulo diecisiete",
+        "artículo diecisiete",
+        "protocolo situaciones tipo uno",
+        "protocolo situacion tipo uno",
+        "protocolo situación tipo uno",
+        "protocolo a seguir",
+        "protocolo por parte de la institucion",
+        "protocolo por parte de la institución",
+        "que hace la institucion en situaciones tipo uno",
+        "qué hace la institución en situaciones tipo uno",
+        "recomendacion verbal",
+        "recomendación verbal",
+        "orientacion verbal",
+        "orientación verbal"
+    ],
+    contenido: `ARTÍCULO 17°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Las situaciones Tipo I conllevan el siguiente proceso por parte de la Institución:
+
+• Recomendación u orientación verbal por parte de quien observa la situación.`
+},
+
+
+{
+    titulo: "Artículo 16: Ruta de atención para situaciones tipo I - continuación",
+    palabras: [
+        "pasos siguientes situacion tipo uno",
+        "pasos siguientes situación tipo uno",
+        "acompañamiento situacion tipo uno",
+        "acompañamiento situación tipo uno",
+        "informar a los padres situacion tipo uno",
+        "informar al rector situacion tipo uno",
+        "cierre del caso tipo uno",
+        "cierre del caso situación tipo uno",
+        "paragrafo uno situaciones tipo uno",
+        "parágrafo uno situaciones tipo uno",
+        "paragrafo dos situaciones tipo uno",
+        "parágrafo dos situaciones tipo uno"
+    ],
+    contenido: `ARTÍCULO 16°. RUTA DE ATENCIÓN PARA SITUACIONES TIPO I.
+
+4. El(la) Director(a) de curso informa del caso a Coordinación de Convivencia. El caso entra a formar parte del cronograma de acompañamiento del cual hará parte Orientación y el Coordinador.
+
+5. Se informa a los padres de familia. Se deja acta al respecto que reposa en Coordinación de Convivencia.
+
+6. Se informa al Rector sobre evolución del proceso.
+
+7. Cierre del caso.
+
+PARÁGRAFO 1. El tratamiento a las situaciones anteriormente mencionadas, lo realizará el docente, director de grupo, coordinador o el rector que observe la situación inmediatamente presentada. En caso de ser necesario se remitirá al comité escolar de convivencia para su respectivo análisis.
+
+PARÁGRAFO 2. Si una situación de tipo I es observada por un miembro de la comunidad educativa diferente a los anteriormente mencionados, podrá informar de lo ocurrido a un docente o directivo docente del EE.`
+},
+
+{
+    titulo: "Artículo 17: Protocolo a seguir por parte de la institución",
+    palabras: [
+        "articulo diecisiete",
+        "artículo diecisiete",
+        "protocolo situaciones tipo uno",
+        "protocolo situacion tipo uno",
+        "protocolo situación tipo uno",
+        "protocolo a seguir",
+        "protocolo por parte de la institucion",
+        "protocolo por parte de la institución",
+        "que hace la institucion en situaciones tipo uno",
+        "qué hace la institución en situaciones tipo uno",
+        "recomendacion verbal",
+        "recomendación verbal",
+        "orientacion verbal",
+        "orientación verbal"
+    ],
+    contenido: `ARTÍCULO 17°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Las situaciones Tipo I conllevan el siguiente proceso por parte de la Institución:
+
+• Recomendación u orientación verbal por parte de quien observa la situación.`
+},
+
+
+{
+    titulo: "Artículo 17: Protocolo a seguir por parte de la institución - continuación",
+    palabras: [
+        "llamado de atencion verbal",
+        "llamado de atención verbal",
+        "anotacion en el observador",
+        "anotación en el observador",
+        "anotacion control de clases",
+        "anotación control de clases",
+        "firma del estudiante",
+        "rechazar anotacion",
+        "rechazar anotación",
+        "escrito a coordinacion",
+        "escrito a coordinación",
+        "dialogo con el docente",
+        "diálogo con el docente",
+        "reflexion sobre la situacion",
+        "reflexión sobre la situación",
+        "buscar soluciones",
+        "compromisos situacion tipo uno",
+        "que pasa si no se cumplen los compromisos",
+        "qué pasa si no se cumplen los compromisos",
+        "remitir informe al rector",
+        "comite escolar de convivencia tipo uno",
+        "comité escolar de convivencia tipo uno",
+        "pasar a situacion tipo dos",
+        "pasar a situación tipo dos"
+    ],
+    contenido: `ARTÍCULO 17°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+• El docente o directivo-docente que se haya percatado de la situación podrá realizar llamado de atención verbal, anotación en el Observador y/o en el control de clases. Dicha anotación debe ser firmada por el estudiante, aceptándola o rechazándola. En caso de rechazo, el estudiante debe realizar un escrito remitiéndolo al día siguiente a la coordinación, con la firma del padre, madre y/o acudiente, donde conste que se encuentra enterado de la situación.
+
+• Diálogo con el docente, director de grupo o coordinador que esté al tanto de la situación, para efectuar la respectiva reflexión sobre el hecho y buscar posibles soluciones y compromisos ante el impase. Si la situación presentada no fue observada por quien está a cargo, sino que procede de una queja hecha por un miembro de la comunidad, se indagará con otras personas que estuvieron presentes para tener una mejor información de lo ocurrido.
+
+• En caso de que las anteriores medidas no generen soluciones o que los compromisos realizados entre las partes no se cumplan, la coordinación remitirá informe al Rector (Presidente del Comité Escolar de Convivencia), quien determinará si se hace necesario convocar extraordinariamente el Comité Escolar de Convivencia para presentar el caso y decidir si se debe acudir al protocolo de la situación Tipo II.`
+},
+
+{
+    titulo: "Artículo 18: Acciones preventivas y/o correctivas para situaciones tipo I",
+    palabras: [
+        "articulo dieciocho",
+        "artículo dieciocho",
+        "acciones preventivas situaciones tipo uno",
+        "acciones preventivas situaciones tipo I",
+        "acciones correctivas situaciones tipo uno",
+        "acciones correctivas situaciones tipo I",
+        "medidas situaciones tipo uno",
+        "medidas situaciones tipo I",
+        "incumplimiento de compromisos",
+        "incumplimiento compromisos estudiante",
+        "debido proceso tipo uno",
+        "medidas preventivas",
+        "medidas correctivas",
+        "disculpas publicas",
+        "disculpas públicas",
+        "ofrecer disculpas"
+    ],
+    contenido: `ARTÍCULO 18°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO I.
+
+Ante el incumplimiento de los compromisos asumidos por un estudiante con el docente o directivo-docente encargado de atender la situación, y como parte del debido proceso y en procura de aplicar acciones preventivas y/o correctivas, se aplicarán las siguientes medidas:
+
+• Ofrecer disculpas públicas a las personas afectadas.`
+},
+
+
+{
+    titulo: "Artículo 18: Acciones preventivas y/o correctivas para situaciones tipo I - continuación",
+    palabras: [
+        "llamado de atencion verbal accion pedagogica",
+        "llamado de atención verbal acción pedagógica",
+        "servicio social situacion tipo uno",
+        "servicio social situación tipo uno",
+        "llamado de atencion escrito",
+        "llamado de atención escrito",
+        "observador del estudiante",
+        "constancia en el observador",
+        "charlas de reflexion",
+        "charlas de reflexión",
+        "carteleras exposiciones",
+        "acciones correctivas tipo uno",
+        "medidas correctivas tipo uno"
+    ],
+    contenido: `ARTÍCULO 18°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO I.
+
+• Llamado de atención verbal acompañado de una acción pedagógica o servicio social.
+
+• Llamado de atención escrito del cual se dejará constancia en el Observador del estudiante.
+
+• Realizar charlas de reflexión utilizando carteleras, exposiciones u otro medio de comunicación por parte de quien cometa la falta.`
+},
+
+{
+    titulo: "Artículo 19: Situaciones tipo II",
+    palabras: [
+        "articulo diecinueve",
+        "artículo diecinueve",
+        "situaciones tipo dos",
+        "situaciones tipo II",
+        "situacion tipo dos",
+        "situación tipo dos",
+        "faltas tipo dos",
+        "faltas tipo II",
+        "lanzar objetos y causar daños",
+        "encerrar a un compañero",
+        "enfrentamientos fisicos",
+        "enfrentamientos físicos",
+        "enfrentamientos verbales",
+        "palabras obscenas",
+        "porte de armas",
+        "dibujos obscenos",
+        "mensajes denigrantes",
+        "fotomontajes",
+        "mensajes sexuales ofensivos",
+        "divulgar fotos o videos",
+        "divulgar fotos o videos de otras personas",
+        "agresion con armas",
+        "agresión con armas",
+        "calumniar",
+        "piropo inadecuado",
+        "contacto fisico no consentido",
+        "contacto físico no consentido",
+        "burlas irrespetuosas",
+        "discriminacion por raza",
+        "discriminación por raza",
+        "discriminacion por condicion social",
+        "discriminación por condición social",
+        "ritos satanicos",
+        "ritos satánicos",
+        "espiritismo",
+        "brujeria",
+        "brujería"
+    ],
+    contenido: `ARTÍCULO 19°. SITUACIONES TIPO II.
+
+Las situaciones Tipo II contempladas en el Manual de Convivencia incluyen:
+
+• Lanzar objetos dentro y fuera del plantel que ocasione daños a cualquier miembro de la comunidad educativa y/o particulares.
+
+• Encerrar arbitrariamente a un compañero(a) en cualquier recinto de la institución.
+
+• Enfrentamientos físicos con puños, apodos y demás manifestaciones agresivas.
+
+• Enfrentamientos verbales con palabras obscenas.
+
+• Porte de armas que pongan en riesgo la integridad física de los miembros de la comunidad educativa.
+
+• Dibujar figuras obscenas, mensajes denigrantes y/o fotomontajes, sea por medio virtual o físico, que atenten contra la moral o el buen nombre de cualquiera de los miembros de la comunidad educativa.
+
+• Mensajes sexuales ofensivos escritos en espacios públicos como baños, paredes, tablero o pupitres.
+
+• Divulgar fotos o videos que afecten a otras personas a través del uso de las TIC.
+
+• Atentar contra uno o varios miembros de la comunidad educativa de manera física con objetos cortopunzantes, armas de fuego, golpes, empujones o mordiscos.
+
+• Calumniar a cualquier miembro de la comunidad educativa.
+
+• Piropos inadecuados o contacto físico intencional no consentido, involucrando partes íntimas del cuerpo, que ocurran de forma repetitiva.
+
+• Burlas o manifestaciones irrespetuosas contra uno o varios miembros de la comunidad educativa en situaciones de vulnerabilidad y/o diferencia de edad, raza, condición social o inclinación sexual dentro de la institución, por redes sociales o cualquier medio tecnológico.
+
+• Practicar ritos satánicos, espiritismo, brujería y otros actos que atenten contra la dignidad humana y la salud física y mental de cualquier miembro de la comunidad educativa.`
+},
+
+
+{
+    titulo: "Artículo 19: Situaciones tipo II - continuación",
+    palabras: [
+        "inducir al consumo de cigarrillo",
+        "inducir al consumo de tabaco",
+        "inducir al consumo de licor",
+        "inducir al consumo de sustancias psicoactivas",
+        "consumo de sustancias psicoactivas tipo dos",
+        "amenazar a compañeros",
+        "amenazar a miembros de la institucion",
+        "amenazar a miembros de la institución",
+        "chantajear",
+        "extorsionar",
+        "presionar a compañeros",
+        "intimidar a compañeros",
+        "atentar fisicamente contra compañeros",
+        "atentar físicamente contra compañeros",
+        "hurto comprobado",
+        "complicidad en hurto",
+        "hurto con coaccion",
+        "hurto con coacción",
+        "hurto con agresion",
+        "hurto con agresión",
+        "irrespeto con palabras obscenas",
+        "palabras obscenas contra docente",
+        "palabras obscenas contra directivo"
+    ],
+    contenido: `ARTÍCULO 19°. SITUACIONES TIPO II.
+
+• Inducir a cualquier miembro de la comunidad educativa al consumo de cigarrillo, tabaco, licor o cualquier tipo de sustancias psicoactivas dentro de la Institución o en actividades que involucren el nombre del colegio.
+
+• Amenazar, chantajear, extorsionar, presionar, intimidar o atentar físicamente contra los compañeros de la Institución o cualquiera de sus miembros.
+
+• Hurto comprobado o complicidad que incluya coacción, agresión o sometimiento.
+
+• Irrespeto con palabras obscenas contra un docente - directivo.`
+},
+
+{
+    titulo: "Artículo 20: Protocolo a seguir por parte de la institución",
+    palabras: [
+        "articulo veinte",
+        "artículo veinte",
+        "protocolo situaciones tipo dos",
+        "protocolo situacion tipo dos",
+        "protocolo situación tipo dos",
+        "protocolo para situaciones tipo II",
+        "quien detecta la falta",
+        "dialogo con estudiantes implicados",
+        "diálogo con estudiantes implicados",
+        "anotacion en el observador",
+        "anotación en el observador",
+        "firma de los implicados",
+        "citar al acudiente",
+        "citar a los padres",
+        "informar al acudiente",
+        "compromiso para mejorar",
+        "intervencion de sicoorientacion",
+        "intervención de sicoorientación",
+        "intervencion de coordinacion",
+        "intervención de coordinación",
+        "intervencion del comite de convivencia",
+        "intervención del comité de convivencia"
+    ],
+    contenido: `ARTÍCULO 20°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+• Quien detecta la falta, docente, coordinador, rector o cualquier otro integrante de la comunidad educativa, dialogará con el o los estudiantes implicados, de lo cual se dejará constancia.
+
+• De ser reiterativa la conducta, hará las anotaciones correspondientes en el observador donde deben firmar los implicados.
+
+• Citar, por parte de docente, dirección de grupo o coordinación, al acudiente para ponerle en conocimiento la situación y formalizar un compromiso para ayudar a mejorar al estudiante.
+
+• Intervención de Sicoorientación o coordinación, de lo cual se dejará constancia.
+
+• Intervención del comité de convivencia, de lo cual se dejará constancia.`
+},
+
+
+{
+    titulo: "Artículo 21: Ruta de atención para situaciones tipo II",
+    palabras: [
+        "articulo veintiuno",
+        "artículo veintiuno",
+        "ruta de atencion situaciones tipo dos",
+        "ruta de atención situaciones tipo dos",
+        "ruta de atencion situaciones tipo II",
+        "ruta de atención situaciones tipo II",
+        "recoger versiones",
+        "versiones de las partes implicadas",
+        "dialogar con los estudiantes implicados",
+        "diálogo con los estudiantes implicados",
+        "reforzar valores vulnerados",
+        "competencias ciudadanas",
+        "manejo de las emociones",
+        "reconocimiento de la sexualidad",
+        "exploracion del cuerpo",
+        "exploración del cuerpo",
+        "anotaciones en el observador",
+        "llamado del padre de familia",
+        "acciones pedagogicas tipo dos",
+        "acciones pedagógicas tipo dos",
+        "firma de compromiso",
+        "remision a orientacion escolar",
+        "remisión a orientación escolar",
+        "daño fisico tipo dos",
+        "daño físico tipo dos",
+        "centro asistencial",
+        "restablecimiento de derechos",
+        "medidas de proteccion",
+        "medidas de protección",
+        "acciones restaurativas",
+        "reparacion de daños",
+        "reparación de daños",
+        "reconciliacion",
+        "reconciliación",
+        "comite escolar de convivencia",
+        "comité escolar de convivencia",
+        "seguimiento del caso",
+        "protocolo situacion tipo tres",
+        "protocolo situación tipo tres",
+        "sistema de informacion de convivencia escolar",
+        "sistema de información de convivencia escolar"
+    ],
+    contenido: `ARTÍCULO 21°. RUTA DE ATENCIÓN PARA SITUACIONES TIPO II.
+
+• Recoger versiones de las partes implicadas en la situación.
+
+• Dialogar con los estudiantes implicados acerca de la situación de manera interdisciplinar, donde se refuercen los valores vulnerados en la situación presentada.
+
+• Reforzar las competencias ciudadanas relacionadas con el manejo de las emociones, reconocimiento de la sexualidad y la exploración del cuerpo.
+
+• Anotaciones en el observador del estudiante.
+
+• Llamado del padre de familia.
+
+• Acciones pedagógicas y firma de compromiso, por parte del director de grupo, estudiante y padre de familia. Remisión al departamento de orientación escolar.
+
+• En casos de daño físico, se trasladará al o los estudiantes a un centro asistencial para su atención inmediata y se informará a los acudientes. Se dejará constancia.
+
+• En caso de haber requerido medidas de restablecimiento de derechos, se remitirá la situación a las autoridades administrativas y se dejará constancia de dicha actuación.
+
+• Adoptar medidas de protección a los estudiantes involucrados en la situación, para evitar posibles represalias.
+
+• Determinar las acciones restaurativas que busquen la reparación de los daños causados, el restablecimiento de los derechos y la reconciliación dentro de un clima de relaciones constructivas en el establecimiento educativo; así como las consecuencias aplicables a quienes han promovido, contribuido o participado en la situación reportada.
+
+• El comité escolar de convivencia dejará constancia en acta de todo lo ocurrido y de las decisiones adoptadas, la cual será suscrita por todos los integrantes e intervinientes. El comité realizará el análisis y seguimiento, a fin de verificar si la solución fue efectiva o si se requiere acudir al protocolo consagrado en la situación Tipo III.
+
+• El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.`
+},
+
+{
+    titulo: "Artículo 22: Acciones preventivas y/o correctivas para situaciones tipo II",
+    palabras: [
+        "articulo veintidos",
+        "artículo veintidós",
+        "acciones preventivas situaciones tipo dos",
+        "acciones preventivas situaciones tipo II",
+        "acciones correctivas situaciones tipo dos",
+        "acciones correctivas situaciones tipo II",
+        "medidas situaciones tipo dos",
+        "medidas situaciones tipo II",
+        "espacios de expresion",
+        "espacios de expresión",
+        "expresar puntos de vista",
+        "conciliacion",
+        "conciliación",
+        "concertacion",
+        "concertación",
+        "confidencialidad",
+        "respeto a la intimidad",
+        "manejo etico de la situacion",
+        "manejo ético de la situación"
+    ],
+    contenido: `ARTÍCULO 22°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO II.
+
+• Fomentar espacios en los que los miembros de la comunidad educativa puedan expresar sus puntos de vista sobre la situación, (conciliación, concertación, entre otros), aplicando el principio de confidencialidad y respeto a la intimidad de los temas que allí se traten para dar un manejo ético y cuidadoso de la situación.`
+},
+
+
 
 ];
 
