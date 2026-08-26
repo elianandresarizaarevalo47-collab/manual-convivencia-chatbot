@@ -6973,7 +6973,7 @@ Serán acciones de atención aquellas que permitan asistir a los miembros de la 
     titulo: "Artículo 31: Acciones de prevención",
     palabras: [
         "acciones de prevención",
-        "articulo 31",
+        "articulo treinta y uno",
         "artículo 31",
         "prevención de la violencia escolar",
         "prevencion convivencia escolar",
@@ -6992,7 +6992,7 @@ Se consideran acciones de prevención las que buscan intervenir oportunamente en
 {
     titulo: "Artículo 31: Acciones de prevención - Acciones de prevención y pérdida del cupo",
     palabras: [
-        "acciones de prevención",
+        "acciones de prevencion",
         "acciones de prevención convivencia",
         "identificación de riesgos",
         "riesgos de convivencia escolar",
@@ -7071,7 +7071,7 @@ Todos ellos competentes para participar en la dirección de las instituciones de
         "funciones del consejo directivo",
         "consejo directivo",
         "articulo 33",
-        "artículo 33",
+        "artículo treinta y tres",
         "funciones consejo directivo",
         "decisiones de la institucion",
         "decisiones de la institución",
