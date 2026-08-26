@@ -7111,6 +7111,824 @@ De acuerdo con el artículo 144 de la Ley 115 de 1994 y el artículo 23 del Decr
 },
 
 
+{
+    titulo: "Artículo treinta y tres°: Funciones del Consejo Directivo - Numerales 9 al 17",
+    palabras: [
+        "funciones del consejo directivo",
+        "consejo directivo",
+        "numeral 9 consejo directivo",
+        "numeral 10 consejo directivo",
+        "numeral 11 consejo directivo",
+        "numeral 12 consejo directivo",
+        "numeral 13 consejo directivo",
+        "numeral 14 consejo directivo",
+        "numeral 15 consejo directivo",
+        "numeral 16 consejo directivo",
+        "numeral 17 consejo directivo",
+        "estímulos y sanciones",
+        "evaluación de docentes",
+        "actividades comunitarias",
+        "uso de instalaciones",
+        "relaciones con otras instituciones",
+        "asociaciones de padres de familia",
+        "procesos electorales",
+        "presupuesto institucional",
+        "reglamento del consejo directivo"
+    ],
+    contenido: `ARTICULO treinta y tres°. FUNCIONES DEL CONSEJO DIRECTIVO.
+
+9. Establecer estímulos y sanciones para el buen desempeño académico y social del estudiante, que han de incorporarse al reglamento o manual de convivencia. En ningún caso pueden ser contrarios a la dignidad del estudiante.
+
+10.Participar en la evaluación de los docentes, directivos docentes y personal administrativo de la institución:
+
+11.Recomendar criterios de participación de la institución en actividades comunitarias, culturales, deportivas y recreativas;
+
+12.Establecer el procedimiento para permitir el uso de las instalaciones en la realización de actividades educativas, culturales, recreativas y sociales de la respectiva comunidad educativa;
+
+13.Promover las relaciones de tipo académico, deportivo y cultural con otras instituciones educativas y la conformación de organizaciones juveniles;
+
+14.Fomentar la conformación de Asociaciones de Padres de Familia y de estudiantes;
+
+15.Reglamentar los procesos electorales previstos en el presente decreto;
+
+16.Aprobar el presupuesto de ingresos y gastos de los recursos propios y provenientes de pagos legalmente autorizados, efectuados por los padres y responsables de la educación de los estudiantes, tales como derechos académicos, uso de libros de texto y similares, y complementarios.
+
+17.Darse su propio reglamento.`
+},
+
+{
+    titulo: "Artículo treinta y cuatro°: Funciones del Consejo Académico",
+    palabras: [
+        "funciones del consejo académico",
+        "consejo académico",
+        "articulo 34",
+        "artículo 34",
+        "numeral 1 consejo académico",
+        "numeral 2 consejo académico",
+        "numeral 3 consejo académico",
+        "numeral 4 consejo académico",
+        "numeral 5 consejo académico",
+        "numeral 6 consejo académico",
+        "numeral 7 consejo académico",
+        "numeral 8 consejo académico",
+        "numeral 9 consejo académico",
+        "numeral 10 consejo académico",
+        "proyecto educativo institucional",
+        "currículo",
+        "plan de estudios",
+        "evaluación institucional",
+        "evaluación y promoción",
+        "reclamos de estudiantes",
+        "sistema institucional de evaluación",
+        "promoción anticipada"
+    ],
+    contenido: `ARTICULO treinta y cuatro°. FUNCIONES DEL CONSEJO ACADÉMICO.
+
+Según lo establecido en el artículo 24 del Decreto 1860 de 1994, el Consejo Académico cumplirá las siguientes funciones:
+
+1. Servir de órgano consultor del Consejo Directivo en la revisión de la propuesta del proyecto educativo institucional;
+
+2. Estudiar el currículo y propiciar su continuo mejoramiento, PEI [Consultar capítulo V del decreto 1860. El artículo 37 del introduciendo las modificaciones y ajustes, de acuerdo con el mismo decreto deja claro que «el curriculo o sus modificaciones serán formalmente adoptadas por el Consejo Directivo de cada establecimiento educativo, con la participación técnica del Consejo Académico en todo el proceso],
+
+3. Organizar el plan de estudios y orientar su ejecución;
+
+4. Participar en la evaluación institucional anual;
+
+5. Conformar las comisiones de evaluación y promoción para la evaluación periódica del rendimiento de los educandos y para la promoción, asignarles sus funciones y supervisar el proceso general de evaluación;
+
+6. Recibir y decidir los reclamos de los estudiantes sobre la evaluación educativa, y
+
+7. Las demás funciones afines o complementarias con las anteriores que le atribuya el proyecto educativo institucional.
+
+Con respecto a la organización institucional para la evaluación, e Consejo Académico tiene las siguientes funciones:
+
+8. Aprobar el sistema institucional de evaluación (numeral 1 del articulo 11 del Decreto 1290),
+
+9. Hacer las recomendaciones al Consejo Directivo frente a las solicitudes de promoción anticipada.
+
+10.Crear comisiones de evaluación y promoción de los estudiantes.`
+},
+
+{
+    titulo: "Artículo treinta y cinco°: Funciones del Rector",
+    palabras: [
+        "funciones del rector",
+        "rector",
+        "articulo 35",
+        "artículo 35",
+        "funciones del rector institucion",
+        "funciones del rector institución",
+        "orientar proyecto educativo institucional",
+        "gobierno escolar",
+        "funciones docentes",
+        "recursos institucionales",
+        "mejoramiento de la calidad educativa",
+        "autoridades educativas",
+        "comunidad local",
+        "comunicación comunidad educativa",
+        "consejo académico",
+        "funciones disciplinarias",
+        "tendencias educativas",
+        "beneficio social"
+    ],
+    contenido: `ARTICULO treinta y cinco°. FUNCIONES DEL RECTOR.
+
+1. Orientar la ejecución del proyecto educativo institucional y aplicar las decisiones del gobierno escolar;
+
+2. Velar por el cumplimiento de las funciones docentes y el oportuno aprovisionamiento de los recursos necesarios para el efecto
+
+3. Promover el proceso continuo de mejoramiento de la calidad de la educación en el establecimiento
+
+4. Mantener activas las relaciones con las autoridades educativas, con los patrocinadores o auspiciadores de la institución y con la comunidad local, para el continuo progreso académico de la institución y el mejoramiento de la vida comunitaria
+
+5. Establecer canales de comunicación entre los diferentes estamentos de la comunidad educativa
+
+6. Orientar el proceso educativo con la asistencia del Consejo Académico
+
+7. Ejercer las funciones disciplinarias que le atribuyan la ley, los reglamentos y el manual de convivencia
+
+8. Identificar las nuevas tendencias, aspiraciones e influencias para canalizar las en favor del mejoramiento del proyecto educativo institucional
+
+9. Promover actividades de beneficio social que vinculen al establecimiento con la comunidad local`
+},
+
+
+{
+    titulo: "Artículo treinta y cinco°: Funciones del Rector - Numerales 10 y 11",
+    palabras: [
+        "funciones del rector",
+        "rector",
+        "aplicar disposiciones del estado",
+        "prestacion del servicio educativo",
+        "prestación del servicio educativo",
+        "funciones complementarias del rector"
+    ],
+    contenido: `ARTICULO treinta y cinco°. FUNCIONES DEL RECTOR.
+
+10.Aplicar las disposiciones que se expidan por parte del Estado, atinentes a la prestación del servicio público educativo
+
+11. Las demás funciones afines o complementarias con las anteriores que le atribuya el proyecto educativo institucional.`
+},
+
+{
+    titulo: "Artículo treinta y seis°: Representante de los estudiantes ante el Consejo Directivo",
+    palabras: [
+        "representante de los estudiantes",
+        "representante estudiantil",
+        "representante ante el consejo directivo",
+        "consejo directivo",
+        "articulo 36",
+        "artículo 36",
+        "representante estudiantes consejo directivo",
+        "vocero de los estudiantes",
+        "derechos de los estudiantes",
+        "deberes de los estudiantes",
+        "eleccion representante estudiantil",
+        "elección representante estudiantil",
+        "consejo estudiantil",
+        "grado undécimo",
+        "grado once"
+    ],
+    contenido: `ARTICULO treinta y seis°. REPRESENTANTE DE LOS ESTUDIANTES ANTE EL CONSEJO DIRECTIVO.
+
+El representante de los estudiantes es un vocero que defiende los intereses de los estudiantes y hará cumplir los derechos y velará por el cumplimiento de los deberes dentro de la institución con voz y voto, es decir, tiene poder decisorio y deberá ser tenido en cuenta en sus exposiciones.
+
+En cuanto a la elección se procede de la siguiente manera: se escogen varios aspirantes del grado undécimo (mínimos dos), será escogido por el consejo estudiantil en reunión ordinaria mediante elección democrática.`
+},
+
+{
+    titulo: "Artículo treinta y siete°: Funciones del representante de los estudiantes ante el Consejo Directivo",
+    palabras: [
+        "funciones representante estudiantil",
+        "funciones representante de los estudiantes",
+        "representante de los estudiantes consejo directivo",
+        "articulo 37",
+        "artículo 37",
+        "consejo estudiantil",
+        "inquietudes de los estudiantes",
+        "propuestas para mejorar la institución",
+        "comunicación con estudiantes",
+        "informes consejo directivo",
+        "proyección institucional",
+        "comités de la institución",
+        "conciliador",
+        "representar a los compañeros"
+    ],
+    contenido: `ARTICULO treinta y siete°. FUNCIONES REPRESENTANTE DE LOS ESTUDIANTES ANTE EL CONSEJO DIRECTIVO.
+
+Mantener la organización activa de los estudiantes mediante el consejo estudiantil para recoger las inquietudes y llevarlas al consejo directivo para su debate.
+
+Representar con altura y decoro el cargo.
+
+Elaborar propuesta que contribuyan al mejoramiento de la institución.
+
+Mantener una comunicación permanente con los estudiantes, presentando informes sobre las últimas deliberaciones del consejo directivo.
+
+Analizar conjuntamente con el consejo estudiantil las decisiones tomadas en el consejo directivo.
+
+Liderar los programas de proyección institucional
+
+Hacer parte de uno de los comités que laboran por la institución
+
+Ser conciliador en cada uno de los debates que se presenten.
+
+Analizar los pro y los contra antes de tomar una posición
+
+Representar dignamente a sus compañeros.`
+},
+
+{
+    titulo: "Artículo treinta y ocho°: Consejo de Estudiantes",
+    palabras: [
+        "consejo de estudiantes",
+        "articulo 38",
+        "artículo 38",
+        "maximo organo colegiado",
+        "máximo órgano colegiado",
+        "participacion estudiantil",
+        "participación estudiantil",
+        "vocero de cada grupo",
+        "eleccion consejo de estudiantes",
+        "elección consejo de estudiantes",
+        "votacion secreta",
+        "votación secreta",
+        "grados 3 a 11",
+        "grados tercero a once"
+    ],
+    contenido: `ARTICULO treinta y ocho°. CONSEJO DE ESTUDIANTES.
+
+El consejo de estudiantes es el máximo órgano colegiado que asegura y garantiza el continuo ejercicio de la participación por parte de los alumnos, estará integrado por un vocero de cada uno de los grupos desde los grados 3º a 11°.
+
+El consejo directivo por medio del Comité Civismo, Paz y Democracia convocará dentro de los treinta días calendarios a reuniones de los alumnos de estos cursos, con el fin que elijan mediante votación secreta, un vocero para el año lectivo en curso.`
+},
+
+{
+    titulo: "Artículo treinta y nueve°: Funciones del Consejo de Estudiantes",
+    palabras: [
+        "funciones del consejo de estudiantes",
+        "consejo de estudiantes",
+        "articulo 39",
+        "artículo 39",
+        "escoger representante estudiantil",
+        "representante de grado undécimo",
+        "consejo directivo",
+        "solucion de situaciones",
+        "solución de situaciones",
+        "situaciones que afectan la institución"
+    ],
+    contenido: `ARTICULO treinta y nueve°. FUNCIONES CONSEJO DE ESTUDIANTES.
+
+Escoger de terna al estudiante de grado undécimo que los representara en el consejo directivo.
+
+Contribuir en la solución de las situaciones que afecten a la institución.`
+},
+
+
+{
+    titulo: "Artículo treinta y nueve: Funciones Consejo de Estudiantes",
+    palabras: [
+        "articulo treinta y nueve",
+        "artículo treinta y nueve",
+        "funciones consejo de estudiantes",
+        "funciones del consejo de estudiantes",
+        "que hace el consejo de estudiantes",
+        "qué hace el consejo de estudiantes",
+        "inquietudes de los estudiantes",
+        "reglamento consejo de estudiantes"
+    ],
+    contenido: `ARTICULO 39°. FUNCIONES CONSEJO DE ESTUDIANTES.
+
+Escoger de terna al estudiante de grado undécimo que los representara en el consejo directivo.
+
+Contribuir en la solución de las situaciones que afecten a la institución.
+
+Analizar las inquietudes que presenten los estudiantes por medio de su vocero y darle el tratamiento correspondiente.
+
+Plantear ante los directivos las inquietudes presentadas por los estudiantes en materia académica, de aplicación de las normas del manual de convivencia.
+
+Darse su reglamento.`
+},
+
+{
+    titulo: "Artículo cuarenta: Personero Escolar",
+    palabras: [
+        "articulo cuarenta",
+        "artículo cuarenta",
+        "personero escolar",
+        "personero",
+        "que es el personero escolar",
+        "qué es el personero escolar",
+        "quien es el personero",
+        "quién es el personero",
+        "funcion del personero",
+        "función del personero"
+    ],
+    contenido: `ARTICULO 40°. PERSONERO ESCOLAR.
+
+Es un estudiante de grado undecimo de la institución que se encargará de promover el ejercicio de los deberes y derechos de los estudiantes consagrados en la constitución política, las leyes, los reglamentos y el manual de convivencia.`
+},
+
+{
+    titulo: "Artículo cuarenta y uno: Funciones Personero Escolar",
+    palabras: [
+        "articulo cuarenta y uno",
+        "artículo cuarenta y uno",
+        "funciones personero escolar",
+        "funciones del personero escolar",
+        "funciones del personero",
+        "que hace el personero",
+        "qué hace el personero",
+        "derechos de los estudiantes personero",
+        "quejas al personero",
+        "reclamos al personero",
+        "eleccion del personero",
+        "elección del personero"
+    ],
+    contenido: `ARTICULO 41°. FUNCIONES PERSONERO ESCOLAR.
+
+Promover el cumplimiento de los derechos y deberes de los estudiantes, para lo cual podrá utilizar los medios de comunicación interna del establecimiento, pedir colaboración del consejo de estudiantes, organizar foros u otras formas de deliberación.
+
+Recibir y evaluar las quejas y reclamos que presenten los educandos sobre lesiones a sus derechos y las que formule cualquier persona de la comunidad sobre el incumplimiento de las funciones de los alumnos.
+
+Presentar ante el rector las solicitudes de oficio o a petición de parte que considere necesarias para proteger los derechos de los estudiantes y facilitar el cumplimientos de sus deberes.
+
+Cuando lo considere necesario apelar ante el consejo directivo o el organismo que haga sus veces, las decisiones del rector respecto a las peticiones presentadas por su intermedio.
+
+El personero de los estudiantes será un alumno (a) de grado undécimo con un alto desempeño académico y disciplinario, con estadía de mínimo dos años en la Institución, elegido dentro de los 30 días calendarios siguientes a la iniciación de clases de un periodo lectivo anual. Para el efecto el rector convocará por medio del comité de Civismo, Paz y Democracia a todos los estudiantes matriculados con el fin de elegirlo por el sistema de tarjetón mediante voto secreto.
+
+En el evento que se presente un empate entre los candidatos después del conteo de votos final, se procederá a introducir en una mochila, un tarjetón de cada aspirante, luego agitar fuertemente durante dos (2) minutos se introduce la mano de cualquier persona de la comunidad educativa y el tarjetón que saque será el elegido para personero de los estudiantes de la institución educativa Delicias-San Carlos.`
+},
+
+{
+    titulo: "Artículo cuarenta y dos: Contralor Escolar",
+    palabras: [
+        "articulo cuarenta y dos",
+        "artículo cuarenta y dos",
+        "contralor escolar",
+        "contralora escolar",
+        "que es el contralor escolar",
+        "qué es el contralor escolar",
+        "quien es el contralor escolar",
+        "quién es el contralor escolar",
+        "eleccion contralor escolar",
+        "elección contralor escolar",
+        "funcion contralor escolar",
+        "función contralor escolar"
+    ],
+    contenido: `ARTICULO 42. CONTRALOR ESCOLAR.
+
+La figura de contralor escolar en las Instituciones Educativas Oficiales del departamento del cesar, fue creada mediante la Ordenanza 114 del 29 de Julio de 2015, como un mecanismo de promoción y fortalecimiento del control social en la gestión educativa y de espacio de participación de los jóvenes que buscan la transparencia y potenciar los escenarios de participación ciudadana para la vigilancia de los recursos y bienes públicos en la gestión educativa.
+
+El contralor o contralora escolar será un (a) estudiante de grado Noveno, Decimo u undécimo con un alto desempeño académico y disciplinario, con estadía de mínimo dos años en la Institución, elección que coincidirá con la de personero. Para el efecto el rector convocará por medio del comité de Civismo, Paz y Democracia a todos los estudiantes matriculados con el fin de elegirlo por el sistema de tarjetón mediante voto secreto.`
+},
+
+
+{
+    titulo: "Artículo cuarenta y dos: Contralor Escolar",
+    palabras: [
+        "articulo cuarenta y dos",
+        "artículo cuarenta y dos",
+        "contralor escolar",
+        "contralora escolar",
+        "empate contralor escolar",
+        "eleccion contralor escolar",
+        "elección contralor escolar",
+        "desempate contralor escolar"
+    ],
+    contenido: `ARTICULO 42. CONTRALOR ESCOLAR.
+
+En el evento que se presente un empate entre los candidatos después del conteo de votos final, se procederá a introducir en una mochila, un tarjetón de cada aspirante, luego agitar fuertemente durante dos (2) minutos, se introduce la mano de cualquier persona de la comunidad educativa y el tarjetón que saque será el elegido contralor de los estudiantes de la institución educativa Delicias-San Carlos.`
+},
+
+{
+    titulo: "Artículo cuarenta y tres: Funciones del Contralor",
+    palabras: [
+        "articulo cuarenta y tres",
+        "artículo cuarenta y tres",
+        "funciones del contralor",
+        "funciones del contralor escolar",
+        "que hace el contralor",
+        "qué hace el contralor",
+        "funciones contralor escolar",
+        "control social institucion",
+        "control social institución",
+        "rendicion de cuentas",
+        "rendición de cuentas",
+        "presupuesto institucion",
+        "presupuesto institución"
+    ],
+    contenido: `ARTICULO 43. FUNCIONES DEL CONTRALOR:
+
+Propiciar acciones Concretas y permanentes de control social a la gestión de la Institución Educativa.
+
+Promover la rendición de cuentas en la Institución Educativa.
+
+Velar por el correcto funcionamiento de las inversiones que se realicen mediante los fondos de servicios educativos.
+
+Ejercer control social a los procesos de contratación que realice la Institución Educativa.
+
+Canalizar las inquietudes que tenga la comunidad educativa, sobre deficiencias o irregularidades presupuesto o el manejo de los bienes de la I.Ε. en la ejecución del
+
+Formular recomendaciones u acciones de mejoramiento al Rector y al consejo Directivo sobre el manejo del presupuesto y la utilización de los bienes.
+
+Poner en conocimiento del organismo de control competente las denuncias que tengan merito con el fin de que se apliquen los de investigación y sanción que resulten procedimientos procedentes.
+
+Comunicar a la comunidad Educativa los resultados de la gestión realizada durante el periodo.
+
+Conocer el Proyecto Educativo Institucional (P.E.I.), el presupuesto y el plan de compras de la I.E.
+
+Velar por el cuidado del medio ambiente.`
+},
+
+{
+    titulo: "Artículo cuarenta y cuatro: Consejo de Padres",
+    palabras: [
+        "articulo cuarenta y cuatro",
+        "artículo cuarenta y cuatro",
+        "consejo de padres",
+        "consejo de padres de familia",
+        "que es el consejo de padres",
+        "qué es el consejo de padres",
+        "representante de padres",
+        "eleccion consejo de padres",
+        "elección consejo de padres",
+        "participacion de padres",
+        "participación de padres"
+    ],
+    contenido: `ARTICULO 44°. CONSEJO DE PADRES.
+
+El consejo de padres de familias como órgano de la asociación de padres, es un medio para asegurar la continua participación de los padres y acudientes en el proceso de formación de sus hijos, estará integrado por los representantes de los padres de los alumnos que cursan cada uno de los diferentes cursos de cada grado que ofrece la institución.
+
+Dentro de los treinta días calendarios siguientes a la iniciación de clases los directores de grupo convocarán reuniones para la escogencia del representante, el cual será elegido democráticamente mediante el voto por el sistema de mayoría simple, para una vigencia de un año lectivo, en el caso en que cumplido el año no se haya elegido el nuevo representante este continuará hasta que la elección del nuevo representante se haga efectiva.`
+},
+
+{
+    titulo: "Artículo cuarenta y cinco: Funciones Consejo de Padres",
+    palabras: [
+        "articulo cuarenta y cinco",
+        "artículo cuarenta y cinco",
+        "funciones consejo de padres",
+        "funciones del consejo de padres",
+        "que hace el consejo de padres",
+        "qué hace el consejo de padres",
+        "funciones padres de familia",
+        "proceso formativo alumnos",
+        "buenas costumbres"
+    ],
+    contenido: `ARTICULO 45°. FUNCIONES CONSEJO DE PADRES.
+
+Estar pendiente del proceso formativo de los alumnos.
+
+Motivar al alumnado del grupo que representa hacia el estudio y las buenas costumbres.`
+},
+
+
+{
+    titulo: "Artículo cuarenta y cinco: Funciones Consejo de Padres",
+    palabras: [
+        "articulo cuarenta y cinco",
+        "artículo cuarenta y cinco",
+        "funciones consejo de padres",
+        "funciones del consejo de padres",
+        "que hace el consejo de padres",
+        "qué hace el consejo de padres",
+        "problematicas del grupo",
+        "problemáticas del grupo",
+        "inquietudes del grupo",
+        "mediador conflictos estudiantes",
+        "comisiones de evaluacion y promocion",
+        "comisiones de evaluación y promoción"
+    ],
+    contenido: `ARTICULO 45°. FUNCIONES CONSEJO DE PADRES.
+
+Reunirse con el grupo para conocer sus inquietudes y problemáticas.
+
+Hacer sugerencias a los docentes y directivos docentes sobre como mejorar las dificultades que se presenten en el desarrollo del proceso de formación.
+
+Escuchar con paciencias y respeto a los alumnos del grupo que representa.
+
+Ser mediador en la solución de conflictos que se presenten entre los estudiantes.
+
+Representar al curso del grado ante las comisiones de evaluación y promoción.`
+},
+
+{
+    titulo: "Título III: Evaluación Académica Estructura Académica Institucional",
+    palabras: [
+        "titulo tres",
+        "título tres",
+        "evaluacion academica",
+        "evaluación académica",
+        "estructura academica institucional",
+        "estructura académica institucional",
+        "plan de estudios",
+        "areas basicas y fundamentales",
+        "áreas básicas y fundamentales",
+        "asignaturas",
+        "curriculo institucional",
+        "currículo institucional",
+        "PILEO",
+        "PRAE",
+        "educacion sexual",
+        "educación sexual"
+    ],
+    contenido: `TITULO III
+EVALUACIÓN ACADÉMICA ESTRUCTURA ACADÉMICA INSTITUCIONAL
+
+El Plan de Estudios está compuesto por áreas básicas y fundamentales distribuidas en asignaturas del núcleo básico,( lenguaje, matemáticas, ciencias naturales, sociales, lengua extranjera (inglés), Filosofía y Economía Política). áreas de formación (educación física y deportes, educación artística, ética, Educación religiosa, informática y tecnología), proyectos transversales PILEO (Lecto - esritura), PRAE (Proyecto Ambiental Educativo), Manejo del tiempo libre), Educación Sexual, que en conjunto conforman el currículo propio.`
+},
+
+{
+    titulo: "Artículo cuarenta y seis: Sistema Institucional de Evaluación de Estudiantes (SIEE)",
+    palabras: [
+        "articulo cuarenta y seis",
+        "artículo cuarenta y seis",
+        "SIEE",
+        "sistema institucional de evaluacion",
+        "sistema institucional de evaluación",
+        "sistema institucional de evaluacion de estudiantes",
+        "sistema institucional de evaluación de estudiantes",
+        "que es el SIEE",
+        "qué es el SIEE",
+        "evaluacion de estudiantes",
+        "evaluación de estudiantes",
+        "evaluacion institucional",
+        "evaluación institucional",
+        "comisiones de evaluacion y promocion",
+        "comisiones de evaluación y promoción"
+    ],
+    contenido: `ARTICULO 46°. SISTEMA INSTITUCIONAL DE EVALUACIÓN DE ESTUDIANTES. (SIEE)
+
+El sistema institucional de evaluación de estudiantes (SIEE) se define como el conjunto de procedimientos y estrategias que garantizan la evaluación del proceso de enseñanza aprendizaje de acuerdo con el modelo pedagógico (Constructivista - Dialógico) propio de la Institución Educativa en su Proyecto Educativo Institucional de acuerdo con las normas legales vigentes y de manera especial con lo establecido en el Decreto 1290 de 2009.
+
+El Equipo de Dirección junto con el Consejo Académico establecerán un calendario para que al iniciar el año escolar tanto los maestros, como los estudiantes y padres de familia conozcan, en detalle, la estructura y composición del SIEE.
+
+Es obligación del estudiante el cumplimiento de los compromisos académicos y de convivencia, así como de las estrategias recomendadas por sus maestros para la superación de las dificultades y el mejoramiento de sus desempeños. La evaluación sistemática y se expresará de manera comprensible para que adelanten los maestros será integral estudiantes y padres de familia. en cada asignatura;
+
+La evaluación permitirá una comparación permanente del estado formativo y cognitivo de los estudiantes con el perfil definido en el PEI. La evaluación asume modalidades diagnósticas, formativas y sumativas.
+
+Las comisiones de evaluación y promoción tienen como función garantizar el seguimiento a los procesos de evaluación de acuerdo y vivencia de valores de los estudiantes por periodo y al finalizar el con la ley y el reglamento interno; analizar el rendimiento académico año escolar; determinar estímulos y estrategias de apoyo, refuerzo y superación; establecer mecanismos de seguimiento y verificar el cumplimiento del proceso académico establecido.`
+},
+
+
+{
+    titulo: "Artículo cuarenta y siete: Componentes de Evaluación",
+    palabras: [
+        "articulo cuarenta y siete",
+        "artículo cuarenta y siete",
+        "componentes de evaluacion",
+        "componentes de evaluación",
+        "evaluacion",
+        "evaluación",
+        "criterios de evaluacion",
+        "criterios de evaluación",
+        "actividades cotidianas",
+        "pruebas formales de desempeño",
+        "pruebas formales",
+        "heteroevaluacion",
+        "heteroevaluación",
+        "autoevaluacion",
+        "autoevaluación",
+        "coevaluacion",
+        "coevaluación",
+        "escala institucional",
+        "desempeño superior",
+        "desempeño alto",
+        "desempeño básico",
+        "desempeño bajo",
+        "plataforma de notas",
+        "plataforma de notas"
+    ],
+    contenido: `ARTICULO 47°. COMPONENTES DE EVALUACIÓN.
+
+Lo constituye el conjunto de criterios y actividades con los cuales se evalúa el desempeño de los estudiantes; se concreta mediante dos tipos de acciones: las actividades cotidianas y las pruebas formales de desempeño.
+
+El conjunto de actividades cotidianas está constituido por el trabajo desarrollado por el estudiante dentro y fuera de la clase (trabajo en aula y en casa). Las pruebas formales de desempeño son evaluaciones o exámenes mediante los cuales se determina el proceso de aprendizaje del estudiante en los aspectos básicos y fundamentales.
+
+El conjunto de actividades cotidianas (tareas, talleres, pruebas orales o escritas, trabajo en clase, etc.) se agrupan en periodos académicos; se completa con un examen final.
+
+Los porcentajes correspondientes son determinados por el Consejo Académico al iniciar el año escolar.
+
+El proceso so de evaluación tanto académica como de formación y comportamiento incluye ejercicios de heteroevaluación. autoevaluación y coevaluación.
+
+Al finalizar cada periodo académico se entregará un reporte sobre el rendimiento y comportamiento de cada estudiante, Con el informe del último período se anexa un informe consolidado con el resultado final en cada asignatura en términos de la escala valorativa nacional
+
+La plataforma de NOTAS es el mecanismo de comunicación para mantener informado a los padres de familia y a los estudiantes acerca de su rendimiento académico, disciplinario donde se publican los resultados de las evaluaciones realizadas en el transcurso de cada período.
+
+Escala institucional
+
+Entre 90 y 100 Desempeño superior
+
+Entre 80 y 89 Desempeño Alto
+
+Entre 60 y 79 Desempeño Básico
+
+Entre 0 y 59 Desempeño bajo`
+},
+
+{
+    titulo: "Artículo cuarenta y ocho: Acciones de Seguimiento para el Mejoramiento de Desempeños",
+    palabras: [
+        "articulo cuarenta y ocho",
+        "artículo cuarenta y ocho",
+        "acciones de seguimiento",
+        "acciones de seguimiento para el mejoramiento",
+        "mejoramiento de desempeños",
+        "mejoramiento de desempenos",
+        "mejorar desempeño",
+        "mejorar desempeno",
+        "nivelacion",
+        "nivelación",
+        "refuerzo académico",
+        "refuerzo academico",
+        "talleres de nivelacion",
+        "talleres de nivelación",
+        "jornadas pedagogicas",
+        "jornadas pedagógicas",
+        "plataforma virtual",
+        "perdida de asignaturas",
+        "pérdida de asignaturas"
+    ],
+    contenido: `ARTICULO 48°. ACCIONES DE SEGUIMIENTO PARA EL MEJORAMIENTO DE DESEMPEÑOS.
+
+Cuando se evidencien situaciones que no favorezcan el buen desempeño y la obtención de buenas calificaciones, la institución organizará ejercicios o actividades que faciliten la nivelación de los estudiantes.
+
+Se organizarán talleres temáticos que serán desarrollados por los maestros de las áreas en horario adicional, jornadas pedagógicas con padres y estudiantes con varias asignaturas perdidas. Es de obligatoriedad la asistencia de los estudiantes que sean convocados para su nivelación y refuerzo.
+
+Los padres de familia, con base en la información publicada en la plataforma virtual del colegio, o los informes dados por los docentes, deberán asumir las acciones necesarias para garantizar procesos de nivelación de sus hijos cuando lo programado por el colegio no sea suficiente.`
+},
+
+
+{
+    titulo: "Artículo cuarenta y nueve: Atención de Reclamaciones de Padres de Familia y Estudiantes",
+    palabras: [
+        "articulo cuarenta y nueve",
+        "artículo cuarenta y nueve",
+        "atencion de reclamaciones",
+        "atención de reclamaciones",
+        "reclamaciones de padres de familia",
+        "reclamaciones de estudiantes",
+        "reclamos de padres",
+        "reclamos de estudiantes",
+        "peticiones de estudiantes",
+        "peticiones de padres",
+        "alegatos",
+        "debido proceso",
+        "reclamaciones academicas",
+        "reclamaciones académicas",
+        "problemas con evaluaciones",
+        "reclamos sobre evaluaciones",
+        "consejo academico reclamaciones",
+        "consejo académico reclamaciones"
+    ],
+    contenido: `ARTICULO 49°. ATENCIÓN DE RECLAMACIONES DE PADRES DE FAMILIA Y ESTUDIANTES.
+
+De acuerdo con lo establecido por la ley y los criterios de atención institucional, los padres de familia y los estudiantes tienen el derecho y las garantías necesarias para que sus observaciones, peticiones, alegatos y demás sean atendidas de manera eficiente y oportuna por maestros y demás funcionarios de la institución, siempre dentro de los parámetros (tiempos ) del respeto y cordialidad debidas. Como garantía del debido proceso se establecen los medios y acciones que permiten verificar el cumplimiento y garantizar el reconocimiento a toda la comunidad de sus derechos a la educación.
+
+Le corresponde a cada maestro(a), Coordinador dar solución a las reclamaciones, o en su defecto a las comisiones de evaluación y promoción instancias en las cuales debe terminar de manera efectiva cualquier proceso de reclamación.
+
+El Consejo Académico por designación expresa del Consejo Directivo es la instancia decisoria sobre reclamaciones de carácter académico que no hayan sido resueltas por las instancias previas.
+
+Las acciones de control que garantizan el cumplimiento del debido proceso incluye la planeación, programación y desarrollo o aplicación del plan de estudios, instrumentos y estrategias de evaluación, procesamiento de la información y publicación de resultados.
+
+El Consejo Directivo garantizará el cumplimiento de este proceso.`
+},
+
+
+{
+    titulo: "Artículo cincuenta: Promoción o reprobación de grado",
+    palabras: [
+        "articulo cincuenta",
+        "artículo cincuenta",
+        "promocion de grado",
+        "promoción de grado",
+        "reprobacion de grado",
+        "reprobación de grado",
+        "promocion",
+        "promoción",
+        "reprobacion",
+        "reprobación",
+        "promover un estudiante",
+        "reprobar un grado",
+        "desempeño minimo",
+        "desempeño mínimo",
+        "desempeño bajo en asignaturas"
+    ],
+    contenido: `ARTÍCULO CINCUENTA. PROMOCIÓN O REPROBACIÓN DE GRADO.
+
+Se entiende por promoción el acto decisorio mediante el cual se establece que un(a) estudiante ha alcanzado el desempeño minimo básico en su proceso de aprendizaje, que le garantiza asumir con propiedad los compromisos del grado inmediatamente superior. En el caso de undecimo grado se traduce en la obtención del título de bachiller Técnico en Sistemas. Cuando los requisitos no se cumplen la comisión de Evaluación puede determinar la reprobación u aplazamiento de grado.
+
+Para ser promovido(a) el(la) estudiante debe aprobar todas las asignaturas que componen el plan de estudios del grado escolar cursado.
+
+El estudiante reprueba un grado escolar cuando: Terminado el año escolar obtiene desempeño bajo en tres o más asignaturas del plan de estudio.`
+},
+
+{
+    titulo: "Artículo cincuenta y uno: Disposiciones especiales",
+    palabras: [
+        "articulo cincuenta y uno",
+        "artículo cincuenta y uno",
+        "disposiciones especiales",
+        "circunstancias especiales",
+        "comportamiento comun",
+        "comportamiento común",
+        "embarazo",
+        "cambio de domicilio",
+        "deteccion de enfermedades",
+        "detección de enfermedades"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y UNO. DISPOSICIONES ESPECIALES.
+
+Se denominan disposiciones especiales, todas aquellas circunstancias, que se salen del comportamiento común u ordinario entre los miembros de la comunidad estudiantil, tales como los embarazos de las niñas, el homosexualismo o lesbianismo, cambio de domicilio y detección de enfermedades, en cualquiera de las etapas o periodos lectivos.`
+},
+
+{
+    titulo: "Artículo cincuenta y dos: Embarazo",
+    palabras: [
+        "articulo cincuenta y dos",
+        "artículo cincuenta y dos",
+        "embarazo",
+        "embarazo escolar",
+        "estudiante embarazada",
+        "joven embarazada",
+        "estrategia semipresencial",
+        "periodo academico",
+        "periodo académico"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y DOS. EMBARAZO.
+
+Cuando una niña se encuentre en estado avanzado de embarazo específicamente durante el ultimo periodo académico, la comisión de evaluación del respectivo grado recomendara a la joven, a su compañero y/o padres de familia, la estrategia semipresencial para que no se afecte la criatura.`
+},
+
+{
+    titulo: "Artículo cincuenta y tres: Homosexualismo o lesbianismo",
+    palabras: [
+        "articulo cincuenta y tres",
+        "artículo cincuenta y tres",
+        "homosexualismo",
+        "lesbianismo",
+        "orientaciones",
+        "conducta respetuosa",
+        "orden institucional"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y TRES. HOMOSEXUALISMO O LESBIANISMO.
+
+La institución es respetuosa de estas orientaciones, pero se reserva el derecho de demandar de la persona o personas, conservar una conducta respetuosa que ayude al mantenimiento del orden institucional.`
+},
+
+{
+    titulo: "Artículo cincuenta y cuatro: Cambio de domicilio por cualquier circunstancia",
+    palabras: [
+        "articulo cincuenta y cuatro",
+        "artículo cincuenta y cuatro",
+        "cambio de domicilio",
+        "cambio de municipio",
+        "desplazamiento del municipio",
+        "razones de seguridad",
+        "certificaciones academicas",
+        "certificaciones académicas",
+        "certificaciones comportamentales",
+        "certificaciones de comportamiento"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y CUATRO. CAMBIO DE DOMICILIO POR CUALQUIER CIRCUNSTANCIA.
+
+Los estudiantes que por diferentes motivo tengan que desplazarse del municipio en cualquier etapa del año, por razones de seguridad u otras situaciones, se les garantizan las certificaciones académicas y comportamentales hasta la fecha, la institución no certificará la adquisición de logros no alcanzados, como tampoco promoverá a estudiantes en estas situaciones, a estudiante haya superado el 80% de los logros propuestos en el plan menos que sea al termino del año ( mitad cuarto periodo) y el de estudio para el grado respectivo.`
+},
+
+{
+    titulo: "Artículo cincuenta y cinco: Limitaciones para la asistencia a la institución y el ejercicio de algunas actividades curriculares dentro de la institución",
+    palabras: [
+        "articulo cincuenta y cinco",
+        "artículo cincuenta y cinco",
+        "limitaciones para la asistencia",
+        "asistencia a la institucion",
+        "asistencia a la institución",
+        "actividades curriculares",
+        "excusa",
+        "excusas",
+        "excusas familiares",
+        "excusas medicas",
+        "excusas médicas",
+        "excusas deportivas",
+        "inasistencia",
+        "justificar inasistencia"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y CINCO. LIMITACIONES PARA LA ASISTENCIA A LA INSTITUCIÓN Y EL EJERCICIO DE ALGUNAS ACTIVIDADES CURRICULARES DENTRO DE LA INSTITUCIÓN.
+
+Se refiere a todo impedimento en la asistencia normal del estudiante y el cumplimiento en el desarrollo de las actividades académicas dentro y fuera de la institución, para garantizarle el pleno derecho a asistir y realizar todo tipo de actividades programadas en cada una de las asignaturas contempladas en el plan de estudios vigentes en la institución, se prevén tres formas de excusas:
+
+1. Excusas familiares, son aquellas que envía el padre de familia o acudiente del estudiante, para comunicar a la institución que el joven o la joven no podrá asistir a la misma por razones de salud, de viaje, calamidad familiar, imprevistos presentados a última hora. Este tipo de excusa sólo ampara los compromisos de la jornada para la cual fue enviada, cuando se trata de problemas de salud, esta misma excusa podrá extenderse con el visto bueno de la coordinación máximo hasta por dos días.
+
+Características: esta excusa debe ser enviada por los padres o una persona mayor que conviva en el mismo núcleo familiar, debidamente presentada y dirigida al coordinador.
+
+2. Excusas médicas, cuando el estudiante lleva más de dos (2) días de inasistencia por razones de mal estado de salud, deberá presentar a la coordinación una excusa médica en donde se dé plena constancia del cuadro clínico que presenta el mismo, para que pueda presentar las actividades dejadas de presentar por su ausencia, para lo cual deberá presentarse ante el o los profesores para acordar la fechas en las cuales ejecutará las tareas pendientes, este dialogo deberá darse dentro de las 48 horas siguientes a su retorno al colegio.
+
+Cuando por razones de salud que impida la realización de ejercicios físicos en el área de educación física y deportes, el estudiante deberá presentar excusa medica expedida por medico especialista en el ramo respectivo para la supresión definitiva o parcial de dichas actividades, para lo cual el docente deberá asignarle otras actividades diferentes que no le afecten su organismo, estas otras actividades deben estar enmarcadas dentro del plan de actividades del área respectiva y deben apuntar hacia el logro de los objetivos de la misma.
+
+3. Excusas deportivas, cuando el estudiante presente inasistencia por razones deportivas institucionales, las actividades dejadas de presentar por su ausencia, deberá presentarse ante el o los profesores para acordar la fechas en las cuales ejecutará las tareas pendientes, este dialogo deberá darse dentro de las 48 horas siguientes a su retorno.`
+},
+
+
 
 ];
 
