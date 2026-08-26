@@ -5608,6 +5608,1509 @@ Las situaciones Tipo II contempladas en el Manual de Convivencia incluyen:
 },
 
 
+{
+    titulo: "Artículo 22: Acciones preventivas y/o correctivas para situaciones tipo II - continuación",
+    palabras: [
+        "reconocer tipo de situacion",
+        "reconocer tipo de situación",
+        "recurrencia de la situacion",
+        "recurrencia de la situación",
+        "danos que pueden ocasionar",
+        "daños que pueden ocasionar",
+        "caracteristicas y consecuencias",
+        "características y consecuencias",
+        "protocolos a la comunidad educativa",
+        "historial disciplinario",
+        "historial disciplinario de los implicados",
+        "acompanamiento psicorientacion",
+        "acompañamiento psicorientación",
+        "proyectos pedagogicos",
+        "proyectos pedagógicos",
+        "jornadas pedagogicas",
+        "jornadas pedagógicas",
+        "fortalecimiento de valores",
+        "sana convivencia",
+        "socializacion del manual",
+        "socialización del manual",
+        "carteleras y murales",
+        "tic y redes sociales",
+        "blog institucional"
+    ],
+    contenido: `ARTÍCULO 22°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO II.
+
+• Reconocer el tipo de situación, su recurrencia y daños que pueden ocasionar.
+
+• Revisar las características y consecuencias del acontecimiento.
+
+• Socializar constantemente los protocolos a la comunidad educativa.
+
+• Revisión del historial disciplinario de los implicados.
+
+• Brindar acompañamiento a través de la Psicorientación.
+
+• Ejecutar proyectos y jornadas pedagógicas para el fortalecimiento de los valores y la sana convivencia con los miembros de la comunidad educativa a través de la socialización del Manual de Convivencia, carteleras, murales y utilización de las TIC (redes sociales, blog interactivo institucional, entre otras).`
+},
+
+{
+    titulo: "Artículo 23: Situaciones tipo III",
+    palabras: [
+        "articulo veintitres",
+        "artículo veintitrés",
+        "situaciones tipo tres",
+        "situaciones tipo III",
+        "situacion tipo tres",
+        "situación tipo tres",
+        "faltas tipo tres",
+        "faltas tipo III",
+        "hurto o malversacion de fondos",
+        "hurto o malversación de fondos",
+        "porte de armas tipo tres",
+        "uso de armas tipo tres",
+        "venta de armas",
+        "explosivos",
+        "sustancias sicotropicas",
+        "sustancias psicotrópicas",
+        "sustancias alucinogenas",
+        "sustancias alucinógenas",
+        "distribucion de sustancias",
+        "distribución de sustancias",
+        "bebidas alcoholicas tipo tres",
+        "bebidas alcohólicas tipo tres",
+        "actos contra la dignidad",
+        "acceso carnal violento",
+        "acto sexual violento",
+        "actos sexuales abusivos",
+        "abuso sexual",
+        "acoso sexual",
+        "explotacion economica",
+        "explotación económica",
+        "maltrato fisico",
+        "maltrato físico",
+        "maltrato psicologico",
+        "maltrato psicológico",
+        "discriminacion",
+        "discriminación",
+        "trafico de estupefacientes",
+        "tráfico de estupefacientes",
+        "amenazas",
+        "boleteo",
+        "estafas",
+        "chantajes",
+        "lesiones personales",
+        "abuso de confianza",
+        "grupos vandalicos",
+        "grupos vandálicos",
+        "pandillas",
+        "falsedad en documentos",
+        "adulteracion de documentos",
+        "adulteración de documentos"
+    ],
+    contenido: `ARTÍCULO 23°. SITUACIONES TIPO III.
+
+• Hurto o malversación de fondos.
+
+• Portar, hacer uso o venta de armas y/o explosivos que pongan en peligro la integridad de las personas o la planta física del colegio.
+
+• Inducción, porte, distribución o intento de distribución de sustancias sicotrópicas, alucinógenas que causen adicción.
+
+• Ingerir bebidas alcohólicas, sustancias alucinógenas, sustancias sicotrópicas que causen adicción dentro o fuera de la Institución (en actividades institucionales) y el ingreso de las mismas a la institución.
+
+• Ejecutar dentro o fuera de la Institución actos que atenten contra la moral y la dignidad de la persona y principios de la Institución: acceso carnal violento, acto sexual violento, acceso carnal abusivo con menor de edad, actos sexuales abusivos.
+
+• Realizar o encubrir actos que atenten contra la comunidad educativa, tales como: explotación económica y laboral, maltrato físico o psicológico, abuso o acoso sexual, discriminación por edad, sexo, raza, religión, política, posición social, lugar de vivienda y tráfico de estupefacientes (art. 44, numeral 2. Código de Infancia y Adolescencia).
+
+• Atentar contra el derecho a la vida (art. 11, Constitución Política) y/o paz mediante actos tales como amenazas, boleteo, estafas, chantajes, lesiones personales, abuso de confianza por cualquier medio (electrónico, físico u otros).
+
+• Pertenecer o fomentar grupos vandálicos o pandillas dentro o fuera de la Institución.
+
+• Falsedad y/o adulteración en documentos utilizados para ingresar al plantel o en otro tipo de actividad dentro y fuera de la institución.`
+},
+
+
+{
+    titulo: "Potestad disciplinaria",
+    palabras: [
+        "potestad disciplinaria",
+        "funcion disciplinaria",
+        "función disciplinaria",
+        "quien aplica la disciplina",
+        "quien aplica las sanciones",
+        "rector",
+        "delegar funcion disciplinaria",
+        "delegar función disciplinaria"
+    ],
+    contenido: `POTESTAD DISCIPLINARIA.
+
+De conformidad con el literal "g" del Art 25 Decreto 1860 de 1994, la función disciplinaria en los establecimientos educativos corresponde al Rector o a quien éste la delegue.`
+},
+
+{
+    titulo: "Artículo 15°. Situaciones Tipo I",
+    palabras: [
+        "situaciones tipo I",
+        "situacion tipo I",
+        "situación tipo I",
+        "faltas tipo I",
+        "situaciones tipo uno",
+        "faltas tipo uno",
+        "articulo 15",
+        "artículo 15"
+    ],
+    contenido: `ACCIONES TIPIFICADAS COMO Articulo 15°. SITUACIONES TIPO I.
+
+Llegar tarde a la jornada escolar sin excusa justificada.
+
+Portar el uniforme en lugares públicos fuera de la jornada de clase de manera indecorosa o sin autorización de la institución.
+
+Permanecer con la camiseta de educación física por fuera de la sudadera.
+
+Desaseo personal y porte innecesario de accesorios diferentes al uniforme.
+
+Traer zapatos de un color diferente al estipulado para cada uniforme.
+
+Hacer cambios o correcciones a las anotaciones hechas por el profesor en los controles de clases.
+
+Portar los uniformes inadecuadamente y en los días que no corresponde.
+
+Maltratar las zonas verdes.
+
+Dañar envases o utensilios de la cooperativa y del restaurante escolar.
+
+Arrojar papeles y basura fuera de los recipientes destinados para ello.
+
+Masticar chicle en forma inadecuada que interrumpa el desarrollo normal de la clase.
+
+Lanzar objetos, tales como semillas, chicles, bolas de papel, etc., a los compañeros u otros miembros de la comunidad educativa.
+
+No esperar al profesor dentro del salón de clases.
+
+Realizar actividades diferentes a las que se están realizando en la clase.
+
+Cometer fraude en la presentación de trabajos y evaluaciones.
+
+No traer los implementos necesarios para desarrollar la clase.
+
+Usar inadecuadamente elementos tecnológicos en clase.
+
+Presenta una agresión escolar (física, verbal, gestual, relacional y/o electrónica) por primera vez con algún miembro de la comunidad educativa.
+
+No cumplir con los compromisos académicos.
+
+Desinformar al acudiente sobre las comunicaciones enviadas por el EE.
+
+Entregar las excusas después del tiempo requerido (48 horas).
+
+Denigrar del EE y cualquier actuación que atente contra su buen nombre o prestigio.
+
+Desacatar las indicaciones e instrucciones de los docentes.
+
+Utilizar inapropiadamente los servicios del EE y materiales de trabajo.
+
+Levantarse del puesto de manera reiterativa sin autorización.
+
+Dialogar con los compañeros durante el desarrollo de la clase.
+
+Subirse a las porterías de fútbol, estructuras metálicas y árboles.
+
+Irrespeto a los símbolos patrios, religiosos e institucionales.
+
+Participar en actos que destruyan los bienes del EE y sus alrededores en forma culposa.
+
+El consumo de licor o cigarrillo dentro y fuera del EE, portando el uniforme.
+
+Consumir alimentos dentro del salón de clases sin la autorización correspondiente.
+
+Ausentarse del EE y/o del aula de clase sin autorización del Rector o de la autoridad competente.
+
+La inasistencia a actos culturales, deportivos, religiosos, convivencias y encuentros de crecimiento espiritual organizados por el EE.
+
+Desconocer los principios y la filosofía institucional.
+
+Uso de vocabulario y modales inadecuados.
+
+Omitir el conducto regular.
+
+Parágrafo 1: El comité escolar de convivencia revisará, evaluará y clasificará el comportamiento del estudiante y decidirá si se encuadra dentro de las situaciones tipo I, la falta que no se contempló en los numerales anteriores.`
+},
+
+{
+    titulo: "Artículo 16°. Ruta de atención para situaciones Tipo I",
+    palabras: [
+        "ruta de atencion tipo I",
+        "ruta de atención tipo I",
+        "ruta de atencion situaciones tipo I",
+        "ruta de atención situaciones tipo I",
+        "proceso situaciones tipo I",
+        "como se atiende una situacion tipo I",
+        "cómo se atiende una situación tipo I",
+        "articulo 16",
+        "artículo 16"
+    ],
+    contenido: `Articulo 16°. RUTA DE ATENCION PARA SITUACIONES TIPO I
+
+10. Se recibe queja o informe sobre una situación puntual.
+
+20. Se hace el reporte correspondiente a alguna autoridad escolar, Rector, Coordinador, Orientadora, Director de grupo, Docente.
+
+30. La Coordinación de Convivencia toma nota de la situación correspondiente. Si el caso es de embarazo adolescente se comunica al Departamento de Orientación y éste toma el control del asunto, y se informa de la situación al Hospital y/o al ICBF.
+
+40. El(la) Director(a) de curso informa del caso a Coordinación de Convivencia. El caso entra a formar parte del cronograma de acompañamiento del cual hará parte Orientación y el Coordinador.
+
+50. Se informa a los padres de familia. Se deja acta al respecto que reposa en Coordinación de Convivencia.
+
+60. Se informa al Rector sobre evolución del proceso.
+
+70. Cierre del caso.
+
+Parágrafo 1. El tratamiento a las situaciones anteriormente mencionadas, lo realizará el docente, director de grupo, coordinador o el rector que observe la situación inmediatamente presentada. En caso de ser necesario se remitirá al comité escolar de convivencia para su respectivo análisis.
+
+Parágrafo 2. Si una situación de tipo I es observada por un miembro de la comunidad educativa diferente a los anteriormente mencionados, podrá informar de lo ocurrido a un docente o directivo docente del EE.`
+},
+
+{
+    titulo: "Artículo 17°. Protocolo a seguir por parte de la institución para situaciones Tipo I",
+    palabras: [
+        "protocolo situaciones tipo I",
+        "protocolo tipo I",
+        "protocolo a seguir tipo I",
+        "como se maneja una situacion tipo I",
+        "cómo se maneja una situación tipo I",
+        "llamado de atencion tipo I",
+        "llamado de atención tipo I",
+        "articulo 17",
+        "artículo 17"
+    ],
+    contenido: `Articulo 17°, PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN:
+
+Las situaciones Tipo I conllevan el siguiente proceso por parte de la Institución:
+
+Recomendación u orientación verbal por parte de quien observa la situación.
+
+El docente o directivo-docente que se haya percatado de la situación podrá realizar llamado de atención verbal, anotación en el Observador y/o en el control de clases, dicha anotación debe ser firmada por el estudiante, aceptándola o rechazándola. En caso de rechazo el estudiante debe realizar un escrito remitiéndola al día siguiente a la coordinación con la firma del padre, madre y/o acudiente donde conste que se encuentra enterado de la situación.
+
+Diálogo con el docente, director de grupo o coordinador que esté al tanto de la situación, para efectuar la respectiva reflexión sobre el hecho y buscar posibles soluciones y compromisos ante el impase. Si la situación presentada no fue observada por quien está a cargo, sino que procede de una queja hecha por un miembro de la comunidad, se indagará con otras personas que estuvieron presentes para tener una mejor información de lo ocurrido.
+
+En caso de que las anteriores medidas no generen soluciones o que los compromisos realizados entre las partes no se cumplan; la coordinación remitirá informe al Rector (Presidente del Comité Escolar de Convivencia) quien determinará si se hace necesario convocar extraordinariamente el Comité Escolar de Convivencia para presentar el caso y decidir si se debe acudir al protocolo de la situación tipo II.`
+},
+
+{
+    titulo: "Artículo 18°. Acciones preventivas y/o correctivas para situaciones Tipo I",
+    palabras: [
+        "acciones preventivas tipo I",
+        "acciones correctivas tipo I",
+        "medidas tipo I",
+        "correctivos tipo I",
+        "acciones pedagogicas tipo I",
+        "acciones pedagógicas tipo I",
+        "situaciones tipo I correctivos",
+        "articulo 18",
+        "artículo 18"
+    ],
+    contenido: `Articulo 18°, Acciones preventivas y/o correctivas a tomar para situaciones tipo I.
+
+Ante el incumplimiento de los compromisos asumidos por un estudiante con el docente o directivo-docente encargado de atender la situación, y como parte del debido proceso y en procura de aplicar acciones preventivas y/o correctivas se aplicaran las siguientes medidas:
+
+Ofrecer disculpas públicas a las personas afectadas.
+
+Llamado de atención verbal acompañado de una acción pedagógica o servicio social.
+
+Llamado de atención escrito del cual se dejará constancia en el Observador del estudiante.
+
+Realizar charlas de reflexión utilizando carteleras, exposiciones u otro medio de comunicación por parte de quien cometa la falta.`
+},
+
+{
+    titulo: "Artículo 19°. Situaciones Tipo II",
+    palabras: [
+        "situaciones tipo II",
+        "situacion tipo II",
+        "situación tipo II",
+        "faltas tipo II",
+        "situaciones tipo dos",
+        "faltas tipo dos",
+        "articulo 19",
+        "artículo 19"
+    ],
+    contenido: `ACCIONES TIPIFICADAS COMO Articulo 19°. SITUACIONES TIPO II.
+
+Lanzar objetos dentro y fuera del plantel que ocasione daños a cualquier Miembro de la comunidad educativa y/o particulares.
+
+Encerrar arbitrariamente a un compañero(a) en cualquier recinto de la institución.
+
+Enfrentamientos físicos con puños, apodos y demás manifestaciones agresivas.
+
+Enfrentamientos verbales con palabras obscenas.
+
+Porte de armas que pongan en riesgo la integridad físicas de los miembros de la comunidad educativa.
+
+Dibujar figuras obscenas, mensajes denigrantes y/o fotomontajes, sea por medio virtual o físico que atenten contra la moral o el buen nombre de cualquiera de los miembros de la comunidad educativa.
+
+Mensajes sexuales ofensivos escritos en espacios públicos como baños, paredes, tablero o pupitres.
+
+Divulgar fotos o videos que afecten a otras personas a través del uso de las Tic.
+
+Atentar contra uno o varios miembros de la comunidad educativa de manera física con objetos corto punzantes, armas de fuego, golpes empujones o mordiscos.
+
+Calumniar a cualquier miembro de la comunidad educativa.
+
+Piropos inadecuados o contacto físico intencional no consentido (involucrando partes íntimas del cuerpo) que ocurran de forma repetitiva.
+
+Burlas o manifestaciones irrespetuosas contra uno o varios miembros de la comunidad educativa en situaciones de vulnerabilidad y/o diferencia de edad, raza, condición social, o inclinación sexual dentro de la institución, por redes sociales o cualquier medio tecnológico.
+
+Practicar ritos satánicos, espiritismo, brujería y otros actos que atenten contra la dignidad humana y la salud física y mental de cualquier miembro de la comunidad educativa.
+
+Inducir a cualquier miembro de la comunidad educativa al consumo de cigarrillo, tabaco, licor o cualquier tipo de sustancias psicoactivas dentro de la Institución o en actividades que involucren el nombre del colegio.
+
+Amenazar, chantajear, extorsionar, presionar, intimidar o atentar fisicamente contra los compañeros de la Institución o cualquiera de sus miembros.
+
+Hurto comprobado o complicidad que incluya coacción, agresión o sometimiento.
+
+Irrespeto con palabras obscenas contra un docente - directivo.`
+},
+
+{
+    titulo: "Artículo 20°. Protocolo a seguir por parte de la institución para situaciones Tipo II",
+    palabras: [
+        "protocolo situaciones tipo II",
+        "protocolo tipo II",
+        "protocolo a seguir tipo II",
+        "como se maneja una situacion tipo II",
+        "cómo se maneja una situación tipo II",
+        "procedimiento tipo II",
+        "articulo 20",
+        "artículo 20"
+    ],
+    contenido: `Articulo 20°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN:
+
+Quien detecta la falta, docente, coordinador, rector o cualquier otro integrante de la comunidad educativa dialogará con el o los estudiantes implicado, de lo cual se dejara constancia.
+
+De ser reiterativa la conducta, hará las anotaciones correspondientes en el observador donde deben firmar los implicados.
+
+Citar, por parte de docente, dirección de grupo o coordinación, al acudiente para ponerle en conocimiento la situación y formalizar un compromiso para ayudar a mejorar al estudiante.
+
+Intervención de Sicoorientación o coordinación de lo cual se dejara constancia.
+
+Intervención del comité de convivencia, de lo cual se dejara constancia.`
+},
+
+{
+    titulo: "Artículo 21°. Ruta de atención para situaciones Tipo II",
+    palabras: [
+        "ruta de atencion tipo II",
+        "ruta de atención tipo II",
+        "ruta de atencion situaciones tipo II",
+        "ruta de atención situaciones tipo II",
+        "atencion situaciones tipo II",
+        "atención situaciones tipo II",
+        "articulo 21",
+        "artículo 21"
+    ],
+    contenido: `Articulo 21°. RUTA DE ATENCION PARA SITUACIONES TIPO II
+
+Recoger versiones de las partes implicadas en la situación.
+
+Dialogar con los estudiantes implicados a cerca de la situación de manera interdisciplinar donde se refuercen los valores vulnerados en la situación presentada.
+
+Reforzar las competencias ciudadanas relacionadas con el manejo de las emociones, reconocimiento de la sexualidad y la exploración del cuerpo.
+
+anotaciones en el observador del estudiante.
+
+Llamado del padre de familia.
+
+Acciones pedagógicas y firma de compromiso, por parte del director de grupo, estudiante y padre de familia. Remisión al departamento de orientación escolar.
+
+En casos de daño físico, se trasladará al o los estudiantes a un centro asistencial para su atención inmediata y se informará a los acudientes (se dejará constancia).
+
+En caso de haber requerido medidas de restablecimiento de derechos, se remitirá la situación a las autoridades administrativas y se dejará constancia de dicha actuación.
+
+Adoptar medidas de protección a los estudiantes involucrados en la situación, para evitar posibles represalias.
+
+Determinar las acciones restaurativas que busquen la reparación de los daños causados, el restablecimiento de los derechos y la reconciliación dentro de un clima de relaciones constructivas en el establecimiento educativo; así como las consecuencias aplicables a quienes han promovido, contribuido o participado en la situación reportada.
+
+El comité escolar de convivencia dejará constancia en acta de todo lo ocurrido y de las decisiones adoptadas, la cual será suscrita por todos los integrantes e intervinientes. El comité realizará el análisis y seguimiento, a fin de verificar si la solución fue efectiva o si se requiere acudir al protocolo consagrado en la situación tipo III.
+
+El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.`
+},
+
+{
+    titulo: "Artículo 22°. Acciones preventivas y/o correctivas para situaciones Tipo II",
+    palabras: [
+        "acciones preventivas tipo II",
+        "acciones correctivas tipo II",
+        "medidas tipo II",
+        "correctivos tipo II",
+        "acciones pedagogicas tipo II",
+        "acciones pedagógicas tipo II",
+        "acciones preventivas situaciones tipo II",
+        "articulo 22",
+        "artículo 22"
+    ],
+    contenido: `Articulo 22°. Acciones preventivas y/o correctivas a tomar para situaciones tipo II.
+
+Fomentar espacios en los que los miembros de la comunidad educativa puedan expresar sus puntos de vista sobre la situación, (conciliación, concertación, entre otros) aplicando el principio de confidencialidad y respeto a la intimidad de los temas que allí se traten para dar un manejo ético y cuidadoso de la situación.
+
+Reconocer el tipo de situación, su recurrencia y daños que pueden ocasionar.
+
+Revisar las características y consecuencias del acontecimiento.
+
+Socializar constantemente los protocolos a la comunidad educativa.
+
+Revisión del historial disciplinario de los implicados.
+
+Brindar acompañamiento a través de la Psicorientacion.
+
+Ejecutar proyectos y jornadas pedagógicas para el fortalecimiento de los valores y la sana convivencia con los miembros de la comunidad educativa a través de la socialización del manual de convivencia, carteleras, murales y utilización de las Tic (redes sociales, blog interactivo institucional entre otras).`
+},
+
+{
+    titulo: "Artículo 23°. Situaciones Tipo III",
+    palabras: [
+        "situaciones tipo III",
+        "situacion tipo III",
+        "situación tipo III",
+        "faltas tipo III",
+        "situaciones tipo tres",
+        "faltas tipo tres",
+        "articulo 23",
+        "artículo 23"
+    ],
+    contenido: `ACCIONES TIPIFICADAS COMO Articulo 23°. SITUACIONES TIPO III.
+
+Hurto o malversación de fondos.
+
+Portar, hacer uso o venta de armas y/o explosivos que pongan en peligro la integridad de las personas o la planta física del colegio.
+
+Inducción, porte, distribución o intento de distribución de sustancias sicotrópicas, alucinógenas que causen adicción.
+
+Ingerir bebidas alcohólicas, sustancias alucinógenas, sustancias sicotrópicas que causen adicción dentro o fuera de la Institución( en actividades institucionales) y el ingreso de las mismas a la institución.
+
+Ejecutar dentro o fuera de la Institución actos que atenten contra la moral y la dignidad de la persona y principios de la Institución: Acceso carnal violento, acto sexual violento, acceso carnal abusivo con menor de edad, actos sexuales abusivos.
+
+Realizar o encubrir actos que atenten contra la comunidad educativa, tales como: explotación económica y laboral, maltrato físico o psicológico, abuso o acoso sexual, discriminación por edad, sexo, raza, religión, política, posición social, lugar de vivienda y tráfico de estupefacientes (art 44. numeral 2. Código de infancia y adolescencia).
+
+Atentar contra el derecho a la vida (art 11, constitución política) y/o paz mediante actos tales como amenazas, boleteo, estafas, chantajes, lesiones personales, abuso de confianza por cualquier medio (Electrónico, físico u otros).
+
+Pertenecer o fomentar grupos vandálicos o pandillas dentro o fuera de la Institución.
+
+Falsedad y/o adulteracion en documentos utilizados para ingresar al plantel o en otro tipo de actividad dentro y fuera de la institución.
+
+Relaciones sexuales dentro o fuera de la institución en actividades propias de la institución.
+
+PARÁGRAFO 1: El Comité Escolar de Convivencia activará la Ruta de Atención Integral (RAI) para que brinden la atención inmediata a la víctima, a quien se le atribuye la agresión y a las personas que hayan informado o hagan parte de la situación presentada para brindarles protección dentro y fuera de la Institución.`
+},
+
+{
+    titulo: "Artículo 24°. Protocolo para la atención de situaciones Tipo III",
+    palabras: [
+        "protocolo situaciones tipo III",
+        "protocolo tipo III",
+        "protocolo para situaciones tipo III",
+        "atencion situaciones tipo III",
+        "atención situaciones tipo III",
+        "ruta situaciones tipo III",
+        "articulo 24",
+        "artículo 24"
+    ],
+    contenido: `Articulo 24°. PROTOCOLO PARA LA ATENCIÓN DE SITUACIONES TIPO III.
+
+En casos de daño al cuerpo o a la salud, garantizar la atención inmediata en salud física y mental de los involucrados, mediante la remisión a las entidades competentes, actuación de la cual se dejará constancia.
+
+Informar de manera inmediata a los padres, madres o acudientes de todos los estudiantes involucrados, actuación de la cual se dejará constancia.
+
+El presidente del Comité Escolar de Convivencia de manera inmediata y por el medio más expedito, pondrá la situación en conocimiento de la Policía Nacional, policía infancia Y adolescencia, personería, ICBF, salud mental, actuación de la cual se dejará constancia.
+
+No obstante, lo dispuesto en el numeral anterior, se citará a los integrantes del comité escolar de convivencia en los términos fijados en el manual de convivencia.
+
+El presidente del comité escolar de convivencia informará a los participantes en el comité, de los hechos que dieron lugar a la convocatoria, quardando reserva de aquella información que pueda atentar contra el derecho la intimidad y confidencialidad de las partes involucradas, así como del reporte realizado ante la autoridad competente.
+
+Pese a que una situación se haya puesto en conocimiento de las autoridades competentes, el comité escolar de convivencia adoptará, de manera inmediata, las medidas propias del establecimiento educativo, tendientes a proteger dentro del ámbito de sus competencias a la víctima, a quien se le atribuye la agresión y a las personas que hayan informado o hagan parte de la situación presentada, actuación de la cual se dejará constancia.
+
+El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.
+
+Los casos sometidos a este protocolo serán objeto de seguimiento por parte del comité escolar de convivencia, de la autoridad que asuma el conocimiento y del comité municipal o departamental de convivencia escolar que ejerza jurisdicción sobre el establecimiento educativo en el cual se presentó el hecho.`
+},
+
+{
+    titulo: "Artículo 25°. Protocolo a seguir por parte de la institución para situaciones Tipo III",
+    palabras: [
+        "protocolo situaciones tipo III",
+        "protocolo tipo III",
+        "correctivos situaciones tipo III",
+        "correctivos tipo III",
+        "protocolo institucion tipo III",
+        "protocolo institución tipo III",
+        "articulo 25",
+        "artículo 25"
+    ],
+    contenido: `Articulo 25°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Las situaciones TIPO III conllevan los siguientes correctivos por parte de la Institución:
+
+Anotación inmediata en el Observador por parte del docente o coordinador que haya conocido u observado la situación, la anotación debe ser firmada por los estudiantes aceptándola o rechazándola, el estudiante debe realizar un escrito allegandolo al día siguiente con la firma del padre, madre y/o acudiente donde conste que se encuentra enterado de la situación.
+
+El coordinador remitirá de manera inmediata a las entidades competentes.
+
+El coordinador rinde informe inmediatamente sobre la situación al Rector (Presidente del Comité Escolar de Convivencia) quien citará de manera inmediata y por el medio más expedito al Comité Escolar de Convivencia, padres, madres y/o acudientes de los estudiantes involucrados para presentar el caso y activar la Ruta de Atención Integral (RAI).`
+},
+
+
+{
+    titulo: "Artículo 26°. Acciones preventivas y/o correctivas para situaciones Tipo III",
+    palabras: [
+        "acciones preventivas tipo III",
+        "acciones correctivas tipo III",
+        "acciones preventivas situaciones tipo III",
+        "acciones correctivas situaciones tipo III",
+        "medidas tipo III",
+        "correctivos tipo III",
+        "articulo 26",
+        "artículo 26"
+    ],
+    contenido: `Articulo 26°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO III.
+
+El comité Escolar de Convivencia tomará las medidas pertinentes de protección y hará el seguimiento de la situación.
+
+La institución adoptará medidas acordes con lo que determinen las autoridades competentes.`
+},
+
+{
+    titulo: "Matrícula condicional",
+    palabras: [
+        "matricula condicional",
+        "matrícula condicional",
+        "que es matricula condicional",
+        "qué es matrícula condicional",
+        "sancion matricula condicional",
+        "sanción matrícula condicional",
+        "condiciones de matricula",
+        "condiciones de matrícula"
+    ],
+    contenido: `MATRICULA CONDICIONAL.
+
+Esta se determina cuando al juicio del comité de convivencia escolar, el estudiante incurre de manera reiterativa en el incumplimiento de sus deberes, es decir, que a pesar de los llamados de atención por haber incurrido en situaciones (tipo II o III), de manera recurrente, sin mostrar cambios positivos en su actitud o comportamiento.
+
+La matrícula condicional es la sanción que se genera cuando el estudiante después de haber firmado acta de compromiso, haber sido objeto de suspensión y/o con seguimiento en sicoorientacion; continua presentando dificultades en su comportamiento por los cuales nuevamente ha recibido llamados de atención con notificación a su acudiente. Su objetivo es propiciar un cambio decidido de actitud.
+
+Tiene una vigencia definida durante el año lectivo, según el criterio del consejo directivo lo cual queda establecido en la resolución de rectoría que avala la sanción.
+
+Se informara de manera oportunamente al padre o acudiente la situación presentada y quedará constancia en el observador.`
+},
+
+{
+    titulo: "Suspensión de 1 a 3 días",
+    palabras: [
+        "suspension de 1 a 3 dias",
+        "suspensión de 1 a 3 días",
+        "suspension de uno a tres dias",
+        "suspensión de uno a tres días",
+        "suspension",
+        "suspensión",
+        "sancion de suspension",
+        "sanción de suspensión",
+        "dias de suspension",
+        "días de suspensión",
+        "comite de convivencia suspension",
+        "comité de convivencia suspensión"
+    ],
+    contenido: `SUSPENSIÓN DE 1 A 3 DÍAS.
+
+Es una medida de carácter formativo donde el estudiante no podrá asistir a las clases regulares durante un periodo determinado por el comité de convivencia, esta busca la reflexión en el estudiante con el fin de que mejore su comportamiento. El incumplimiento de los compromisos disciplinarios o el incurrir en situaciones catalogadas como tipo II o III en el presente Manual de Convivencia dará lugar a Comité de la suspensión de 1 a 3 días, previo análisis del convivencia. Durante ella, el alumno no podrá participar de las actividades regulares del Colegio, asumiendo todas las consecuencias académicas que se deriven de ello. Este deberá retornar a la institución con los cuadernos al día correspondientes a las clases que dejo de asistir debido a la sanción.
+
+En este caso el alumno comparecerá ante el Comité de convivencia para dar su versión de los hechos y realizar los descargos que considere pertinentes, previamente el comité de convivencia recogerá toda la información sobre el hecho, escuchará al estudiante e informará a la familia. Así mismo, el comité de convivencia, presentará toda la información que se ha recogido previamente sobre los hechos.
+
+Cuando se determine aplicar esta sanción se levantara un acta de la medida de Suspensión, de la cual se entregara copia a los padres del alumno. En todos los casos de suspensión el (la) estudiante deberá realizar una reflexión escrita sobre su comportamiento, analizando los factores que lo llevaron a él a incurrir actos tipificados como situaciones II o III, las consecuencias y los compromisos de cambio que asumirá. En el observador se consignarán los compromisos de mejoramiento asumidos por el (la) estudiante y el apoyo que recibirá de sus padres en el cumplimiento de dicho compromiso. Cabe anotar que la nota de comportamiento del estudiante implicado, se verá afectada por estos hechos.`
+},
+
+
+{
+    titulo: "Potestad disciplinaria",
+    palabras: [
+        "potestad disciplinaria",
+        "que es la potestad disciplinaria",
+        "qué es la potestad disciplinaria",
+        "funcion disciplinaria",
+        "función disciplinaria",
+        "quien tiene la potestad disciplinaria",
+        "quien ejerce la funcion disciplinaria",
+        "quién ejerce la función disciplinaria",
+        "rector disciplina",
+        "decreto 1860 de 1994"
+    ],
+    contenido: `POTESTAD DISCIPLINARIA.
+
+De conformidad con el literal "g" del Art 25 Decreto 1860 de 1994, la función disciplinaria en los establecimientos educativos corresponde al Rector o a quien éste la delegue.`
+},
+
+{
+    titulo: "Artículo 15: Situaciones Tipo I",
+    palabras: [
+        "articulo 15",
+        "artículo 15",
+        "situaciones tipo I",
+        "situaciones tipo 1",
+        "tipo I",
+        "tipo 1",
+        "faltas tipo I",
+        "faltas tipo 1",
+        "acciones tipificadas tipo I",
+        "acciones tipificadas tipo 1"
+    ],
+    contenido: `ARTICULO 15°. SITUACIONES TIPO I.
+
+Llegar tarde a la jornada escolar sin excusa justificada.
+
+Portar el uniforme en lugares públicos fuera de la jornada de clase de manera indecorosa o sin autorización de la institución.
+
+Permanecer con la camiseta de educación física por fuera de la sudadera.
+
+Desaseo personal y porte innecesario de accesorios diferentes al uniforme.
+
+Traer zapatos de un color diferente al estipulado para cada uniforme.
+
+Hacer cambios o correcciones a las anotaciones hechas por el profesor en los controles de clases.
+
+Portar los uniformes inadecuadamente y en los días que no corresponde.
+
+Maltratar las zonas verdes.
+
+Dañar envases o utensilios de la cooperativa y del restaurante escolar.
+
+Arrojar papeles y basura fuera de los recipientes destinados para ello.
+
+Masticar chicle en forma inadecuada que interrumpa el desarrollo normal de la clase.
+
+Lanzar objetos, tales como semillas, chicles, bolas de papel, etc., a los compañeros u otros miembros de la comunidad educativa.
+
+No esperar al profesor dentro del salón de clases.
+
+Realizar actividades diferentes a las que se están realizando en la clase.
+
+Cometer fraude en la presentación de trabajos y evaluaciones.
+
+No traer los implementos necesarios para desarrollar la clase.
+
+Usar inadecuadamente elementos tecnológicos en clase.
+
+Presenta una agresión escolar (física, verbal, gestual, relacional y/o electrónica) por primera vez con algún miembro de la comunidad educativa.
+
+No cumplir con los compromisos académicos.
+
+Desinformar al acudiente sobre las comunicaciones enviadas por el EE.
+
+Entregar las excusas después del tiempo requerido (48 horas).
+
+Denigrar del EE y cualquier actuación que atente contra su buen nombre o prestigio.
+
+Desacatar las indicaciones e instrucciones de los docentes.
+
+Utilizar inapropiadamente los servicios del EE y materiales de trabajo.
+
+Levantarse del puesto de manera reiterativa sin autorización.
+
+Dialogar con los compañeros durante el desarrollo de la clase.
+
+Subirse a las porterías de fútbol, estructuras metálicas y árboles.
+
+Irrespeto a los símbolos patrios, religiosos e institucionales.
+
+Participar en actos que destruyan los bienes del EE y sus alrededores en forma culposa.
+
+El consumo de licor o cigarrillo dentro y fuera del EE, portando el uniforme.
+
+Consumir alimentos dentro del salón de clases sin la autorización correspondiente.
+
+Ausentarse del EE y/o del aula de clase sin autorización del Rector o de la autoridad competente.
+
+La inasistencia a actos culturales, deportivos, religiosos, convivencias y encuentros de crecimiento espiritual organizados por el EE.
+
+Desconocer los principios y la filosofía institucional.
+
+Uso de vocabulario y modales inadecuados.
+
+Omitir el conducto regular.
+
+Parágrafo 1: El comité escolar de convivencia revisará, evaluará y clasificará el comportamiento del estudiante y decidirá si se encuadra dentro de las situaciones tipo I, la falta que no se contempló en los numerales anteriores.`
+},
+
+{
+    titulo: "Artículo 16: Ruta de atención para situaciones Tipo I",
+    palabras: [
+        "articulo 16",
+        "artículo 16",
+        "ruta de atencion tipo I",
+        "ruta de atención tipo I",
+        "ruta de atencion tipo 1",
+        "ruta de atención tipo 1",
+        "proceso situaciones tipo I",
+        "proceso situaciones tipo 1",
+        "que hacer ante una situacion tipo I",
+        "qué hacer ante una situación tipo I"
+    ],
+    contenido: `ARTICULO 16°. RUTA DE ATENCION PARA SITUACIONES TIPO I.
+
+10. Se recibe queja o informe sobre una situación puntual.
+
+20. Se hace el reporte correspondiente a alguna autoridad escolar, Rector, Coordinador, Orientadora, Director de grupo, Docente.
+
+30. La Coordinación de Convivencia toma nota de la situación correspondiente. Si el caso es de embarazo adolescente se comunica al Departamento de Orientación y éste toma el control del asunto, y se informa de la situación al Hospital y/o al ICBF.
+
+40. El(la) Director(a) de curso informa del caso a Coordinación de Convivencia. El caso entra a formar parte del cronograma de acompañamiento del cual hará parte Orientación y el Coordinador.
+
+50. Se informa a los padres de familia. Se deja acta al respecto que reposa en Coordinación de Convivencia.
+
+60. Se informa al Rector sobre evolución del proceso.
+
+70. Cierre del caso.
+
+Parágrafo 1. El tratamiento a las situaciones anteriormente mencionadas, lo realizará el docente, director de grupo, coordinador o el rector que observe la situación inmediatamente presentada. En caso de ser necesario se remitirá al comité escolar de convivencia para su respectivo análisis.
+
+Parágrafo 2. Si una situación de tipo I es observada por un miembro de la comunidad educativa diferente a los anteriormente mencionados, podrá informar de lo ocurrido a un docente o directivo docente del EE.`
+},
+
+{
+    titulo: "Artículo 17: Protocolo para situaciones Tipo I",
+    palabras: [
+        "articulo 17",
+        "artículo 17",
+        "protocolo situaciones tipo I",
+        "protocolo situaciones tipo 1",
+        "protocolo tipo I",
+        "protocolo tipo 1",
+        "protocolo de atencion tipo I",
+        "protocolo de atención tipo I",
+        "que hace la institucion ante una situacion tipo I",
+        "qué hace la institución ante una situación tipo I"
+    ],
+    contenido: `ARTICULO 17°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Las situaciones Tipo I conllevan el siguiente proceso por parte de la Institución:
+
+Recomendación u orientación verbal por parte de quien observa la situación.
+
+El docente o directivo-docente que se haya percatado de la situación podrá realizar llamado de atención verbal, anotación en el Observador y/o en el control de clases, dicha anotación debe ser firmada por el estudiante, aceptándola o rechazándola. En caso de rechazo el estudiante debe realizar un escrito remitiéndola al día siguiente a la coordinación con la firma del padre, madre y/o acudiente donde conste que se encuentra enterado de la situación.
+
+Diálogo con el docente, director de grupo o coordinador que esté al tanto de la situación, para efectuar la respectiva reflexión sobre el hecho y buscar posibles soluciones y compromisos ante el impase. Si la situación presentada no fue observada por quien está a cargo, sino que procede de una queja hecha por un miembro de la comunidad, se indagará con otras personas que estuvieron presentes para tener una mejor información de lo ocurrido.
+
+En caso de que las anteriores medidas no generen soluciones o que los compromisos realizados entre las partes no se cumplan; la coordinación remitirá informe al Rector (Presidente del Comité Escolar de Convivencia) quien determinará si se hace necesario convocar extraordinariamente el Comité Escolar de Convivencia para presentar el caso y decidir si se debe acudir al protocolo de la situación tipo II.`
+},
+
+{
+    titulo: "Artículo 18: Acciones preventivas y/o correctivas para situaciones Tipo I",
+    palabras: [
+        "articulo 18",
+        "artículo 18",
+        "acciones preventivas tipo I",
+        "acciones preventivas tipo 1",
+        "acciones correctivas tipo I",
+        "acciones correctivas tipo 1",
+        "medidas tipo I",
+        "medidas tipo 1",
+        "correctivos situaciones tipo I",
+        "correctivos situaciones tipo 1"
+    ],
+    contenido: `ARTICULO 18°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO I.
+
+Ante el incumplimiento de los compromisos asumidos por un estudiante con el docente o directivo-docente encargado de atender la situación, y como parte del debido proceso y en procura de aplicar acciones preventivas y/o correctivas se aplicaran las siguientes medidas:
+
+Ofrecer disculpas públicas a las personas afectadas.
+
+Llamado de atención verbal acompañado de una acción pedagógica o servicio social.
+
+Llamado de atención escrito del cual se dejará constancia en el Observador del estudiante.
+
+Realizar charlas de reflexión utilizando carteleras, exposiciones u otro medio de comunicación por parte de quien cometa la falta.`
+},
+
+{
+    titulo: "Artículo 19: Situaciones Tipo II",
+    palabras: [
+        "articulo 19",
+        "artículo 19",
+        "situaciones tipo II",
+        "situaciones tipo 2",
+        "tipo II",
+        "tipo 2",
+        "faltas tipo II",
+        "faltas tipo 2",
+        "acciones tipificadas tipo II",
+        "acciones tipificadas tipo 2"
+    ],
+    contenido: `ARTICULO 19°. SITUACIONES TIPO II.
+
+Lanzar objetos dentro y fuera del plantel que ocasione daños a cualquier Miembro de la comunidad educativa y/o particulares.
+
+Encerrar arbitrariamente a un compañero(a) en cualquier recinto de la institución.
+
+Enfrentamientos físicos con puños, apodos y demás manifestaciones agresivas.
+
+Enfrentamientos verbales con palabras obscenas.
+
+Porte de armas que pongan en riesgo la integridad físicas de los miembros de la comunidad educativa.
+
+Dibujar figuras obscenas, mensajes denigrantes y/o fotomontajes, sea por medio virtual o físico que atenten contra la moral o el buen nombre de cualquiera de los miembros de la comunidad educativa.
+
+Mensajes sexuales ofensivos escritos en espacios públicos como baños, paredes, tablero o pupitres.
+
+Divulgar fotos o videos que afecten a otras personas a través del uso de las Tic.
+
+Atentar contra uno o varios miembros de la comunidad educativa de manera física con objetos corto punzantes, armas de fuego, golpes empujones o mordiscos.
+
+Calumniar a cualquier miembro de la comunidad educativa.
+
+Piropos inadecuados o contacto físico intencional no consentido (involucrando partes íntimas del cuerpo) que ocurran de forma repetitiva.
+
+Burlas o manifestaciones irrespetuosas contra uno o varios miembros de la comunidad educativa en situaciones de vulnerabilidad y/o diferencia de edad, raza, condición social, o inclinación sexual dentro de la institución, por redes sociales o cualquier medio tecnológico.
+
+Practicar ritos satánicos, espiritismo, brujería y otros actos que atenten contra la dignidad humana y la salud física y mental de cualquier miembro de la comunidad educativa.
+
+Inducir a cualquier miembro de la comunidad educativa al consumo de cigarrillo, tabaco, licor o cualquier tipo de sustancias psicoactivas dentro de la Institución o en actividades que involucren el nombre del colegio.
+
+Amenazar, chantajear, extorsionar, presionar, intimidar o atentar fisicamente contra los compañeros de la Institución o cualquiera de sus miembros.
+
+Hurto comprobado o complicidad que incluya coacción, agresión o sometimiento.
+
+Irrespeto con palabras obscenas contra un docente - directivo.`
+},
+
+{
+    titulo: "Artículo 20: Protocolo para situaciones Tipo II",
+    palabras: [
+        "articulo 20",
+        "artículo 20",
+        "protocolo situaciones tipo II",
+        "protocolo situaciones tipo 2",
+        "protocolo tipo II",
+        "protocolo tipo 2",
+        "protocolo de atencion tipo II",
+        "protocolo de atención tipo II",
+        "que hace la institucion ante una situacion tipo II",
+        "qué hace la institución ante una situación tipo II"
+    ],
+    contenido: `ARTICULO 20°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Quien detecta la falta, docente, coordinador, rector o cualquier otro integrante de la comunidad educativa dialogará con el o los estudiantes implicado, de lo cual se dejara constancia.
+
+De ser reiterativa la conducta, hará las anotaciones correspondientes en el observador donde deben firmar los implicados.
+
+Citar, por parte de docente, dirección de grupo o coordinación, al acudiente para ponerle en conocimiento la situación y formalizar un compromiso para ayudar a mejorar al estudiante.
+
+Intervención de Sicoorientación o coordinación de lo cual se dejara constancia.
+
+Intervención del comité de convivencia, de lo cual se dejara constancia.`
+},
+
+{
+    titulo: "Artículo 21: Ruta de atención para situaciones Tipo II",
+    palabras: [
+        "articulo 21",
+        "artículo 21",
+        "ruta de atencion tipo II",
+        "ruta de atención tipo II",
+        "ruta de atencion tipo 2",
+        "ruta de atención tipo 2",
+        "ruta situaciones tipo II",
+        "ruta situaciones tipo 2",
+        "proceso situaciones tipo II",
+        "proceso situaciones tipo 2"
+    ],
+    contenido: `ARTICULO 21°. RUTA DE ATENCION PARA SITUACIONES TIPO II.
+
+Recoger versiones de las partes implicadas en la situación.
+
+Dialogar con los estudiantes implicados a cerca de la situación de manera interdisciplinar donde se refuercen los valores vulnerados en la situación presentada.
+
+Reforzar las competencias ciudadanas relacionadas con el manejo de las emociones, reconocimiento de la sexualidad y la exploración del cuerpo.
+
+Anotaciones en el observador del estudiante.
+
+Llamado del padre de familia.
+
+Acciones pedagógicas y firma de compromiso, por parte del director de grupo, estudiante y padre de familia. Remisión al departamento de orientación escolar.
+
+En casos de daño físico, se trasladará al o los estudiantes a un centro asistencial para su atención inmediata y se informará a los acudientes (se dejará constancia).
+
+En caso de haber requerido medidas de restablecimiento de derechos, se remitirá la situación a las autoridades administrativas y se dejará constancia de dicha actuación.
+
+Adoptar medidas de protección a los estudiantes involucrados en la situación, para evitar posibles represalias.
+
+Determinar las acciones restaurativas que busquen la reparación de los daños causados, el restablecimiento de los derechos y la reconciliación dentro de un clima de relaciones constructivas en el establecimiento educativo; así como las consecuencias aplicables a quienes han promovido, contribuido o participado en la situación reportada.
+
+El comité escolar de convivencia dejará constancia en acta de todo lo ocurrido y de las decisiones adoptadas, la cual será suscrita por todos los integrantes e intervinientes. El comité realizará el análisis y seguimiento, a fin de verificar si la solución fue efectiva o si se requiere acudir al protocolo consagrado en la situación tipo III.
+
+El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.`
+},
+
+{
+    titulo: "Artículo 22: Acciones preventivas y/o correctivas para situaciones Tipo II",
+    palabras: [
+        "articulo 22",
+        "artículo 22",
+        "acciones preventivas tipo II",
+        "acciones preventivas tipo 2",
+        "acciones correctivas tipo II",
+        "acciones correctivas tipo 2",
+        "medidas tipo II",
+        "medidas tipo 2",
+        "correctivos situaciones tipo II",
+        "correctivos situaciones tipo 2"
+    ],
+    contenido: `ARTICULO 22°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO II.
+
+Fomentar espacios en los que los miembros de la comunidad educativa puedan expresar sus puntos de vista sobre la situación, (conciliación, concertación, entre otros) aplicando el principio de confidencialidad y respeto a la intimidad de los temas que allí se traten para dar un manejo ético y cuidadoso de la situación.
+
+Reconocer el tipo de situación, su recurrencia y daños que pueden ocasionar.
+
+Revisar las características y consecuencias del acontecimiento.
+
+Socializar constantemente los protocolos a la comunidad educativa.
+
+Revisión del historial disciplinario de los implicados.
+
+Brindar acompañamiento a través de la Psicorientacion.
+
+Ejecutar proyectos y jornadas pedagógicas para el fortalecimiento de los valores y la sana convivencia con los miembros de la comunidad educativa a través de la socialización del manual de convivencia, carteleras, murales y utilización de las Tic (redes sociales, blog interactivo institucional entre otras).`
+},
+
+{
+    titulo: "Artículo 23: Situaciones Tipo III",
+    palabras: [
+        "articulo 23",
+        "artículo 23",
+        "situaciones tipo III",
+        "situaciones tipo 3",
+        "tipo III",
+        "tipo 3",
+        "faltas tipo III",
+        "faltas tipo 3",
+        "acciones tipificadas tipo III",
+        "acciones tipificadas tipo 3"
+    ],
+    contenido: `ARTICULO 23°. SITUACIONES TIPO III.
+
+Hurto o malversación de fondos.
+
+Portar, hacer uso o venta de armas y/o explosivos que pongan en peligro la integridad de las personas o la planta física del colegio.
+
+Inducción, porte, distribución o intento de distribución de sustancias sicotrópicas, alucinógenas que causen adicción.
+
+Ingerir bebidas alcohólicas, sustancias alucinógenas, sustancias sicotrópicas que causen adicción dentro o fuera de la Institución (en actividades institucionales) y el ingreso de las mismas a la institución.
+
+Ejecutar dentro o fuera de la Institución actos que atenten contra la moral y la dignidad de la persona y principios de la Institución: Acceso carnal violento, acto sexual violento, acceso carnal abusivo con menor de edad, actos sexuales abusivos.
+
+Realizar o encubrir actos que atenten contra la comunidad educativa, tales como: explotación económica y laboral, maltrato físico o psicológico, abuso o acoso sexual, discriminación por edad, sexo, raza, religión, política, posición social, lugar de vivienda y tráfico de estupefacientes (art 44. numeral 2. Código de infancia y adolescencia).
+
+Atentar contra el derecho a la vida (art 11, constitución política) y/o paz mediante actos tales como amenazas, boleteo, estafas, chantajes, lesiones personales, abuso de confianza por cualquier medio (Electrónico, físico u otros).
+
+Pertenecer o fomentar grupos vandálicos o pandillas dentro o fuera de la Institución.
+
+Falsedad y/o adulteracion en documentos utilizados para ingresar al plantel o en otro tipo de actividad dentro y fuera de la institución.
+
+Relaciones sexuales dentro o fuera de la institución en actividades propias de la institución.
+
+PARÁGRAFO 1: El Comité Escolar de Convivencia activará la Ruta de Atención Integral (RAI) para que brinden la atención inmediata a la víctima, a quien se le atribuye la agresión y a las personas que hayan informado o hagan parte de la situación presentada para brindarles protección dentro y fuera de la Institución.`
+},
+
+{
+    titulo: "Artículo 24: Protocolo para la atención de situaciones Tipo III",
+    palabras: [
+        "articulo 24",
+        "artículo 24",
+        "protocolo situaciones tipo III",
+        "protocolo situaciones tipo 3",
+        "protocolo tipo III",
+        "protocolo tipo 3",
+        "atencion situaciones tipo III",
+        "atención situaciones tipo III",
+        "ruta de atencion tipo III",
+        "ruta de atención tipo III"
+    ],
+    contenido: `ARTICULO 24°. PROTOCOLO PARA LA ATENCIÓN DE SITUACIONES TIPO III.
+
+En casos de daño al cuerpo o a la salud, garantizar la atención inmediata en salud física y mental de los involucrados, mediante la remisión a las entidades competentes, actuación de la cual se dejará constancia.
+
+Informar de manera inmediata a los padres, madres o acudientes de todos los estudiantes involucrados, actuación de la cual se dejará constancia.
+
+El presidente del Comité Escolar de Convivencia de manera inmediata y por el medio más expedito, pondrá la situación en conocimiento de la Policía Nacional, policía infancia Y adolescencia, personería, ICBF, salud mental, actuación de la cual se dejará constancia.
+
+No obstante, lo dispuesto en el numeral anterior, se citará a los integrantes del comité escolar de convivencia en los términos fijados en el manual de convivencia.
+
+El presidente del comité escolar de convivencia informará a los participantes en el comité, de los hechos que dieron lugar a la convocatoria, guardando reserva de aquella información que pueda atentar contra el derecho la intimidad y confidencialidad de las partes involucradas, así como del reporte realizado ante la autoridad competente.
+
+Pese a que una situación se haya puesto en conocimiento de las autoridades competentes, el comité escolar de convivencia adoptará, de manera inmediata, las medidas propias del establecimiento educativo, tendientes a proteger dentro del ámbito de sus competencias a la víctima, a quien se le atribuye la agresión y a las personas que hayan informado o hagan parte de la situación presentada, actuación de la cual se dejará constancia.
+
+El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.
+
+Los casos sometidos a este protocolo serán objeto de seguimiento por parte del comité escolar de convivencia, de la autoridad que asuma el conocimiento y del comité municipal o departamental de convivencia escolar que ejerza jurisdicción sobre el establecimiento educativo en el cual se presentó el hecho.`
+},
+
+{
+    titulo: "Artículo 25: Protocolo a seguir por parte de la institución para situaciones Tipo III",
+    palabras: [
+        "articulo 25",
+        "artículo 25",
+        "protocolo tipo III",
+        "protocolo tipo 3",
+        "correctivos tipo III",
+        "correctivos tipo 3",
+        "protocolo institucion tipo III",
+        "protocolo institución tipo III",
+        "acciones de la institucion tipo III",
+        "acciones de la institución tipo III"
+    ],
+    contenido: `ARTICULO 25°. PROTOCOLO A SEGUIR POR PARTE DE LA INSTITUCIÓN.
+
+Las situaciones TIPO III conllevan los siguientes correctivos por parte de la Institución:
+
+Anotación inmediata en el Observador por parte del docente o coordinador que haya conocido u observado la situación, la anotación debe ser firmada por los estudiantes aceptándola o rechazándola, el estudiante debe realizar un escrito allegandolo al día siguiente con la firma del padre, madre y/o acudiente donde conste que se encuentra enterado de la situación.
+
+El coordinador remitirá de manera inmediata a las entidades competentes.
+
+El coordinador rinde informe inmediatamente sobre la situación al Rector (Presidente del Comité Escolar de Convivencia) quien citará de manera inmediata y por el medio más expedito al Comité Escolar de Convivencia, padres, madres y/o acudientes de los estudiantes involucrados para presentar el caso y activar la Ruta de Atención Integral (RAI).
+
+El comité Escolar de Convivencia tomará las medidas pertinentes de protección y hará el seguimiento de la situación.`
+},
+
+{
+    titulo: "Artículo 26: Acciones preventivas y/o correctivas para situaciones Tipo III",
+    palabras: [
+        "articulo 26",
+        "artículo 26",
+        "acciones preventivas tipo III",
+        "acciones preventivas tipo 3",
+        "acciones correctivas tipo III",
+        "acciones correctivas tipo 3",
+        "medidas tipo III",
+        "medidas tipo 3",
+        "correctivos situaciones tipo III",
+        "correctivos situaciones tipo 3"
+    ],
+    contenido: `ARTICULO 26°. ACCIONES PREVENTIVAS Y/O CORRECTIVAS A TOMAR PARA SITUACIONES TIPO III.
+
+La institución adoptará medidas acordes con lo que determinen las autoridades competentes.`
+},
+
+{
+    titulo: "Matrícula condicional",
+    palabras: [
+        "matricula condicional",
+        "matrícula condicional",
+        "que es matricula condicional",
+        "qué es matrícula condicional",
+        "sancion matricula condicional",
+        "sanción matrícula condicional",
+        "cuando se aplica matricula condicional",
+        "cuándo se aplica matrícula condicional",
+        "incumplimiento reiterativo",
+        "comite de convivencia matricula condicional"
+    ],
+    contenido: `MATRICULA CONDICIONAL.
+
+Esta se determina cuando al juicio del comité de convivencia escolar, el estudiante incurre de manera reiterativa en el incumplimiento de sus deberes, es decir, que a pesar de los llamados de atención por haber incurrido en situaciones (tipo II o III), de manera recurrente, sin mostrar cambios positivos en su actitud o comportamiento.
+
+La matrícula condicional es la sanción que se genera cuando el estudiante después de haber firmado acta de compromiso, haber sido objeto de suspensión y/o con seguimiento en sicoorientacion; continua presentando dificultades en su comportamiento por los cuales nuevamente ha recibido llamados de atención con notificación a su acudiente. Su objetivo es propiciar un cambio decidido de actitud.
+
+Tiene una vigencia definida durante el año lectivo, según el criterio del consejo directivo lo cual queda establecido en la resolución de rectoría que avala la sanción.
+
+Se informara de manera oportunamente al padre o acudiente la situación presentada y quedará constancia en el observador.`
+},
+
+{
+    titulo: "Suspensión de 1 a 3 días",
+    palabras: [
+        "suspension",
+        "suspensión",
+        "suspension de 1 a 3 dias",
+        "suspensión de 1 a 3 días",
+        "suspension de uno a tres dias",
+        "suspensión de uno a tres días",
+        "sancion de suspension",
+        "sanción de suspensión",
+        "medida de suspension",
+        "medida de suspensión",
+        "comite de convivencia suspension",
+        "comité de convivencia suspensión"
+    ],
+    contenido: `SUSPENSIÓN DE 1 A 3 DÍAS.
+
+Es una medida de carácter formativo donde el estudiante no podrá asistir a las clases regulares durante un periodo determinado por el comité de convivencia, esta busca la reflexión en el estudiante con el fin de que mejore su comportamiento. El incumplimiento de los compromisos disciplinarios o el incurrir en situaciones catalogadas como tipo II o III en el presente Manual de Convivencia dará lugar a Comité de la suspensión de 1 a 3 días, previo análisis del convivencia. Durante ella, el alumno no podrá participar de las actividades regulares del Colegio, asumiendo todas las consecuencias académicas que se deriven de ello. Este deberá retornar a la institución con los cuadernos al día correspondientes a las clases que dejo de asistir debido a la sanción.
+
+En este caso el alumno comparecerá ante el Comité de convivencia para dar su versión de los hechos y realizar los descargos que considere pertinentes, previamente el comité de convivencia recogerá toda la información sobre el hecho, escuchará al estudiante e informará a la familia. Así mismo, el comité de convivencia, presentará toda la información que se ha recogido previamente sobre los hechos.
+
+Cuando se determine aplicar esta sanción se levantara un acta de la medida de Suspensión, de la cual se entregara copia a los padres del alumno. En todos los casos de suspensión el (la) estudiante deberá realizar una reflexión escrita sobre su comportamiento, analizando los factores que lo llevaron a él a incurrir actos tipificados como situaciones II o III, las consecuencias y los compromisos de cambio que asumirá. En el observador se consignarán los compromisos de mejoramiento asumidos por el (la) estudiante y el apoyo que recibirá de sus padres en el cumplimiento de dicho compromiso. Cabe anotar que la nota de comportamiento del estudiante implicado, se verá afectada por estos hechos.`
+},
+
+{
+    titulo: "Causales de suspensión",
+    palabras: [
+        "causales de suspension",
+        "causales de suspensión",
+        "causas de suspension",
+        "causas de suspensión",
+        "cuando se aplica la suspension",
+        "cuándo se aplica la suspensión",
+        "reincidencia faltas tipo II",
+        "reincidencia faltas tipo III",
+        "incumplimiento de compromisos",
+        "compromisos disciplinarios suspension"
+    ],
+    contenido: `CAUSALES DE SUSPENSIÓN.
+
+1. Reincidencia en faltas tipo II O III, teniendo matrícula condicional o acta de compromiso.
+
+2. El incumplimiento reiterado a sus compromisos.`
+},
+
+{
+    titulo: "Pérdida de cupo",
+    palabras: [
+        "perdida de cupo",
+        "pérdida de cupo",
+        "cancelacion de matricula",
+        "cancelación de matrícula",
+        "cancelar matricula",
+        "cancelar matrícula",
+        "cuando se pierde el cupo",
+        "cuándo se pierde el cupo",
+        "causales de perdida de cupo",
+        "causales de pérdida de cupo"
+    ],
+    contenido: `PÉRDIDA DE CUPO.
+
+Agotadas las instancias y el seguimiento en busca de un mejor comportamiento en el estudiante y así garantizar una sana convivencia, el comité de convivencia y el Consejo Directivo determinará la Cancelación de la Matrícula. Esta será comunicada por rectoría y coordinación, al incurrir el estudiante en cualquiera de las situaciones Tipo II o Tipo III.
+
+También son causales de pérdida de cupo, las siguientes:
+
+Perdida de año por dos veces consecutivas, durante su permanencia en la institución.
+
+Incumplimiento constante de sus compromisos académicos.
+
+Inasistencia constante.
+
+PARÁGRAFO 1: En cada uno de los pasos del proceso de seguimiento, según la gravedad de la falta se puede afectar el comportamiento con desempeño bajo (menos de 3.0) y la observación respectiva, excepto en situaciones académicas que no obedecen a incumplimiento de los compromisos.
+
+PARÁGRAFO 2: El desempeño bajo en comportamiento social es una de las acciones correctivas de la Institución Educativa. Ella podrá ser una de las causas de no continuidad en la misma. El estudiante que en todos los períodos tenga desempeño bajo en comportamiento, aunque tenga buen promedio académico, perderá el cupo en la Institución. El comité de convivencia será quien determine esta sanción previa recomendación de la Comisión de Evaluación y Promoción de Estudiantes, mediante resolución motivada con el respaldo del Consejo Directivo, con copias a los interesados y el archivo del plantel educativo.
+
+PARAGRAFO 3: La suspensión temporal de clases o del plantel educativo a un estudiante, causará efectos académicos, de las cuales las directivas no se harán responsables.
+
+PARAGRAFO 4. En ningún caso los docentes pueden afectar las notas del estudiante en la parte académica a consecuencia de su faltas disciplinarias.`
+},
+
+{
+    titulo: "En caso de consumo de sustancias psicoactivas",
+    palabras: [
+        "consumo de sustancias psicoactivas",
+        "consumo de sustancias",
+        "sustancias psicoactivas",
+        "que pasa si consume sustancias",
+        "qué pasa si consume sustancias",
+        "protocolo consumo sustancias",
+        "protocolo de consumo de sustancias",
+        "estudiante consumo sustancias",
+        "consumo spa",
+        "casos de consumo de sustancias"
+    ],
+    contenido: `EN CASO DE CONSUMO DE SUSTANCIAS PSICOACTIVAS.
+
+Una vez se establezca de manera objetiva que un estudiante está inmerso en situaciones de consumo de sustancias psicoactivas, la institución por intermedio de Coordinación, Rectoría y Orientación escolar procederá de la siguiente manera:
+
+1º. Notificación a los padres de familia.
+
+20. Remisión a comunidad terapéutica para apoyo familiar y al estudiante, ya sea a psicología del Hospital San Roque, EPS`
+},
+
+
+{
+    titulo: "En caso de consumo de sustancias psicoactivas: continuación",
+    palabras: [
+        "informes entidad sustancias psicoactivas",
+        "solicitar informes entidad",
+        "orientacion sobre apoyo al estudiante",
+        "orientación sobre apoyo al estudiante",
+        "apoyo al estudiante",
+        "omision de procedimientos familia",
+        "omisión de procedimientos familia",
+        "remision a otra entidad",
+        "remisión a otra entidad",
+        "familia del joven"
+    ],
+    contenido: `EN CASO DE CONSUMO DE SUSTANCIAS PSICOACTIVAS.
+
+3º. Solicitar informes a la entidad con el objetivo de recibir orientación sobre el apoyo que se debe prestar al estudiante en la institución.
+
+5°. La omisión de estos procedimientos por parte de la familia del joven se constituye en causal para la remisión a otra entidad mayor jerarquía.`
+},
+
+{
+    titulo: "Artículo 27: Comité Institucional de Convivencia Escolar",
+    palabras: [
+        "articulo 27",
+        "artículo 27",
+        "comite institucional de convivencia escolar",
+        "comité institucional de convivencia escolar",
+        "comite de convivencia escolar",
+        "comité de convivencia escolar",
+        "que es el comite de convivencia",
+        "qué es el comité de convivencia",
+        "funcion del comite de convivencia",
+        "función del comité de convivencia",
+        "maxima instancia convivencia escolar",
+        "máxima instancia convivencia escolar"
+    ],
+    contenido: `ARTICULO 27°. COMITÉ INSTITUCIONAL DE CONVIVENCIA ESCOLAR.
+
+De acuerdo con lo establecido por la ley, es la máxima instancia en el manejo, orientación y activación de la ruta para la atención de los casos que afectan la convivencia escolar en La Institución Educativa Delicias - San Carlos constituido por los estamentos establecidos en la norma, cuya tarea será la de "apoyar la labor de promoción y seguimiento a la convivencia escolar, a la educación para el ejercicio de los derechos humanos, sexuales y reproductivos, así como el desarrollo y aplicación del Manual de Convivencia y de la prevención y mitigación de la violencia escolar" (Decreto 1965, Art. 22).
+
+El comité tendrá entre sus actividades:
+
+Identificar, analizar y resolver los conflictos que se presenten entre estudiantes y docentes, directivos y estudiantes, entre estudiantes y entre docentes.
+
+Liderar acciones que fomenten la convivencia, la construcción de ciudadanía, el ejercicio de los derechos humanos, sexuales y reproductivos (DHSR) y la prevención y mitigación de la violencia escolar entre los miembros de la comunidad educativa.
+
+Promover la vinculación a programas y actividades que respondan a las necesidades de la comunidad educativa.`
+},
+
+{
+    titulo: "Artículo 28: Funciones del Comité de Convivencia Escolar y sus miembros",
+    palabras: [
+        "articulo 28",
+        "artículo 28",
+        "funciones del comite de convivencia",
+        "funciones del comité de convivencia",
+        "funciones del comite de convivencia escolar",
+        "funciones del comité de convivencia escolar",
+        "funciones de los miembros del comite",
+        "funciones de los miembros del comité",
+        "que hace el comite de convivencia",
+        "qué hace el comité de convivencia",
+        "ley 1620 funciones comite",
+        "decreto 1965 funciones comite"
+    ],
+    contenido: `ARTICULO 28°. FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR Y SUS MIEMBROS.
+
+Acorde con lo establecido por la ley 1620 de 2013, Decreto reglamentario 1965 de 2013 y manual de convivencia, se adoptan las funciones a saber:
+
+1. Identificar, documentar, analizar y resolver los conflictos que se presenten entre docentes y estudiantes, directivos y estudiantes, entre estudiantes y entre docentes.
+
+2. Liderar en los establecimientos educativos acciones que fomenten la convivencia, la construcción de ciudadanía, el ejercicio de los derechos humanos, sexuales y reproductivos y la prevención y mitigación de la violencia escolar entre los miembros de la comunidad educativa.
+
+3. Promover la vinculación de los establecimientos educativos a estrategias, programas y actividades de convivencia y construcción de ciudadanía que se adelanten en la región y que respondan a las necesidades de su comunidad educativa.
+
+4. Convocar a un espacio de conciliación para la resolución de situaciones Conflictivas que afecten la convivencia escolar, por solicitud de cualquiera de los miembros de la comunidad educativa o de oficio cuando se estime conveniente en procura de evitar perjuicios irremediables a los miembros de la comunidad educativa. El estudiante estará acompañado por el padre, madre de familia, acudiente o un compañero del establecimiento educativo.
+
+5. Activar la Ruta de Atención Integral para la Convivencia Escolar definida en el artículo 29 de la ley 1620 de 2013, frente a situaciones específicas de conflicto, de acoso escolar, frente a las conductas de alto riesgo de violencia escolar o de vulneración de derechos sexuales y reproductivos que no pueden ser resueltos por este comité de acuerdo con lo establecido en el manual de convivencia, porque trascienden del ámbito escolar, y revistan las características de la comisión de una conducta punible, razón por la cual deben ser atendidos por otras instancias o autoridades que hacen parte de la estructura del Sistema y de la Ruta.`
+},
+
+
+{
+    titulo: "Artículo 28: Funciones del Comité de Convivencia Escolar y sus miembros - Numerales 6, 7 y 8",
+    palabras: [
+        "funciones del comité de convivencia",
+        "funciones del comité escolar de convivencia",
+        "numeral 6 comité de convivencia",
+        "numeral 7 comité de convivencia",
+        "numeral 8 comité de convivencia",
+        "estrategias de convivencia escolar",
+        "seguimiento manual de convivencia",
+        "estrategias pedagógicas",
+        "instrumentos de convivencia",
+        "derechos humanos sexuales y reproductivos"
+    ],
+    contenido: `ARTICULO 28°. FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR Y SUS MIEMBROS.
+
+6. Liderar el desarrollo de estrategias e instrumentos destinados a promover y evaluar la convivencia escolar, el ejercicio de los derechos humanos sexuales y reproductivos.
+
+7. Hacer seguimiento al cumplimiento de las disposiciones establecidas' en el manual de convivencia, y presentar informes a la respectiva instancia que hace parte de la estructura del Sistema Nacional De Convivencia Escolar y Formación para los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar, de los casos o situaciones que haya conocido el comité.
+
+8. Proponer, analizar y viabilizar estrategias pedagógicas que permitan la flexibilización del modelo pedagógico y la articulación de diferentes áreas de estudio que lean el contexto educativo y su pertinencia en la comunidad para determinar más y mejores maneras de relacionarse en la construcción de la ciudadanía.`
+},
+
+{
+    titulo: "Artículo 29: Acciones de promoción",
+    palabras: [
+        "acciones de promoción",
+        "articulo 29",
+        "artículo 29",
+        "promoción de la convivencia",
+        "acciones del comité de convivencia",
+        "ajuste del manual de convivencia",
+        "talleres de convivencia",
+        "mediación y conciliación",
+        "educación para la sexualidad",
+        "construcción de ciudadanía",
+        "competencias ciudadanas",
+        "derechos humanos sexuales y reproductivos"
+    ],
+    contenido: `ARTICULO 29°. ACCIONES DE PROMOCIÓN.
+
+En virtud del componente de promoción, el Comité Escolar de Convivencia adelantará las siguientes acciones:
+
+Liderar el ajuste del Manual de Convivencia.
+
+Liderar iniciativas a través de talleres, orientados por la personería Municipal, defensoría del pueblo, comisaria de familia, en formación de la comunidad educativa en temáticas tales como derechos, mediación y conciliación, para fortalecer el Sistema institucional de ciudadanas, desarrollo infantil y adolescente, convivencia humanos, sexuales y reproductivos, sexualidad, competencias Convivencia Escolar.
+
+Fortalecer la implementación de proyectos pedagógicos de educación para la sexualidad y construcción de ciudadanía desde preescolar, que correspondan a las particularidades socioculturales locales y departamentales. Con el fin de que, progresivamente, del contexto de la institución, por medio de alianzas con entidades vayan desarrollando las competencias que facilitan la toma de decisiones autónomas frente al ejercicio de la sexualidad y la realización de proyectos de vida.`
+},
+
+{
+    titulo: "Artículo 30: Acciones de atención",
+    palabras: [
+        "acciones de atención",
+        "articulo 30",
+        "artículo 30",
+        "atención convivencia escolar",
+        "atender situaciones de convivencia",
+        "derechos humanos sexuales y reproductivos",
+        "protocolos internos",
+        "protocolos de atención",
+        "Sistema Nacional de Convivencia Escolar"
+    ],
+    contenido: `ARTICULO 30°. ACCIONES DE ATENCIÓN.
+
+Serán acciones de atención aquellas que permitan asistir a los miembros de la comunidad educativa frente a las situaciones que afectan la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos, mediante la implementación y aplicación de los protocolos internos del establecimiento educativo y la activación cuando fuere necesario, de los protocolos de atención que para el efecto se tengan implementados por parte de los demás actores que integran el Sistema Nacional de Convivencia Escolar en el ámbito de su competencia.`
+},
+
+{
+    titulo: "Artículo 31: Acciones de prevención",
+    palabras: [
+        "acciones de prevención",
+        "articulo 31",
+        "artículo 31",
+        "prevención de la violencia escolar",
+        "prevencion convivencia escolar",
+        "prevención convivencia escolar",
+        "prevenir comportamientos",
+        "derechos humanos sexuales y reproductivos",
+        "prevenir conflictos",
+        "convivencia de la comunidad educativa"
+    ],
+    contenido: `ARTICULO 31°. ACCIONES DE PREVENCIÓN.
+
+Se consideran acciones de prevención las que buscan intervenir oportunamente en los comportamientos que podrían afectar la realización efectiva de los derechos humanos, sexuales y reproductivos con el fin de evitar que se constituyan en patrones de interacción que alteren la convivencia de los miembros de la comunidad educativa.`
+},
+
+
+{
+    titulo: "Artículo 31: Acciones de prevención - Acciones de prevención y pérdida del cupo",
+    palabras: [
+        "acciones de prevención",
+        "acciones de prevención convivencia",
+        "identificación de riesgos",
+        "riesgos de convivencia escolar",
+        "riesgos convivencia",
+        "derechos humanos sexuales y reproductivos",
+        "acciones pedagógicas",
+        "charlas de prevención",
+        "talleres de prevención",
+        "conferencias de prevención",
+        "perdida del cupo",
+        "pérdida del cupo",
+        "reprobar dos veces",
+        "reprobar un grado"
+    ],
+    contenido: `ARTICULO 31°. ACCIONES DE PREVENCIÓN.
+
+Hacen parte de las acciones de prevención:
+
+La identificación de los riesgos de ocurrencia de las situaciones más comunes que afectan la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos, a partir de las particularidades del clima escolar y del análisis de las características familiares, sociales, políticas, económicas y culturales externas, que de la institución de acuerdo con lo establecido en el numeral 5 del artículo 17 de la Ley 1620 de 2013 inciden en las relaciones interpersonales de la comunidad educativa.
+
+Diseño e implementación de acciones pedagógicas como charlas, talleres, conferencias, diálogos entre otras, que contribuyen a la mitigación de las situaciones que estén afectando la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos en los niño, niñas y jóvenes de la Institución.
+
+PARAGRAFO: Perdida del Cupo, teniendo en cuenta lo normado en la ley General de Educación y sentencias de la corte constitucional, el estudiante que luego de reprobar dos a mas veces un grado perderá el cupo de manera automática.`
+},
+
+{
+    titulo: "Artículo 32: Gobierno Escolar",
+    palabras: [
+        "gobierno escolar",
+        "articulo 32",
+        "artículo 32",
+        "definicion de gobierno escolar",
+        "definición de gobierno escolar",
+        "orientacion de la institucion",
+        "orientación de la institución",
+        "direccion de la institucion",
+        "dirección de la institución",
+        "administracion de la institucion",
+        "administración de la institución",
+        "consejo directivo",
+        "consejo academico",
+        "consejo académico",
+        "rector",
+        "comunidad educativa",
+        "estudiantes",
+        "padres de familia",
+        "docentes",
+        "directivos docentes",
+        "egresados"
+    ],
+    contenido: `ARTICULO 32°. GOBIERNO ESCOLAR.
+
+DEFINICIÓN. Se define como el conjunto de personas y órganos encargados de la orientación, dirección y administración de la institucion educativa. Estos órganos de gobierno se constituyen posibilitando la participación democrática de todos los estamentos de la comunidad educativa de la institucion (artículo 142 de la Ley 115 de 1.994).
+
+De acuerdo con la Ley General de Educación y el artículo 18 del Decreto 1860 de 1.994, la comunidad educativa está constituida por las personas que tienen responsabilidades directas en la organización, desarrollo y evaluación del Proyecto Educativo que se ejecuta en la Institución Educativa.
+
+Dicha comunidad educativa se compone de:
+1) Estudiantes.
+2) Padres de familia y/o acudientes.
+3) Docentes.
+4) Directivos docentes.
+5) Egresados.
+
+Todos ellos competentes para participar en la dirección de las instituciones de educación y lo harán por medio de sus representantes en los órganos del gobierno escolar.
+
+1. El Consejo Directivo, instancia directiva, de participación de la comunidad educativa y de orientación académica y administrativa del establecimiento.
+
+2. El Consejo Académico, instancia superior para participar en la orientación pedagógica del establecimiento.
+
+3. El Rector, representante del establecimiento ante las autoridades educativas y ejecutor de las decisiones del gobierno escolar.`
+},
+
+{
+    titulo: "Artículo 33: Funciones del Consejo Directivo",
+    palabras: [
+        "funciones del consejo directivo",
+        "consejo directivo",
+        "articulo 33",
+        "artículo 33",
+        "funciones consejo directivo",
+        "decisiones de la institucion",
+        "decisiones de la institución",
+        "conflictos docentes estudiantes",
+        "manual de convivencia",
+        "reglamento de la institucion",
+        "reglamento de la institución",
+        "asignacion de cupos",
+        "asignación de cupos",
+        "defensa de derechos",
+        "plan anual de actualizacion academica",
+        "plan anual de actualización académica",
+        "proyecto educativo institucional",
+        "curriculo",
+        "currículo",
+        "plan de estudios"
+    ],
+    contenido: `ARTICULO 33°. FUNCIONES DEL CONSEJO DIRECTIVO.
+
+De acuerdo con el artículo 144 de la Ley 115 de 1994 y el artículo 23 del Decreto 1860 de 1994, son las siguientes:
+
+1. Tomar las decisiones que afecten el funcionamiento de la institución, excepto las que sean competencia de otra autoridad.
+
+2. Servir de instancia para resolver los conflictos que se presenten entre los docentes y administrativos con los estudiantes del establecimiento educativo y después de haber agotado los procedimientos previstos en el reglamento o manual de convivencia.
+
+3. Adoptar el manual de convivencia y el reglamento de la institución.
+
+4. Fijar los criterios para la asignación de cupos disponibles para la admisión de nuevos estudiantes.
+
+5. Asumir la defensa y garantía de los derechos de toda la comunidad educativa, cuando alguno de sus miembros se sienta lesionado.
+
+6. Aprobar el plan anual de actualización académica del personal docente presentado por el Rector.
+
+7. Participar en la planeación y evaluación del proyecto educativo institucional, del currículo y del plan de estudios y someterlos a la consideración de la Secretaría de Educación respectiva o del organismo que haga sus veces, para que verifiquen el cumplimiento de los requisitos establecidos en la ley y los reglamentos.
+
+8. Estimular y controlar institución educativa: el buen funcionamiento de la institución educativa.`
+},
+
+
 
 ];
 
