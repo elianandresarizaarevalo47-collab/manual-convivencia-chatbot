@@ -7929,6 +7929,595 @@ Cuando por razones de salud que impida la realización de ejercicios físicos en
 },
 
 
+{
+    titulo: "Artículo cincuenta y seis: Deberes de los padres de familias",
+    palabras: [
+        "articulo cincuenta y seis",
+        "artículo cincuenta y seis",
+        "deberes de los padres",
+        "deberes de los padres de familia",
+        "deberes de los padres de familias",
+        "obligaciones de los padres",
+        "responsabilidades de los padres",
+        "padres de familia",
+        "padres de familias",
+        "informacion sobre el proceso de formacion",
+        "información sobre el proceso de formación",
+        "asistir a convocatorias",
+        "solicitar informes",
+        "hacer sugerencias",
+        "presentar quejas",
+        "enviar al estudiante uniformado",
+        "costos educativos",
+        "asistir a reuniones",
+        "manual de convivencia",
+        "consejo de padres"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y SEIS. DEBERES DE LOS PADRES DE FAMILIAS.
+
+Los padres de familias de la Institución Educativa Delicias-San Carlos, tienen los siguientes deberes:
+
+Recibir información permanente sobre el proceso de formación de su hijo o hija, para lo cual deberá asistir cada vez que se le convoque y cuando el así lo considere.
+
+Solicitar informes sobre cualquier actividad que se realice en el plantel.
+
+Hacer sugerencias que vayan en pro de la mejoría del plantel.
+
+Presentar las quejas formales ante las autoridades del plantel si considera que su hijo o hija no está recibiendo los conocimientos adecuados en una o en varias áreas.
+
+Enviar al estudiante debidamente uniformado y bien presentado al plantel.
+
+Cancelar oportunamente los costos educativos contemplados en el contrato de matricula.
+
+Asistir puntualmente a las invitaciones que le hagan los directivos y profesores de la institución.
+
+Dar a conocer y hacer cumplir el manual de convivencia de la institución a su hijo o hija.
+
+Promover y participar en el proceso de constitución del consejo`
+},
+
+
+{
+    titulo: "Artículo cincuenta y seis: Deberes de los padres de familias",
+    palabras: [
+        "articulo cincuenta y seis",
+        "artículo cincuenta y seis",
+        "deberes de los padres",
+        "deberes de los padres de familia",
+        "deberes de los padres de familias",
+        "obligaciones de los padres",
+        "responsabilidades de los padres",
+        "padres de familia",
+        "padres de familias",
+        "consejo de padres",
+        "costos de daños",
+        "orientadora escolar",
+        "excusas firmadas",
+        "inasistencia por enfermedad",
+        "colaborar con actividades",
+        "buen nombre de la institucion",
+        "buen nombre de la institución",
+        "amonestacion escrita",
+        "amonestación escrita",
+        "estimulos por buen comportamiento",
+        "estímulos por buen comportamiento",
+        "formacion integral",
+        "formación integral",
+        "ser escuchados",
+        "buen trato",
+        "acceso al manual de convivencia"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y SEIS. DEBERES DE LOS PADRES DE FAMILIAS.
+
+Promover y participar en el proceso de constitución del consejo de padres, como apoyo a la función pedagógica que les compete.
+
+Asumir los costos de los daños que en ocasiones pueda realizar su acudido dentro del colegio o en propiedad de terceras personas.
+
+Recibir los consejos de la orientadora escolar respecto de la formación de sus hijos.
+
+Enviar excusas firmadas con su puño y letra cuando por algunas de las causas contempladas en este manual no pueda asistir al colegio.
+
+Cuando su acudido o acudida presenta dos días de inasistencia por enfermedad, debe llevarlo(a) al médico, solicitar excusa médica y enviarla al plantel para justificar sus inasistencias.
+
+Colaborar con las actividades que se programen para el beneficio del colegio.
+
+Defender y cuidar el buen nombre de la Institución Educativa Delicias-San Carlos.
+
+Firmar cualquier amonestación escrita que se le haga a su acudido con justa causa.
+
+Recibir estímulos por el buen comportamiento de su acudido(a).
+
+Velar por que su hijo(a) reciba una formación integral y actualizada que responda a las necesidades del hombre de hoy, reflejados en el PEI.
+
+Ser escuchados y recibir un buen trato por todos los funcionarios del plantel.
+
+Tener acceso al manual de convivencia.`
+},
+
+
+{
+    titulo: "Artículo cincuenta y seis: Deberes de los padres de familias",
+    palabras: [
+        "articulo cincuenta y seis",
+        "artículo cincuenta y seis",
+        "deberes de los padres",
+        "deberes de los padres de familia",
+        "deberes de los padres de familias",
+        "seguimiento academico",
+        "seguimiento académico",
+        "seguimiento comportamental",
+        "situacion academica",
+        "situación académica",
+        "situacion comportamental",
+        "situación comportamental",
+        "escoger institucion educativa",
+        "escoger institución educativa",
+        "anomalías del colegio",
+        "anomalias del colegio",
+        "horarios de profesores",
+        "recursos del plantel",
+        "buen trato al hijo",
+        "apoyar actividades escolares"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y SEIS. DEBERES DE LOS PADRES DE FAMILIAS.
+
+Conocer oportunamente el seguimiento sobre la situación académica y comportamental de su acudido(a).
+
+Escoger la institución que considere para la educación de su hijo(a).
+
+Informar a la directiva del plantel sobre anomalías que se estén presentando en el colegio, para que se apliquen los correctivos oportunos.
+
+Conocer los horarios disponibles de los profesores y demás personal que labora en el plantel para facilitar la comunicación necesaria que ayuda a una formación eficaz del alumno(a).
+
+Conocer acerca de los recursos del plantel.
+
+Dar un buen trato a su hijo y apoyarlo en sus actividades escolares.`
+},
+
+{
+    titulo: "Artículo cincuenta y siete: Derechos de los padres de familias",
+    palabras: [
+        "articulo cincuenta y siete",
+        "artículo cincuenta y siete",
+        "derechos de los padres",
+        "derechos de los padres de familia",
+        "derechos de los padres de familias",
+        "solicitar cupo",
+        "cupo para mi hijo",
+        "trato respetuoso",
+        "respeto a los padres",
+        "eleccion del gobierno escolar",
+        "elección del gobierno escolar",
+        "elegir y ser elegido",
+        "reclamar sobre la educacion",
+        "reclamar sobre la educación",
+        "informes periodicos",
+        "informes periódicos",
+        "avances del estudiante",
+        "dificultades del estudiante",
+        "representar la institucion",
+        "representar la institución",
+        "calidad educativa",
+        "descargos",
+        "voz y voto",
+        "asociacion de padres",
+        "asociación de padres",
+        "consejo de padres",
+        "consejo directivo",
+        "matricular a mi hijo",
+        "peticiones formales",
+        "derechos como persona"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y SIETE. DERECHOS DE LOS PADRES DE FAMILIAS.
+
+Son derechos de los padres de familias:
+
+Solicitar el cupo para su hijo o hija, en la forma establecida por la institución.
+
+Ser tratado con mucho respeto por todos los miembros de la comunidad educativa.
+
+Participar en la elección de los distintos órganos del gobierno escolar, con derecho a elegir y ser elegido.
+
+Reclamar de buen modo sobre asuntos que tienen que ver con la educación de su acudido(a).
+
+Recibir informes periódicos y fidedignos sobre los avances y las dificultades del estudiante.
+
+Representar la institución en eventos que requieran de la presencia de los padres de familias.
+
+Exigir calidad en los procesos educacionales de su hijo(a).
+
+Ser escuchado en descargos sobre incumplimientos pactados con la institución.
+
+Tener derecho a voz y voto en las deliberaciones que se hagan en la asociación de padres de familias, consejos de padres y consejo directivo.
+
+Matricular su hijo(a) en la institución que mejor considere.
+
+Ser informado oportunamente sobre los avances o dificultades de su acudido(a).
+
+Hacer peticiones formales al plantel sobre cualquier situación en particular.
+
+A que se le respeten todos sus derechos como persona.`
+},
+
+
+{
+    titulo: "Artículo cincuenta y ocho: Derechos de los docentes",
+    palabras: [
+        "articulo cincuenta y ocho",
+        "artículo cincuenta y ocho",
+        "derechos de los docentes",
+        "derechos de los profesores",
+        "docentes",
+        "profesores",
+        "asociaciones sindicales",
+        "remuneracion docente",
+        "remuneración docente",
+        "ascenso docente",
+        "carrera docente",
+        "capacitacion docente",
+        "capacitación docente",
+        "bienestar social",
+        "estimulos profesionales",
+        "estímulos profesionales",
+        "vacaciones remuneradas",
+        "prestaciones sociales",
+        "permisos docentes",
+        "licencias docentes",
+        "comisiones docentes",
+        "permanencia en el servicio",
+        "no discriminacion docente",
+        "no discriminación docente"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y OCHO. DERECHOS DE LOS DOCENTES.
+
+Formar asociaciones sindicales con capacidad legal para representar a sus afiliados en la formulación de reclamos y solicitudes ante las autoridades del orden Nacional y Seccional.
+
+Percibir oportunamente la remuneración asignada para el respectivo cargo y grado en el escalafón.
+
+Ascender dentro de la carrera docente.
+
+Participar de los programas de capacitación, bienestar social y gozar de los estímulos de carácter profesional y económico que se establezcan.
+
+Disfrutar de vacaciones remuneradas.
+
+Obtener el reconocimiento y pago de las prestaciones sociales de ley.
+
+Solicitar y obtener los permisos, licencias y comisiones, de acuerdo con las disposiciones legales pertinentes.
+
+Permanecer en el servicio y no ser desvinculado o sancionado, si no de acuerdo con las normas y procedimientos vigentes.
+
+No ser discriminado por la razón de sus creencias políticas y religiosas ni por distinciones fundadas en condiciones sociales o raciales.
+
+Los demás establecidos en las normas vigentes.`
+},
+
+{
+    titulo: "Artículo cincuenta y nueve: Deberes de los docentes",
+    palabras: [
+        "articulo cincuenta y nueve",
+        "artículo cincuenta y nueve",
+        "deberes de los docentes",
+        "deberes de los profesores",
+        "obligaciones de los docentes",
+        "cumplir la constitucion",
+        "cumplir la constitución",
+        "cumplir las leyes de colombia",
+        "valores historicos",
+        "valores históricos",
+        "valores culturales",
+        "simbolos patrios",
+        "símbolos patrios",
+        "funciones del cargo",
+        "ordenes de superiores",
+        "órdenes de superiores",
+        "trato cortes",
+        "trato cortés",
+        "solidaridad",
+        "unidad de proposito",
+        "unidad de propósito",
+        "jornada laboral",
+        "jornada escolar"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y NUEVE. DEBERES DE LOS DOCENTES.
+
+Cumplir la Constitución y las leyes de Colombia.
+
+Inculcar en los educandos el amor a los valores históricos y culturales de la Nación y el respeto a los símbolos patrios.
+
+Desempeñar con solicitud y eficiencia las funciones de su cargo.
+
+Cumplir las órdenes inherentes a su cargo que les impartan sus superiores jerárquicos.
+
+Dar un trato cortés a sus compañeros y subordinados y compartir sus tareas con espíritu de solidaridad y unidad de propósito.
+
+Cumplir la jornada laboral y escolar y dedicar la totalidad del tiempo reglamentario a las funciones propias de su cargo.`
+},
+
+
+{
+    titulo: "Artículo cincuenta y nueve: Deberes de los docentes",
+    palabras: [
+        "articulo cincuenta y nueve",
+        "artículo cincuenta y nueve",
+        "deberes de los docentes",
+        "deberes de los profesores",
+        "obligaciones de los docentes",
+        "conservacion de documentos",
+        "conservación de documentos",
+        "cuidar utiles",
+        "cuidar útiles",
+        "cuidar equipos",
+        "cuidar muebles",
+        "cuidar bienes",
+        "conducta publica",
+        "conducta pública",
+        "decoro del cargo",
+        "dignidad del cargo",
+        "presentacion personal docente",
+        "presentación personal docente",
+        "vestido docente",
+        "calzado docente",
+        "medias docente",
+        "leyes y reglamentos"
+    ],
+    contenido: `ARTÍCULO CINCUENTA Y NUEVE. DEBERES DE LOS DOCENTES.
+
+Velar por la conservación de documentos, útiles, equipos, muebles y bienes que le sean confiados.
+
+Observar una conducta pública acorde con el decoro y la dignidad del cargo.
+
+Mantener una presentación personal decente (vestido, calzado, medias,) entre otras.
+
+Las demás que determinen las leyes y reglamentos ejecutivos.`
+},
+
+{
+    titulo: "Artículo sesenta: Prohibiciones a los docentes",
+    palabras: [
+        "articulo sesenta",
+        "artículo sesenta",
+        "prohibiciones a los docentes",
+        "prohibiciones de los docentes",
+        "prohibiciones de los profesores",
+        "abandonar labores",
+        "suspender labores",
+        "castigos denigrantes",
+        "castigos fisicos",
+        "castigos físicos",
+        "documentos falsos",
+        "informacion falsa",
+        "información falsa",
+        "escalafon docente",
+        "escalafón docente",
+        "nombramientos",
+        "traslados",
+        "licencias",
+        "comisiones",
+        "proselitismo politico",
+        "proselitismo político",
+        "incumplir deberes",
+        "traficar calificaciones",
+        "traficar certificados",
+        "malversar fondos",
+        "bienes escolares",
+        "estado de embriaguez",
+        "toxicomania",
+        "toxicomanía",
+        "abandonar el cargo"
+    ],
+    contenido: `ARTÍCULO SESENTA. PROHIBICIONES A LOS DOCENTES.
+
+Abandonar y suspender las labores injustificadamente o sin autorización previa.
+
+Aplicar castigos denigrantes o físicos a los educandos.
+
+Usar documentos o informaciones falsas para inscripción o ascenso en el escalafón o para tener nombramientos, traslados, licencias o comisiones.
+
+La utilización de la cátedra para hacer proselitismo político.
+
+Incumplir sistemáticamente los deberes.
+
+Traficar con calificaciones, certificados de estudio, de trabajo o documentos públicos.
+
+Malversar fondos de bienes escolares o cooperativos.
+
+Practicar el homosexualismo, lesbianismo y otras aberraciones sexuales.
+
+Asistir habitualmente al sitio de trabajo en estado de embriague o toxicomanía.
+
+Abandonar el cargo.`
+},
+
+
+{
+    titulo: "Artículo sesenta y uno: Estímulos para los directivos, docentes y administrativos",
+    palabras: [
+        "articulo sesenta y uno",
+        "artículo sesenta y uno",
+        "estimulos para docentes",
+        "estímulos para docentes",
+        "estimulos para directivos",
+        "estímulos para directivos",
+        "estimulos para administrativos",
+        "estímulos para administrativos",
+        "reconocimiento a docentes",
+        "reconocimiento a directivos",
+        "reconocimiento a administrativos",
+        "exaltacion en asamblea",
+        "exaltación en asamblea",
+        "condecoracion con la bandera",
+        "condecoración con la bandera",
+        "cuadro de honor institucional",
+        "mencion de honor",
+        "mención de honor",
+        "placa de reconocimiento",
+        "responsabilidad",
+        "compromiso",
+        "profesionalismo",
+        "etica docente",
+        "ética docente",
+        "perfil idescano",
+        "perfil IDESCANO"
+    ],
+    contenido: `ARTÍCULO SESENTA Y UNO. ESTÍMULOS PARA LOS DIRECTIVOS, DOCENTES Y ADMINISTRATIVOS.
+
+Se considera estímulo toda motivación o acto de reconocimiento a las personas que dentro y fuera de la institución se han destacado positivamente en el desarrollo de las distintas actividades del proceso de formación. También se define como el premio que debe recibir un docente o administrativo por el alto grado de responsabilidad, compromiso, profesionalismo y ética con el que ha asumido el desempeño de sus funciones. La institución ha definido las siguientes valoraciones para determinar los estímulos:
+
+Exaltación en asamblea de estudiantes, padres de familias.
+
+Condecoración con la bandera tricolor.
+
+Fijación en el cuadro de honor institucional por periodo.
+
+Reconocimiento mediante entrega de mención de honor y/o placa en la Asamblea general de padres de familias, u acto de grado.
+
+Con esto se busca despertar el interés y crear en el Directivo, docente, administrativo, el sentido de la responsabilidad, pertenencia, compromiso, ética y profesionalismo en su labor diaria, en aras de alcanzar el perfil IDESCANO. (establecer indicadores)`
+},
+
+{
+    titulo: "Artículo sesenta y dos: Manual de funciones",
+    palabras: [
+        "articulo sesenta y dos",
+        "artículo sesenta y dos",
+        "manual de funciones",
+        "funciones de la comunidad educativa",
+        "funciones del personal",
+        "funciones de los trabajadores",
+        "normal desarrollo de actividades",
+        "funciones de cada estamento",
+        "ley 715",
+        "PEI"
+    ],
+    contenido: `ARTÍCULO SESENTA Y DOS. MANUAL DE FUNCIONES.
+
+Para facilitar el normal desarrollo de las actividades dentro del plantel, teniendo en cuenta el número de personas que laboran en el mismo, se ha elaborado un documento que contiene las funciones que debe cumplir cada uno de los estamentos que conforman la comunidad educativa. (Ver indicador Nº del PEI) actualizar con la ley 715.`
+},
+
+{
+    titulo: "Artículo sesenta y tres: Divulgación del presente Manual de Convivencia",
+    palabras: [
+        "articulo sesenta y tres",
+        "artículo sesenta y tres",
+        "divulgacion del manual",
+        "divulgación del manual",
+        "divulgacion del manual de convivencia",
+        "divulgación del manual de convivencia",
+        "como se divulga el manual",
+        "como se da a conocer el manual",
+        "estudio del manual de convivencia",
+        "analisis del manual",
+        "análisis del manual",
+        "diario discurrir",
+        "IDESCO stereo",
+        "emisora IDESCO",
+        "constitucion politica",
+        "constitución política",
+        "area de etica",
+        "área de ética",
+        "copia del manual",
+        "manual en la matricula",
+        "manual en la matrícula"
+    ],
+    contenido: `ARTÍCULO SESENTA Y TRES. DIVULGACIÓN DEL PRESENTE MANUAL DE CONVIVENCIA.
+
+Este manual de convivencia se divulgará a través del diario discurrir de las actividades escolares por medio de los profesores, directores de grupo, por los directivos, por los representantes de los padres de familias, por el personero, por los representantes del consejo estudiantil.
+
+Se aprovecharán las clases, las formaciones generales, los actos cívicos, la emisora IDESCO stereo, de igual se constituirá en una unidad de contenido básico en la asignatura de constitución política y en el área de ética.
+
+Los directores de grupos abrirán espacios de estudio y análisis de dicho manual, se le entregará una copia de dicho manual al padre de familias y al estudiante en el momento de la matrícula junto con el contrato para la misma.`
+},
+
+{
+    titulo: "Artículo sesenta y cuatro: Aplicación del presente Manual de Convivencia",
+    palabras: [
+        "articulo sesenta y cuatro",
+        "artículo sesenta y cuatro",
+        "aplicacion del manual",
+        "aplicación del manual",
+        "aplicacion del manual de convivencia",
+        "aplicación del manual de convivencia",
+        "quienes aplican el manual",
+        "responsabilidades en la aplicacion",
+        "responsabilidades en la aplicación",
+        "cumplimiento del manual",
+        "cumplimiento de las normas",
+        "sana convivencia",
+        "desarrollo integral de los educandos"
+    ],
+    contenido: `ARTÍCULO SESENTA Y CUATRO. APLICACIÓN DEL PRESENTE MANUAL DE CONVIVENCIA.
+
+Todos los entes que conforman esta comunidad educativa tienen responsabilidades en la aplicación de este manual de convivencia, dado que su fin es lograr una sana convivencia entre sus miembros, por tanto, desde los estudiantes, padres de familias, docentes, directivos y demás miembros deben velar por el estricto cumplimiento de las normas aquí contempladas teniendo en cuenta que se persigue el desarrollo integral de los educandos.
+
+Téngase en cuenta las instancias para su aplicación.`
+},
+
+{
+    titulo: "Artículo sesenta y cinco: De la vigencia",
+    palabras: [
+        "articulo sesenta y cinco",
+        "artículo sesenta y cinco",
+        "vigencia del manual",
+        "vigencia del manual de convivencia",
+        "cuando entra en vigencia el manual",
+        "fecha de aprobacion",
+        "fecha de aprobación",
+        "deroga el manual anterior",
+        "manual anterior",
+        "vigencia"
+    ],
+    contenido: `ARTÍCULO SESENTA Y CINCO. DE LA VIGENCIA.
+
+El presente Acuerdo rige a partir de la fecha de su aprobación y deroga las disposiciones contempladas en el manual de convivencia anterior a la publicación de éste.`
+},
+
+
+{
+    titulo: "Cierre del Manual de Convivencia: Consejo Directivo",
+    palabras: [
+        "consejo directivo",
+        "cierre del manual",
+        "firmas del consejo directivo",
+        "dado en el copey",
+        "25 de septiembre de 2017",
+        "rector",
+        "docente",
+        "madre de familia",
+        "padre de familia",
+        "sector productivo",
+        "estudiante",
+        "ex alumno",
+        "exalumno"
+    ],
+    contenido: `Dado en El Copey a los 25 días del mes de Septiembre del año 2017.
+
+CONSEJO DIRECTIVO
+
+Esp. Pedro A. Habeych Ternera
+Rector.
+
+Lic. Berenis Bohórquez Salcedo
+Docente.
+
+Señora: Adis Rubio Suarez
+Madre de Familia.
+
+Señor: Sandra I. Silva Castro.
+Sector Productivo.
+
+Lic. Orlando R. González Fontalvo
+Docente.
+
+Señor: Amaury Coronel Buelvas
+Padre de Familia.
+
+Señorita: Claudia Angulo Mariottys
+Estudiante.
+
+Señora: Hilda Pacheco Villalba
+Ex - Alumno.`
+},
+
+
 
 ];
 
